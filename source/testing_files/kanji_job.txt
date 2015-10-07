@@ -1,0 +1,75 @@
+﻿に変換				->	BIẾN HOÁN
+文字					->	VĂN TỰ
+文字数				->	VĂN TỰ SỐ
+場合					->	TRANG HỢP
+続行する				->	TỤC HÀNH
+処理					->	XỬ LÍ
+カラム					->	cột column
+数					->	SỐ
+重複					->	TRỌNG PHỤC
+あなたへの思い			->	những suy nghĩ hướng về bạn
+に成功する。				->	THÀNH CÔNG
+に失敗する。				->	THẤT BẠI
+登録					->	ĐĂNG LỤC
+終了					->	CHUNG LIỆU
+開始					->	KHAI THUỶ
+正常					->	CHÍNH THƯỜNG
+異常					->	BẤT THƯỜNG
+店舗					->	ĐIẾM PHỐ
+価値					->	GIÁ TRỊ
+項目					->	HẠNG MỤC
+追加					->	TRUY GIA
+「へ」反映				->	PHẢN ÁNH
+存在する				->	TỒN TẠI
+発先					->	PHÁT TIÊN									Nơi đặt hàng
+発単					->	PHÁT ĐƠN
+入荷済				->	NHẬP HÀ(HẠ) TẾ
+予定数				->	DỰ ĐỊNH SỐ
+条件					->	ĐIỀU KIỆN
+表示					->	BIỂU THỊ
+更新					->	CANH TÂN
+新規					->	TÂN QUY
+企画					->	XÍ HOẠCH
+数値					->	SỐ TRỊ
+倍数					->	BỘI SỔ
+方式					->	PHƯƠNG THỨC
+不可					->	BẤT KHẢ
+遷移					->	THIÊN DI
+情報					->	TÌNH BÁO
+結果					->	KẾT QUẢ
+変更					->	BIẾN CANH
+参照					->	THAM CHIẾU								tham chiếu
+設定					->	THIẾT ĐỊNH								thiết lập
+備考					->	BỊ KHẢO
+引数					->	DẪN SỔ									tham số
+実行					->	THỰC HÀNH
+補足					->	BỔ TÚC
+在庫					->	TẠI KHỐ									tồn kho
+方法					->	PHƯƠNG PHÁP								phương pháp
+警告					->	CẢNH CÁO								warning
+以下					->	DĨ HẠ									Dưới đây; sau đây
+勧告数				->	KHUYẾN CÁO SỐ
+販売					->	PHIẾN MẠI								Việc bán
+発注					->	PHÁT CHỦ								Đặg hàng
+納品					->	NẠP PHẨM								Giao hàng
+作成					->	TÁC THÀNH
+参考					->	THAM KHẢO
+箇所					->	CÁ SỞ									Chỗ; nơi; địa điểm; điểm
+下記					->	HẠ KÍ									The following, sau đây
+様					->	DẠNG
+再度					->	TÁI ĐỘ									một lần nữa
+受入					->	THỤ NHẬP								Được chấp nhận
+了解					->	LIỄU GIẢI								Sự hiểu biết; sự nắm rõ .
+保存					->	BẢO TỒN									save
+変数					->	BIẾN SỔ									variable
+元					->	NGUYÊN									Nguyên bản; gốc; cơ sở; căn bản
+明細					->	MINH TẾ									detail, chi tiết 
+順番					->	THUẬN PHIÊN								thứ tự; lần lượt
+昇順					->	THĂNG THUẬN								Ascending-order
+業務					->	NGHIỆP VỤ
+説明					->	THUYẾT MINH								Description
+各					->	CÁC										Mỗi
+単位					->	ĐƠN VỊ
+取得					->	THỦ ĐẮC
+同様					->	ĐỒNG DẠNG								Giống; tương tự
+生成					->	SANH THÀNH								Tạo, tạo nên, tạo ra, tạo thành
