@@ -1,10 +1,11 @@
 package org.jpstool.main;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
 import java.util.List;
 
-public class WordItem {
+public class WordItem implements Serializable{
 	private String kanjiWord;
 	private String hanVietWord;
 	private String meaning;

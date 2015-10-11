@@ -33,7 +33,9 @@ public class TimerLoopMechanic implements LoopMechanic {
 
 			@Override
 			public void run() {
+				System.out.println("loop 1");
 				calBack.callBack(pickupEngine.pickUpWord(listWordItem));
+				System.out.println("loop ");
 			}
 		}, 0, timeLooping, TimeUnit.SECONDS);
 	}

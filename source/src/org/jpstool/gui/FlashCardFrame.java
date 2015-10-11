@@ -2,18 +2,25 @@ package org.jpstool.gui;
 
 import java.awt.BorderLayout;
 import java.awt.Container;
+import java.awt.Dimension;
 import java.awt.Font;
 import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
+import java.awt.Toolkit;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.io.File;
+import java.io.IOException;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;
+import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
+import org.jpstool.main.JPSConstant;
 import org.jpstool.main.WordItem;
+import org.jpstool.smartcore.ProfileManangement;
 
 public class FlashCardFrame extends JFrame {
 	private JTextField tfSmallKanjiText;
@@ -25,6 +32,7 @@ public class FlashCardFrame extends JFrame {
 
 	private JPanel mainPanel;
 	private WordItem currentWordItem;
+	private ProfileManangement pm;
 
 	public FlashCardFrame() {
 		init();
@@ -41,8 +49,10 @@ public class FlashCardFrame extends JFrame {
 
 		setSize(400, 300);
 		setDefaultCloseOperation(DISPOSE_ON_CLOSE);
+		setLocationRelativeTo(null);
 		setVisible(true);
 		this.pack();
+		pm = ProfileManangement.getInstance(new File(JPSConstant.CONST_FILE_PATH_PROFILE));
 	}
 
 	private void setupLayout() {
@@ -95,7 +105,16 @@ public class FlashCardFrame extends JFrame {
 
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				dispose();
+				try {
+					pm.increaseKnew(currentWordItem);
+					pm.save();
+					dispose();
+
+				} catch (IOException e1) {
+					JOptionPane.showMessageDialog(null, e1.getMessage());
+					e1.printStackTrace();
+				}
+
 			}
 		});
 
@@ -103,11 +122,21 @@ public class FlashCardFrame extends JFrame {
 
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				if (currentWordItem != null) {
-					new FlashResultFrame(currentWordItem).setVisible(true);
-				} else {
-					throw new IllegalStateException("Please set WordItem object for this frame");
+				try {
+					pm.increaseFail(currentWordItem);
+					pm.save();
+
+					if (currentWordItem != null) {
+						new FlashResultFrame(currentWordItem).setVisible(true);
+					} else {
+						throw new IllegalStateException("Please set WordItem object for this frame");
+					}
+
+				} catch (IOException e1) {
+					JOptionPane.showMessageDialog(null, e1.getMessage());
+					e1.printStackTrace();
 				}
+
 			}
 		});
 	}

@@ -9,6 +9,7 @@ import java.awt.GridBagLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.File;
+import java.io.IOException;
 
 import javax.swing.BoxLayout;
 import javax.swing.ButtonGroup;
@@ -21,6 +22,7 @@ import javax.swing.JPanel;
 import javax.swing.JRadioButton;
 import javax.swing.JTextField;
 
+import org.jpstool.main.JPSConstant;
 import org.jpstool.main.LoadWordPlainText;
 import org.jpstool.main.LoadWordsEngine;
 import org.jpstool.main.LoopMechanic;
@@ -28,10 +30,15 @@ import org.jpstool.main.PickUpWordEngineRandom;
 import org.jpstool.main.PickupWordEnigne;
 import org.jpstool.main.TimerLoopMechanic;
 import org.jpstool.main.WordItem;
+import org.jpstool.smartcore.ProfileManangement;
+import org.jpstool.smartcore.PickupWordEnigneSmart;
 
 public class FlashCardSettingFrame extends JFrame {
 	public static class FlashCardSettingDefault {
 		public static final int CONST_DEFAULT_INTERVAL = 90;
+		public static final int CONST_DEFAULT_PERCENT_NEW_WORD = 20;
+		public static final int CONST_DEFAULT_PERCENT_FAIL_WORD = 70;
+		public static final int CONST_DEFAULT_PERCENT_OLD_WORD = 10;
 	}
 
 	private Container container;
@@ -55,23 +62,40 @@ public class FlashCardSettingFrame extends JFrame {
 	private JButton btnApply;
 
 	private LoopMechanic loop;
+	ProfileManangement pm;
 
-	public FlashCardSettingFrame() {
+	public FlashCardSettingFrame() throws ClassNotFoundException, IOException {
 		init();
 		setupLayout();
 		initConfig();
 		bindingAction();
 		pack();
+
+		// initProfileManagement();
+	}
+
+	private void initProfileManagement() throws IOException, ClassNotFoundException {
+		File profileFile = new File(JPSConstant.CONST_FILE_PATH_PROFILE);
+		pm = ProfileManangement.getInstance(profileFile);
+		if (profileFile.isFile()) {
+			pm.load();
+		}
 	}
 
 	private void init() {
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
+		setLocationRelativeTo(null);
 		setSize(700, 600);
 	}
 
 	private void initConfig() {
 		enableComponents(panelPickupSmartOption, false);
 		tfInterval.setText(FlashCardSettingDefault.CONST_DEFAULT_INTERVAL + "");
+		tfSModeNewWord.setText(FlashCardSettingDefault.CONST_DEFAULT_PERCENT_NEW_WORD + "");
+		tfSModeFailWord.setText(FlashCardSettingDefault.CONST_DEFAULT_PERCENT_FAIL_WORD + "");
+		tfSModeOldWord.setText(FlashCardSettingDefault.CONST_DEFAULT_PERCENT_OLD_WORD + "");
+		
+		rbSmartMode.setSelected(true);
 	}
 
 	private void setupLayout() {
@@ -169,7 +193,18 @@ public class FlashCardSettingFrame extends JFrame {
 				try {
 					File kanjiFile = new File(tfKanjiFilePath.getText());
 					int intervalValue = Integer.parseInt(tfInterval.getText());
-					PickupWordEnigne pickUpWordEngine = new PickUpWordEngineRandom();
+
+					PickupWordEnigne pickUpWordEngine;
+					if (rbSmartMode.isSelected()) {
+						int percentNewWord = Integer.parseInt(tfSModeNewWord.getText());
+						int percentFailWord = Integer.parseInt(tfSModeFailWord.getText());
+						int percentOldWord = Integer.parseInt(tfSModeOldWord.getText());
+						pickUpWordEngine = new PickupWordEnigneSmart(new File(JPSConstant.CONST_FILE_PATH_PROFILE), percentNewWord, percentFailWord, percentOldWord);
+
+					} else {
+						pickUpWordEngine = new PickUpWordEngineRandom();
+					}
+
 					LoadWordsEngine loadWordsEngine = new LoadWordPlainText();
 
 					if (loop != null) {
@@ -203,7 +238,7 @@ public class FlashCardSettingFrame extends JFrame {
 		}
 	}
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws ClassNotFoundException, IOException {
 		new FlashCardSettingFrame().setVisible(true);
 	}
 }
