@@ -70,17 +70,13 @@ public class FlashCardSettingFrame extends JFrame {
 		initConfig();
 		bindingAction();
 		pack();
-
-		// initProfileManagement();
 	}
 
-	private void initProfileManagement() throws IOException, ClassNotFoundException {
-		File profileFile = new File(JPSConstant.CONST_FILE_PATH_PROFILE);
-		pm = ProfileManangement.getInstance(profileFile);
-		if (profileFile.isFile()) {
-			pm.load();
-		}
+	public FlashCardSettingFrame(String filePath) throws ClassNotFoundException, IOException {
+		this();
+		tfKanjiFilePath.setText(filePath);
 	}
+
 
 	private void init() {
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
@@ -94,7 +90,7 @@ public class FlashCardSettingFrame extends JFrame {
 		tfSModeNewWord.setText(FlashCardSettingDefault.CONST_DEFAULT_PERCENT_NEW_WORD + "");
 		tfSModeFailWord.setText(FlashCardSettingDefault.CONST_DEFAULT_PERCENT_FAIL_WORD + "");
 		tfSModeOldWord.setText(FlashCardSettingDefault.CONST_DEFAULT_PERCENT_OLD_WORD + "");
-		
+
 		rbSmartMode.setSelected(true);
 	}
 

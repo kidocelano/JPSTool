@@ -46,7 +46,7 @@ public class FlashResultFrame extends JFrame {
 	public FlashResultFrame() {
 		init();
 	}
-	
+
 	public FlashResultFrame(WordItem wordItem) {
 		init();
 		setDisplayWord(wordItem);
@@ -57,7 +57,7 @@ public class FlashResultFrame extends JFrame {
 		initScreen();
 		setupLayout();
 		setReadOnlyAllTextBox(false);
-
+		setLocationRelativeTo(null);
 		this.pack();
 	}
 

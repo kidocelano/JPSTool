@@ -131,7 +131,7 @@ public class FlashCardFrame extends JFrame {
 					} else {
 						throw new IllegalStateException("Please set WordItem object for this frame");
 					}
-
+					dispose();
 				} catch (IOException e1) {
 					JOptionPane.showMessageDialog(null, e1.getMessage());
 					e1.printStackTrace();

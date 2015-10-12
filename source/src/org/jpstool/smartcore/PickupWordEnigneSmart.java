@@ -28,7 +28,9 @@ public class PickupWordEnigneSmart implements PickupWordEnigne {
 	private float percentFailWord;
 	private float percentOldWord;
 
-	public PickupWordEnigneSmart(File profileFile, int percentNewWord, int percentFailWord, int percentOldWord) throws ClassNotFoundException, IOException {
+	public PickupWordEnigneSmart(File profileFile, int percentNewWord,
+			int percentFailWord, int percentOldWord)
+			throws ClassNotFoundException, IOException {
 		this.profileFile = profileFile;
 		this.percentNewWord = percentNewWord;
 		this.percentFailWord = percentFailWord;
@@ -49,13 +51,20 @@ public class PickupWordEnigneSmart implements PickupWordEnigne {
 	}
 
 	private void parseType() {
-		long sumTimes;
+		float sumTimes;
+		final int CONST_INIT_STANDARD = 10;
+		float percent;
 		for (ProfileLearning pl : listProfileLearing) {
 			sumTimes = pl.getKnewCount() + pl.getNotKnewCount();
 			if (sumTimes == 0) {
 				sumTimes = 1;
 			}
-			if ((pl.getKnewCount() / sumTimes) * 100 < CONST_PERCENT_FAIL_WORD) {
+
+			percent = ((float) ((float) pl.getKnewCount() / sumTimes) * 100);
+
+			if (percent < CONST_PERCENT_FAIL_WORD
+					|| percent >= CONST_PERCENT_FAIL_WORD
+					&& sumTimes < CONST_INIT_STANDARD) {
 				getProfilesList(PickupType.FAIL_WORD).add(pl);
 			}
 
@@ -85,14 +94,16 @@ public class PickupWordEnigneSmart implements PickupWordEnigne {
 		}
 	}
 
-	private List<WordItem> getRandomFormList(int times, List<ProfileLearning> profileList) {
+	private List<WordItem> getRandomFormList(int times,
+			List<ProfileLearning> profileList) {
 		List<WordItem> list = new ArrayList<>();
 		Random random = new Random();
 		if (profileList.size() == 0) {
 			return list;
 		}
 		for (int i = 0; i < times; i++) {
-			list.add(profileList.get(random.nextInt(profileList.size())).getWord());
+			list.add(profileList.get(random.nextInt(profileList.size()))
+					.getWord());
 		}
 		return list;
 	}
@@ -110,9 +121,15 @@ public class PickupWordEnigneSmart implements PickupWordEnigne {
 		float realPOldWord = percentOldWord / total;
 
 		List<WordItem> resultList = new ArrayList<>();
-		resultList.addAll(getRandomFormList(Math.round(realPNewWord * CONST_TOTAL_TIME_RANDOM), getProfilesList(PickupType.NEW_WORD)));
-		resultList.addAll(getRandomFormList(Math.round(realPFailWord * CONST_TOTAL_TIME_RANDOM), getProfilesList(PickupType.FAIL_WORD)));
-		resultList.addAll(getRandomFormList(Math.round(realPOldWord * CONST_TOTAL_TIME_RANDOM), getProfilesList(PickupType.OLD_WORD)));
+		resultList.addAll(getRandomFormList(
+				Math.round(realPNewWord * CONST_TOTAL_TIME_RANDOM),
+				getProfilesList(PickupType.NEW_WORD)));
+		resultList.addAll(getRandomFormList(
+				Math.round(realPFailWord * CONST_TOTAL_TIME_RANDOM),
+				getProfilesList(PickupType.FAIL_WORD)));
+		resultList.addAll(getRandomFormList(
+				Math.round(realPOldWord * CONST_TOTAL_TIME_RANDOM),
+				getProfilesList(PickupType.OLD_WORD)));
 
 		Random random = new Random();
 		return resultList.get(random.nextInt(resultList.size()));

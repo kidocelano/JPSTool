@@ -1,14 +1,24 @@
 package org.jpstool.main;
 
-import java.io.File;
+import java.io.IOException;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 
+import org.jpstool.gui.FlashCardSettingFrame;
+
 public class MainDriven {
-	public static void main(String[] args) {
+	public static void main(String[] args) throws ClassNotFoundException,
+			IOException {
 		// new FlashResultFrame().setVisible(true);
-		testing_loopRandom();
+		// testing_loopRandom();
+
+		if (args.length > 0) {
+			new FlashCardSettingFrame(args[0]).setVisible(true);
+
+		} else {
+			new FlashCardSettingFrame().setVisible(true);
+		}
 	}
 
 	private static void testing_loopRandom() {

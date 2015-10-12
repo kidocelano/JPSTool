@@ -8,10 +8,10 @@ public class TestingFlashResultFrame {
 
 	@Test
 	public void test() throws InterruptedException {
-		FlashResultFrame frf = new FlashResultFrame();
-		frf.setVisible(true);
-		frf.setDisplayWord(new WordItem("å‰Šé™¤", "TRÆ¯á»šC TRá»ª", "XoÃ¡", "ã?•ã??ã?˜ã‚‡"));
-		Thread.sleep(999999999);
+		float a= 33;
+		float b= 201;
+
+		System.out.println((a/b)*100);
 	}
 
 }
