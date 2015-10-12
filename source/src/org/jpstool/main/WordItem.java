@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.LinkedHashMap;
 import java.util.List;
 
-public class WordItem implements Serializable{
+public class WordItem implements Serializable {
 	private String kanjiWord;
 	private String hanVietWord;
 	private String meaning;
@@ -46,7 +46,7 @@ public class WordItem implements Serializable{
 	public List<String> getKanjiRadical(String kanjiText) {
 		return mapAnalyseRadical.get(kanjiText);
 	}
-	
+
 	public LinkedHashMap<String, List<String>> getKanjiRadicals() {
 		return mapAnalyseRadical;
 	}

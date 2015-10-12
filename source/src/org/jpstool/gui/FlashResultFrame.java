@@ -1,6 +1,5 @@
 package org.jpstool.gui;
 
-
 import java.awt.BorderLayout;
 import java.awt.Container;
 import java.awt.FlowLayout;
@@ -14,6 +13,7 @@ import java.util.Set;
 import javax.swing.BoxLayout;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
+import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
 import javax.swing.border.EmptyBorder;
@@ -21,6 +21,9 @@ import javax.swing.text.JTextComponent;
 
 import org.apache.commons.lang3.StringUtils;
 import org.jpstool.main.WordItem;
+import org.jpstool.searching.MaziiSearching;
+import org.jpstool.searching.SearchingKanjiObject;
+import org.jpstool.searching.SearchingWordEngine;
 
 public class FlashResultFrame extends JFrame {
 	private static final int COSNT_TEXTFIELD_LENGTH = 10;
@@ -34,6 +37,10 @@ public class FlashResultFrame extends JFrame {
 	private JTextArea taMeaningText;
 	private JTextArea taOtherText;
 	private JTextArea taAnalyseRadicals;
+
+	private JScrollPane spMeaningText;
+	private JScrollPane spOtherText;
+	private JScrollPane spAnalyseRadicals;
 
 	private Container container;
 	private JPanel panelTop;
@@ -58,11 +65,10 @@ public class FlashResultFrame extends JFrame {
 		setupLayout();
 		setReadOnlyAllTextBox(false);
 		setLocationRelativeTo(null);
-		this.pack();
 	}
 
 	private void initScreen() {
-		setSize(500, 600);
+		setSize(800, 600);
 		setDefaultCloseOperation(DISPOSE_ON_CLOSE);
 		this.container = this.getContentPane();
 	}
@@ -79,6 +85,7 @@ public class FlashResultFrame extends JFrame {
 		taMeaningText.setText(wordItem.getMeaning());
 		taOtherText.setText(wordItem.getOtherText());
 		setDisplayKanjiRadical(wordItem.getKanjiRadicals());
+		setDisplayAnalyseRadicals(wordItem.getKanjiWord());
 	}
 
 	private void setDisplayKanjiRadical(LinkedHashMap<String, List<String>> mapKanjiRadicals) {
@@ -95,6 +102,33 @@ public class FlashResultFrame extends JFrame {
 			taAnalyseRadicals.append(sbRadical.toString());
 			sbRadical.setLength(0);
 		}
+	}
+
+	private void setDisplayAnalyseRadicals(String word) {
+		SearchingWordEngine searching = new MaziiSearching();
+		StringBuffer sb = new StringBuffer();
+		try {
+			List<SearchingKanjiObject> lst = searching.search(word);
+			for (SearchingKanjiObject item : lst) {
+				sb.append(item.getKanji());
+				sb.append(System.lineSeparator());
+				Set<Map.Entry<String, String>> entries = item.getMapComponent().entrySet();
+				for (Map.Entry<String, String> entry : entries) {
+					sb.append(entry.getKey());
+					sb.append(String.format("(%s)", entry.getValue()));
+					sb.append(", ");
+				}
+				sb.append(System.lineSeparator());
+				sb.append(item.getMeaning().replaceAll("##", System.lineSeparator()));
+				sb.append(System.lineSeparator());
+				sb.append(System.lineSeparator());
+			}
+
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		taAnalyseRadicals.setText(sb.toString());
+		taAnalyseRadicals.setCaretPosition(0);
 	}
 
 	private void setReadOnlyAllTextBox(boolean flag) {
@@ -124,7 +158,12 @@ public class FlashResultFrame extends JFrame {
 		listTextComponentScreen.add(taOtherText);
 
 		taAnalyseRadicals = new JTextArea();
+		taAnalyseRadicals.setFont(taAnalyseRadicals.getFont().deriveFont(25f));
 		listTextComponentScreen.add(taAnalyseRadicals);
+
+		spMeaningText = new JScrollPane(taMeaningText);
+		spAnalyseRadicals = new JScrollPane(taAnalyseRadicals);
+		spOtherText = new JScrollPane(taOtherText);
 	}
 
 	private void setupLayout() {
@@ -134,8 +173,7 @@ public class FlashResultFrame extends JFrame {
 
 		container.setLayout(new BorderLayout(CONST_LAYOUT_CONTAINER_MARGIN_HOR, CONST_LAYOUT_CONTAINER_MARGIN_VER));
 		container.add(panelCenterContainer = new JPanel(), BorderLayout.CENTER);
-		panelCenterContainer.setBorder(new EmptyBorder(CONST_LAYOUT_CONTAINER_MARGIN_VER, CONST_LAYOUT_CONTAINER_MARGIN_HOR, CONST_LAYOUT_CONTAINER_MARGIN_VER,
-				CONST_LAYOUT_CONTAINER_MARGIN_HOR));
+		panelCenterContainer.setBorder(new EmptyBorder(CONST_LAYOUT_CONTAINER_MARGIN_VER, CONST_LAYOUT_CONTAINER_MARGIN_HOR, CONST_LAYOUT_CONTAINER_MARGIN_VER, CONST_LAYOUT_CONTAINER_MARGIN_HOR));
 
 		panelCenterContainer.setLayout(new BoxLayout(panelCenterContainer, BoxLayout.Y_AXIS));
 		panelCenterContainer.add(panelTop = new JPanel());
@@ -149,10 +187,9 @@ public class FlashResultFrame extends JFrame {
 
 		panelMiddle.setLayout(new BoxLayout(panelMiddle, BoxLayout.Y_AXIS));
 		panelMiddle.add(tfHiraganaText);
-		panelMiddle.add(taAnalyseRadicals);
-		panelMiddle.add(taMeaningText);
-
-		panelBottom.add(taOtherText);
+		panelMiddle.add(spAnalyseRadicals);
+		panelMiddle.add(spMeaningText);
+		panelBottom.add(spOtherText);
 	}
 
 	public void setKanjiText(String kanjiText) {
@@ -178,7 +215,7 @@ public class FlashResultFrame extends JFrame {
 
 	private static class FontType {
 		private static String fontName = "MS Gothic";
-		private static int style = Font.BOLD;
+		private static int style = Font.TRUETYPE_FONT;
 		private static int smallSize = 12;
 		private static int largeSize = 50;
 

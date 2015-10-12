@@ -16,7 +16,7 @@ public class TestingRandomEngineConsole {
 
 	@Test
 	public void test() {
-		
+
 	}
 
 }

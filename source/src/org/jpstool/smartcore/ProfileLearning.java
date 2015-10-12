@@ -73,11 +73,11 @@ public class ProfileLearning implements Serializable {
 	public void setKnewCount(long knewCount) {
 		this.knewCount = knewCount;
 	}
-	
+
 	public void increaseFail() {
 		this.notKnewCount++;
 	}
-	
+
 	public void inscreaseKnew() {
 		this.knewCount++;
 	}

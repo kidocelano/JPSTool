@@ -30,8 +30,8 @@ import org.jpstool.main.PickUpWordEngineRandom;
 import org.jpstool.main.PickupWordEnigne;
 import org.jpstool.main.TimerLoopMechanic;
 import org.jpstool.main.WordItem;
-import org.jpstool.smartcore.ProfileManangement;
 import org.jpstool.smartcore.PickupWordEnigneSmart;
+import org.jpstool.smartcore.ProfileManangement;
 
 public class FlashCardSettingFrame extends JFrame {
 	public static class FlashCardSettingDefault {
@@ -76,7 +76,6 @@ public class FlashCardSettingFrame extends JFrame {
 		this();
 		tfKanjiFilePath.setText(filePath);
 	}
-
 
 	private void init() {
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
