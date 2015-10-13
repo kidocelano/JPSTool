@@ -1,6 +1,6 @@
 package org.jpstool.searching;
 
-import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.Map;
 
 public class SearchingKanjiObject {
@@ -13,7 +13,7 @@ public class SearchingKanjiObject {
 		this.kanji = kanji;
 		this.hanViet = hanViet;
 		this.meaning = meaning;
-		this.mapComponent = new HashMap<String, String>();
+		this.mapComponent = new LinkedHashMap<String, String>();
 	}
 
 	public void addKanjiComponent(String radial, String hanViet) {

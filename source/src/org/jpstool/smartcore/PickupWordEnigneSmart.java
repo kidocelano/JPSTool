@@ -16,7 +16,7 @@ public class PickupWordEnigneSmart implements PickupWordEnigne {
 	}
 
 	private static final int CONST_PERCENT_FAIL_WORD = 60;
-	private static final int CONST_APPEAR_TIME_NEW = 50;
+	private static final int CONST_APPEAR_TIME_NEW = 20;
 	private static final int CONST_TOTAL_TIME_RANDOM = 10;
 
 	private File profileFile;

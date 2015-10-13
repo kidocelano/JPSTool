@@ -16,7 +16,7 @@ public class Testing_Serializing {
 		ProfileManangement pm = ProfileManangement.getInstance(file);
 
 		for (int i = 0; i < 10; i++) {
-			WordItem wi = new WordItem("漢字" + i, "HÁN VIỆT", "chữ kanji", "かんじ");
+			WordItem wi = new WordItem("漢字" + i, "HÁN VIỆT", "chữ kanji", "かんじ", "");
 			pm.addInfo(new ProfileLearning(wi, 5 + i, 3 + i, 2 + i));
 		}
 
@@ -25,7 +25,7 @@ public class Testing_Serializing {
 
 	@Test
 	public void load() throws ClassNotFoundException, IOException {
-		File file = new File("D:/Projects/JPSTool/source/profile.jps");
+		File file = new File("D:/Project/mine/git/JPSTool/source/profile - Copy.jps");
 		ProfileManangement pm = ProfileManangement.getInstance(file);
 		pm.load();
 

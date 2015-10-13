@@ -32,13 +32,16 @@ public class FlashCardFrame extends JFrame {
 	private WordItem currentWordItem;
 	private ProfileManangement pm;
 
+	private boolean isSaveProfile;
 	public FlashCardFrame() {
 		init();
+		isSaveProfile = true;
 	}
 
-	public FlashCardFrame(WordItem wordItem) {
-		init();
+	public FlashCardFrame(WordItem wordItem,  boolean isSaveProfile) {
+		this();
 		setWord(wordItem);
+		this.isSaveProfile = isSaveProfile;
 	}
 
 	private void init() {
@@ -54,7 +57,7 @@ public class FlashCardFrame extends JFrame {
 	}
 
 	private void setupLayout() {
-		tfSmallKanjiText = new JTextField(7);
+		tfSmallKanjiText = new JTextField(27);
 		tfSmallKanjiText.setEditable(false);
 
 		btnShowLargeKanji = new JButton("Larger");
@@ -104,8 +107,11 @@ public class FlashCardFrame extends JFrame {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				try {
-					pm.increaseKnew(currentWordItem);
-					pm.save();
+					if (isSaveProfile) {
+						pm.increaseKnew(currentWordItem);
+						pm.save();
+					}
+
 					dispose();
 
 				} catch (IOException e1) {
@@ -121,8 +127,10 @@ public class FlashCardFrame extends JFrame {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				try {
-					pm.increaseFail(currentWordItem);
-					pm.save();
+					if (isSaveProfile) {
+						pm.increaseFail(currentWordItem);
+						pm.save();
+					}
 
 					if (currentWordItem != null) {
 						new FlashResultFrame(currentWordItem).setVisible(true);

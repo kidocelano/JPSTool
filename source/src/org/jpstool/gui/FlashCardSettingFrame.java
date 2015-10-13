@@ -14,6 +14,7 @@ import java.io.IOException;
 import javax.swing.BoxLayout;
 import javax.swing.ButtonGroup;
 import javax.swing.JButton;
+import javax.swing.JCheckBox;
 import javax.swing.JFileChooser;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -27,9 +28,12 @@ import org.jpstool.main.LoadWordPlainText;
 import org.jpstool.main.LoadWordsEngine;
 import org.jpstool.main.LoopMechanic;
 import org.jpstool.main.PickUpWordEngineRandom;
+import org.jpstool.main.PickupMultipleWordEngine;
 import org.jpstool.main.PickupWordEnigne;
 import org.jpstool.main.TimerLoopMechanic;
 import org.jpstool.main.WordItem;
+import org.jpstool.searching.MaziiSearching;
+import org.jpstool.searching.SearchingWordEngine;
 import org.jpstool.smartcore.PickupWordEnigneSmart;
 import org.jpstool.smartcore.ProfileManangement;
 
@@ -39,6 +43,7 @@ public class FlashCardSettingFrame extends JFrame {
 		public static final int CONST_DEFAULT_PERCENT_NEW_WORD = 20;
 		public static final int CONST_DEFAULT_PERCENT_FAIL_WORD = 70;
 		public static final int CONST_DEFAULT_PERCENT_OLD_WORD = 10;
+		public static final int CONST_DEFAULT_APPEAR_MULTIPLE_WORD = 10;
 	}
 
 	private Container container;
@@ -54,6 +59,7 @@ public class FlashCardSettingFrame extends JFrame {
 	private ButtonGroup bgPickupMode;
 	private JRadioButton rbRandomMode;
 	private JRadioButton rbSmartMode;
+	private JRadioButton rbMultiWord;
 
 	private JTextField tfSModeNewWord;
 	private JTextField tfSModeFailWord;
@@ -80,7 +86,7 @@ public class FlashCardSettingFrame extends JFrame {
 	private void init() {
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		setLocationRelativeTo(null);
-		setSize(700, 600);
+		setSize(800, 600);
 	}
 
 	private void initConfig() {
@@ -114,12 +120,15 @@ public class FlashCardSettingFrame extends JFrame {
 		boxPn3OptionsPickup.setLayout(new BoxLayout(boxPn3OptionsPickup, BoxLayout.Y_AXIS));
 		rbRandomMode = new JRadioButton("Random");
 		rbSmartMode = new JRadioButton("Smart");
+		rbMultiWord = new JRadioButton("Multiple Word Appear");
 		bgPickupMode = new ButtonGroup();
 		bgPickupMode.add(rbRandomMode);
 		bgPickupMode.add(rbSmartMode);
+		bgPickupMode.add(rbMultiWord);
 
 		boxPn3OptionsPickup.add(rbRandomMode);
 		boxPn3OptionsPickup.add(rbSmartMode);
+		boxPn3OptionsPickup.add(rbMultiWord);
 
 		panelPickupSmartOption = new JPanel(new GridBagLayout());
 		boxPn3OptionsPickup.add(panelPickupSmartOption);
@@ -196,8 +205,11 @@ public class FlashCardSettingFrame extends JFrame {
 						int percentOldWord = Integer.parseInt(tfSModeOldWord.getText());
 						pickUpWordEngine = new PickupWordEnigneSmart(new File(JPSConstant.CONST_FILE_PATH_PROFILE), percentNewWord, percentFailWord, percentOldWord);
 
-					} else {
+					} else if (rbRandomMode.isSelected()) {
 						pickUpWordEngine = new PickUpWordEngineRandom();
+
+					} else {
+						pickUpWordEngine = new PickupMultipleWordEngine(FlashCardSettingDefault.CONST_DEFAULT_APPEAR_MULTIPLE_WORD);
 					}
 
 					LoadWordsEngine loadWordsEngine = new LoadWordPlainText();
@@ -211,7 +223,17 @@ public class FlashCardSettingFrame extends JFrame {
 
 						@Override
 						public void callBack(WordItem wordItem) {
-							new FlashCardFrame(wordItem).setVisible(true);
+							try {
+								SearchingWordEngine enigne = new MaziiSearching();
+								if (rbMultiWord.isSelected() == false) {
+									wordItem.setSearchingKanji(enigne.search(wordItem.getKanjiWord()));
+								}
+
+							} catch (Exception e2) {
+								e2.printStackTrace();
+							}
+
+							new FlashCardFrame(wordItem, !rbMultiWord.isSelected()).setVisible(true);
 						}
 					});
 

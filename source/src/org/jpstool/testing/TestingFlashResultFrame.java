@@ -1,7 +1,5 @@
 package org.jpstool.testing;
 
-import org.jpstool.main.FlashResultFrame;
-import org.jpstool.main.WordItem;
 import org.junit.Test;
 
 public class TestingFlashResultFrame {

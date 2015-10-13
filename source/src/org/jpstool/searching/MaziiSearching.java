@@ -17,26 +17,44 @@ public class MaziiSearching implements SearchingWordEngine {
 		SearchingKanjiObject kanjiObject = null;
 
 		JSONObject jsonObject = JsonReader.readJsonFromUrl(String.format(CONST_URL, searchingWord));
+
+		if (jsonObject.has("results") == false || jsonObject.get("results") instanceof JSONArray == false) {
+			return lstResult;
+		}
+
 		JSONArray result = jsonObject.getJSONArray("results");
 
 		for (int i = 0; i < result.length(); i++) {
 			JSONObject word = result.getJSONObject(i);
-			String kanjiText = word.getString("kanji");
-			String hanvietText = word.getString("mean");
-			String meaning = word.getString("detail");
+			String kanjiText = "";
+			String hanvietText = "";
+			String meaning = "";
+
+			if (word.has("kanji") && word.get("kanji") instanceof String) {
+				kanjiText = word.getString("kanji");
+			}
+
+			if (word.has("mean") && word.get("mean") instanceof String) {
+				hanvietText = word.getString("mean");
+			}
+
+			if (word.has("detail") && word.get("detail") instanceof String) {
+				meaning = word.getString("detail");
+			}
+
 			kanjiObject = new SearchingKanjiObject(kanjiText, hanvietText, meaning);
-			if (word.has("compDetail")) {
+			if (word.has("compDetail") && word.get("compDetail") instanceof JSONArray) {
 				JSONArray compDetail = word.getJSONArray("compDetail");
 				for (int j = 0; j < compDetail.length(); j++) {
 					JSONObject joComponent = compDetail.getJSONObject(j);
 					String kanjiComponent = "";
 					String hanVietComponent = "";
 
-					if (joComponent.has("w")) {
+					if (joComponent.has("w") && joComponent.get("w") instanceof String) {
 						kanjiComponent = joComponent.getString("w");
 					}
 
-					if (joComponent.has("h")) {
+					if (joComponent.has("h") && joComponent.get("h") instanceof String) {
 						hanVietComponent = joComponent.getString("h");
 					}
 

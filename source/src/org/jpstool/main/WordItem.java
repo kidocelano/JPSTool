@@ -1,25 +1,19 @@
 package org.jpstool.main;
 
 import java.io.Serializable;
-import java.util.ArrayList;
-import java.util.LinkedHashMap;
 import java.util.List;
 
+import org.jpstool.searching.SearchingKanjiObject;
+
 public class WordItem implements Serializable {
+	private static final long serialVersionUID = 7795917386791193981L;
+
 	private String kanjiWord;
 	private String hanVietWord;
 	private String meaning;
 	private String hiragana;
 	private String otherText;
-	private LinkedHashMap<String, List<String>> mapAnalyseRadical;
-
-	public WordItem(String kanjiWord, String hanVietWord, String meaning, String hiragana) {
-		this.kanjiWord = kanjiWord;
-		this.hanVietWord = hanVietWord;
-		this.meaning = meaning;
-		this.hiragana = hiragana;
-		init();
-	}
+	private transient List<SearchingKanjiObject> lstSearchingKanji;
 
 	public WordItem(String kanjiWord, String hanVietWord, String meaning, String hiragana, String otherText) {
 		this.kanjiWord = kanjiWord;
@@ -27,28 +21,14 @@ public class WordItem implements Serializable {
 		this.meaning = meaning;
 		this.hiragana = hiragana;
 		this.otherText = otherText;
-		init();
 	}
 
-	private void init() {
-		mapAnalyseRadical = new LinkedHashMap<String, List<String>>();
+	public List<SearchingKanjiObject> getSearchingKanji() {
+		return this.lstSearchingKanji;
 	}
 
-	public void addKanjiRadical(String kanjiText, String Radical) {
-		List<String> radicalArr = mapAnalyseRadical.get(kanjiText);
-		if (radicalArr == null) {
-			radicalArr = new ArrayList<String>();
-			mapAnalyseRadical.put(kanjiText, radicalArr);
-		}
-		radicalArr.add(Radical);
-	}
-
-	public List<String> getKanjiRadical(String kanjiText) {
-		return mapAnalyseRadical.get(kanjiText);
-	}
-
-	public LinkedHashMap<String, List<String>> getKanjiRadicals() {
-		return mapAnalyseRadical;
+	public void setSearchingKanji(List<SearchingKanjiObject> lstSearchingKanji) {
+		this.lstSearchingKanji = lstSearchingKanji;
 	}
 
 	public String getOtherText() {
