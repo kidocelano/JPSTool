@@ -1,0 +1,318 @@
+﻿関数					->		QUAN SỐ						Hàm số 												かんすう IT用語
+引数					->		DẪN SỐ						Tham số 												ひきすう IT用語
+文字列				->		VĂN TỰ LIỆT						Chuỗi số 												もじれつ IT用語
+定数					->		ĐỊNH SỐ						Hằng số 												ていすう IT用語
+正数					->		CHÍNH SỐ						Số dương 												せいすう IT用語
+小数					->		TIỂU SỐ						Số thập phân 												しょうすう IT用語
+小数点				->		TIỂU SỐ ĐIỂM						Dấu thập phân 												しょうすうてん IT用語
+数字					->		SỐ TỰ						Chữ số 												すうじ IT用語
+入力					->		NHẬP LỰC						Dữ liệu đầu vào　（Input） 												にゅうりょく IT用語
+出力					->		XUẤT LỰC						Dữ liệu đầu ra　（Output） 												しゅつりょく IT用語
+ファイル				->									Tập tin 												 IT用語
+パラメータ				->									Parameter 												 IT用語
+コンポーネント			->										Component 												 IT用語
+格納場所				->		CÁCH NẠP TRƯỜNG SỞ						Nơi lưu trữ 												かくのうばしょ IT用語
+情報					->		TÌNH BÁO						Thông tin 												じょうほう IT用語
+結合					->		KẾT HỢP						Kết hợp 												けつごう IT用語
+条件					->		ĐIỀU KIỆN						Điền kiện 												じょうけん IT用語
+切り捨て				->		THIẾT SẢ						Làm tròn Bỏ phần lẻ. Vd: 1.09 -> 1												きりすて IT用語
+四捨五入				->		TỨ SẢ NGŨ NHẬP						Làm tròn Làm tròn bình thường. Vd: 2.446 -> 2.45  hoặc 2.432 -> 2.43												ししゃごにゅう IT用語
+正常					->		CHÍNH THƯỜNG						Bình thường 												せいじょう IT用語
+異常					->		DỊ THƯỜNG						Khác thường 												いじょう IT用語
+検索					->		KIỂM SÁCH						Tra cứu　（Search) Lookup												けんさく IT用語
+検索条件				->			KIỂM SÁCH ĐIỀU KIỆN						Điều kiện tra cứu　（Search) 												けんさく じょうけん IT用語
+登録					->		ĐĂNG LỤC						Đăng ký / Mẫu tin　（Insert) Entry/ Record												とうろく IT用語
+送信					->		TỐNG TÍN						Truyền đi, gửi đi 												そうしん IT用語
+ロジック				->									Logic 												 IT用語
+メモリ					->								Bộ nhớ 												 IT用語
+変数					->		BIẾN SỐ						Biến số 												へんすう IT用語
+データベース				->									Cơ sở dữ liệu Database												 IT用語
+セキュリティ				->									Security 												 IT用語
+選択					->		TUYỂN TRẠCH						Sự chọn lọc Selection												せんたく IT用語
+判定					->		PHÁN ĐỊNH						Quyết định để chọn lựa Sử dụng trong khi nói đến if else												はんてい IT用語
+論理					->		LUẬN LÝ						Logic 												ろんり IT用語
+物理					->		VẬT LÝ						Vật lý 												ぶつり IT用語
+還元					->		HOÀN NGUYÊN						Trả lại trạng thái ban đầu 												かんげん IT用語
+移植					->		DI THỰC						 port 												いしょく IT用語
+開発					->		KHAI PHÁT						Phát triển, lập trình phần mềm nói chung 												かいはつ 開発
+環境					->		HOÀN CẢNH						Môi trường 												かんきょう 開発
+標準					->		TIÊU CHUẨN						Tiêu chuẩn 												ひょうじゅん 開発
+カスタマイズ				->									Customize　（Thay đổi theo yêu cầu khách hàng） 												 開発
+機能					->		CƠ NĂNG						Chức năng/ tác dụng Function												きのう 開発
+画面					->		HỌA DIỆN						Màn hình 												がめん 開発
+処理					->		XỬ LÝ						Xử lý/ sắp đặt 												しょり 開発
+案件					->		ÁN KIỆN						Vấn đề, mục Item												あんけん 開発
+指示書				->			CHỈ THỊ THƯ						Bảng yêu cầu / hướng dẫn 												しじうしょ 開発
+新規					->		TÂN QUY						Mới, tạo mới 												しんき 開発
+変更					->		BIẾN CANH						Thay đổi New												へんこう 開発
+修正					->		TU CHÍNH						Cập nhât/ sửa chữa 												しゅうせい 開発
+修正前				->			TU CHÍNH TIỀN						Trước khi cập nhật/ sửa chữa 												しゅうせいまえ 開発
+修正後				->			TU CHÍNH HẬU						Sau khi cập nhật/ sửa chữa 												しゅうせいうしろ 開発
+削除					->		TƯỚC TRỪ						Xóa bỏ, delete 												さくじょ 開発
+種類					->		CHỦNG LOẠI						Loại, kiểu 												しゅるい 開発
+対応					->		ĐỐI ỨNG						Thực hiện theo yêu cầu 												たいおう 開発
+既存					->		KÝ TỒN						Tồn tại, đã tồn tại 												きそん 開発
+基本					->		CƠ BẢN						Cơ sở, tiêu chuẩn Base, standard												きほん 開発
+詳細					->		TƯỜNG TẾ						Chi tiết/ cụ thể 												しょうさい 開発
+取得					->		THỦ ĐẮC						Thu nhận, lấy 												しゅとく 開発
+受付日				->			THỤ PHÓ NHẬT						Ngày tiếp nhận 												うけつけび 開発
+進捗					->		TIẾN BỘ						Tiến bộ, tiến triển, tình trạng công việc hiện tại 												しんちょく 開発
+一覧					->		NHẤT LÃM						Danh sách, list 												いちらん 開発
+照会					->		CHIẾU HỘI						Sự tham khảo 												しょうかい 開発
+伝票					->		TRUYỀN PHIẾU						Biên nhân DENP												でんぴょう 開発
+メニュー				->									Menu 												 開発
+システム				->									System 												 開発
+取込み				->			THỦ VÀO						Đọc vào Import												とりこみ 開発
+保守					->		BẢO THỦ						Bảo trì/ bảo thủ 												ほしゅ 開発
+複写					->		PHỨC TẢ						Sao chép, bản sao 												ふくしゃ 開発
+一括変更				->			NHẤT QUÁT BIẾN CANH						Thay đổi toàn bộ 												いっかつけんこう 開発
+メンテログ				->									Log maintenance 												 開発
+切出し				->			THIẾT XUẤT						Cắt lấy cái gì đó ra/ Truy xuất ra 												きりだし 開発
+エラー					->								Lỗi 												 開発
+以上					->		DĨ THƯỢNG						Từ đó trở lên 												いじょう 開発
+以下					->		DĨ HẠ						Từ đó trở xuống 												いか 開発
+以前					->		DĨ TIỀN						Từ đó trở về trước 												いぜん 開発
+以降					->		DĨ GIÁNG						Từ đó trở về sau 												いこう 開発
+より大きい				->									Lớn hơn 												よりおおきい 開発
+より小さい				->									Nhỏ hơn 												よりちいさい 開発
+事前処理				->			SỰ TIỀN XỬ LÝ						Trước khi xử lý 												じぜんしょり 開発
+事後					->		SỰ HẬU						Sau 												じご 開発
+配信					->		PHỐI TÍN						Phân phối 												はいしん 開発
+起動					->		KHỞI ĐỘNG						Sự khởi động 												きどう 開発
+受信					->		THỤ TÍN						Nhận, tiếp nhận 												じゅしん 開発
+納品					->		NẠP PHẨM						Giao hàng 												のうひん 開発
+成果					->		THÀNH QUẢ						Kết quả, thành quả 												せいか 開発
+成果物				->			THÀNH QUẢ VẬT						Kết quả, thành quả ( vật phẩm cụ thể ) 												せいかぶつ 開発
+汎用取り込み			->				PHIẾM DỤNG THỦ VÀO						Xử lý chung để ghi dữ liệu vào cơ sở dữ liệu 												はんようとりこみ 開発
+運用					->		VẬN DỤNG						Ứng dụng, sử dụng 												うんよう 開発
+監視					->		GIÁM THỊ						Quản lý, kiểm tra, giám sát 												かんし 開発
+共通					->		CỘNG THÔNG						Dùng chung Public												きょうつう 開発
+外部					->		NGOẠI BỘ						Bên ngoài 												がいぶ 開発
+内部					->		NỘI BỘ						Bên trong, nội bộ 												ないぶ 開発
+トラブル				->									 Trouble												 開発
+管理					->		QUẢN LÝ						Điều khiển, quản lý 												かんり 作業
+業務					->		NGHIỆP VỤ						Nghiệp vụ 												ぎょうむ 作業
+作業					->		TÁC NGHIỆP						Tác nghiệp, thao tác 												さぎょう 作業
+残業					->		TÀN NGHIỆP						Ngoài giờ, tăng ca 												ざんぎょう 作業
+開始					->		KHAI THỦY						Bắt đầu 												かいし 作業
+着手					->		TRƯỚC THỦ						Bắt đầu (bắt tay) làm gì đó 												ちゃくしゅ 作業
+着手中				->			TRƯỚC THỦ TRUNG						Đang làm 												ちゃくしゅちゅう 作業
+終了					->		CHUNG LIỄU						Kết thúc, chấm dứt 												しゅうりょう 作業
+完了					->		HOÀN LIỄU						Hoàn tất, hoàn thành 												かんりょう 作業
+依頼					->		Ỷ LẠI						Yêu cầu/ nhờ 												いらい 作業
+指示					->		CHỈ THỊ						Chỉ thị, chỉ định 												しじ 作業
+仕事					->		SĨ SỰ						Việc làm, công việc 												しごと 作業
+調整					->		ĐIỀU CHỈNH						Sự điều chỉnh 												ちょうせい 作業
+場所					->		TRƯỜNG SỞ						Vị trí, nơi chốn 												ばしょ 作業
+関係					->		QUAN HỆ						Quan hệ, kết nối Relation, connection												かんけい 作業
+関係者				->			QUAN HỆ GIẢ						Người có liên quan 												かんけいしゃ 作業
+作成					->		TÁC THÀNH						Tạo ra, đặt ra, sản xuất ra 												さくせい 作業
+追加					->		TRUY GIA						Phụ lục, phần thêm, thêm vào 												ついか 作業
+内容					->		NỘI DUNG						Nội dung, vấn đề chính 												ないよう 作業
+予定					->		DỰ ĐỊNH						Dự định, kế hoạch, đánh giá/ Chương trình 												よてい 作業
+確定					->		XÁC ĐỊNH						Chính thức 												かくてい 作業
+結果					->		KẾT QUẢ						Kết quả 												けっか 作業
+日別					->		NHẬT BIỆT						Từng ngày từng ngày ( chia theo ngày ) 												にちべつ 作業
+月別					->		NGUYỆT BIỆT						Từng tháng từng tháng ( chia theo tháng ) 												つきべつ 作業
+その他				->			THA						Ngoài ra 												そのた 作業
+委託					->		ỦY THÁC						Ủy thác, giao phó 												いたく 作業
+受領					->		THỤ LÃNH						Biên nhận, ghi nhận 												じゅりょう 作業
+日次					->		NHẬT THỨ						Hàng ngày 												にちじ 作業
+月次					->		NGUYỆT THỨ						Hàng tháng 												げつじ 作業
+更新					->		CANH TÂN						Đổi mới, cập nhật, cải tiến, update 												こうしん 作業
+準備					->		CHUẨN BỊ						Chuẩn bị, dự trữ 												じゅんび 作業
+前回					->		TIỀN HỒI						Lần trước 												ぜんかい 作業
+今回					->		KIM HỒI						Hiện tại, bây giờ 												こんかい 作業
+訂正					->		ĐÍNH CHÍNH						Sửa lại cho đúng 												ていせい 作業
+チェック				->									Sự kiểm tra 												 作業
+再チェック				->			TÁI						Kiểm tra lại 												 作業
+問題					->		VẤN ĐỀ						Vấn đề 												もんだい 作業
+解決					->		GIẢI QUYẾT						Giải pháp, giải quyết 												かいけつ 作業
+評価					->		BÌNH GIÁ						Ước lượng, đánh giá 												ひょうか 作業
+品質					->		PHẨM CHẤT						Chất lượng 												ひんしつ 作業
+技術					->		KỸ THUẬT						Kỹ thuật, công nghệ 												ぎじゅつ 作業
+使用					->		SỬ DỤNG						Sử dụng, ứng dụng 												しよう 作業
+利用者				->			LỢI DỤNG GIẢ						Người dùng 												りようしゃ 作業
+作成者				->			TÁC THÀNH GIẢ						Tác giả 												さくせいしゃ 作業
+番号					->		PHIÊN HIỆU						Đợt số, số thứ tự Series												ばんごう 作業
+方法					->		PHƯƠNG PHÁP						Phương pháp, cách thức 												ほうほう 作業
+方式					->		PHƯƠNG THỨC						Cách làm 												ほうしき 作業
+一致					->		NHẤT TRÍ						Thống nhất, giống nhau 												いっち 作業
+用紙					->		DỤNG CHỈ						Form mẫu 												ようし 作業
+印字					->		ẤN TỰ						In ra 												いんじ 作業
+積送					->		TÍCH TỐNG						 Shipment												せきそう 作業
+試験					->		THÍ NGHIỆM						Kỳ thi, test 												しけん 試験
+単体試験				->			ĐƠN THỂ THÍ NGHIỆM						Unit test 												たんたいしけん 試験
+連結試験				->			LIÊN KẾT THÍ NGHIỆM						Test liên kết 												れんけつしけん 試験
+総合試験				->			TỔNG HỢP THÍ NGHIỆM						Test tổng hợp 												そうごうしけん 試験
+性能試験				->			TÍNH NĂNG THÍ NGHIỆM						Test tính năng 												せいのうしけん 試験
+等価性テスト			->				ĐẲNG GIÁ TÍNH						 Equality testing												とうかせい 試験
+仕様書				->			SĨ DẠNG THƯ						Tài liệu thiết kê/ bảng yêu cầu 												しようしょ 設計
+設計					->		THIẾT KẾ						Thiết kế 												せっけい 設計
+概要					->		KHÁI YẾU						Phác thảo, tóm lược, sơ lược 												がいよう 設計
+印刷					->		ẤN LOÁT						In 												いんさつ 設計
+商品					->		THƯƠNG PHẨM						Mặt hàng, hàng hóa 												しょうひん 販売・ビジネス
+企画					->		XÍ HỌA						Lập dự án, lập kế hoạch 												きかく 販売・ビジネス
+予約					->		DỰ ƯỚC						Đơn đặt hàng trước/ đặt chỗ trước/ hợp đồng 												よやく 販売・ビジネス
+一般					->		NHẤT BAN						Thông thường, phổ thông 												いっぱん 販売・ビジネス
+特別					->		ĐẶC BIỆT						Đặc biệt 												とくべつ 販売・ビジネス
+過去					->		QUÁ KHỨ						Quá khứ, trước đây 												かこ 販売・ビジネス
+現在					->		HIỆN TẠI						Cho tới giờ, hiện tại 												げんざい 販売・ビジネス
+将来					->		TƯỚNG LAI						Tương lai 												しょうらい 販売・ビジネス
+棚					->		BẰNG						Kệ, giá 												たな 販売・ビジネス
+棚卸					->		BẰNG TÁ						Kiểm kê, kiểm kê kho 												たなおろし 販売・ビジネス
+発注					->		PHÁT CHÚ						Đặt hàng Order												はっちゅう 販売・ビジネス
+発注先				->			PHÁT CHÚ TIÊN						Nơi đặt hàng 												はっちゅうさき 販売・ビジネス
+仕入れ				->			SĨ NHẬP						Nhập hàng 												しいれ 販売・ビジネス
+仕入れ先				->			SĨ NHẬP TIÊN						Nơi nhập hàng 												しいれさき 販売・ビジネス
+分類					->		PHÂN LOẠI						Phân loại 												ぶんるい 販売・ビジネス
+本部					->		BẢN BỘ						Trụ sở chính 												ほんぶ 販売・ビジネス
+店舗					->		ĐIẾM PHỐ						Cửa tiệm, cửa hàng 												てんぽ 販売・ビジネス
+返品					->		PHẢN PHẨM						Hàng hóa bị trả lại, trả hàng 												へんぴん 販売・ビジネス
+請求					->		THỈNH CẦU						Đòi hỏi, yêu cầu, thỉnh cầu, yêu cầu thanh toán 												せいきゅう 販売・ビジネス
+棚割					->		BẰNG CÁT						Chia hàng lên kệ 												たなわり 販売・ビジネス
+棚ラベル				->			BẰNG						Nhãn hàng dán trên kệ 												たなラベル 販売・ビジネス
+オーダーブック			->										Sổ đặt hàng 												 販売・ビジネス
+商談					->		THƯƠNG ĐÀM						Đàm phán 												しょうだん 販売・ビジネス
+原価					->		NGUYÊN GIÁ						Giá vốn, giá gốc 												げんか 販売・ビジネス
+売価					->		MẠI GIÁ						Giá bán 												ばいか 販売・ビジネス
+数量					->		SỐ LƯỢNG						Số lượng 												すうりょう 販売・ビジネス
+金額					->		KIM NGẠCH						Số tiền 												きんがく 販売・ビジネス
+代替商品				->			ĐẠI THẾ THƯƠNG PHẨM						Sản phẩm thay thế 												だいがえしょうひん 販売・ビジネス
+台帳					->		ĐÀI TRƯƠNG						Sổ tài khoản, sổ quản lý danh mục, sổ cái 												だいちょう 販売・ビジネス
+特売					->		ĐẶC MẠI						Hàng bán đặc biệt 												とくばい 販売・ビジネス
+定番					->		ĐỊNH PHIÊN						Phiên thông thường hàng ngày 												ていばん 販売・ビジネス
+組合せ				->			TỔ HỢP						Kết hợp nhóm 												くみあわせ 販売・ビジネス
+振分け				->			CHẤN PHÂN						Phân chia 												ふりわけ 販売・ビジネス
+販売					->		PHIẾN MẠI						Bán hàng, tiêu thụ 												はんばい 販売・ビジネス
+値引き				->			TRỊ DẪN						Giảm giá 												ねびき 販売・ビジネス
+指定					->		CHỈ ĐỊNH						Chỉ định 												してい 販売・ビジネス
+補充					->		BỔ SUNG						Bổ sung 												ほじゅう 販売・ビジネス
+単品					->		ĐƠN PHẨM						Sản phẩm đơn lẻ 												たんぴん 販売・ビジネス
+検収					->		KIỂM THU						Nghiệm thu, đối chiếu 												けんしゅう 販売・ビジネス
+要求					->		YẾU CẦU						Đòi hỏi, yêu cầu Requirement												ようきゅう 販売・ビジネス
+欠品					->		KHIẾM PHẨM						Hết hàng 												けっぴん 販売・ビジネス
+回収					->		HỒI THU						Thu hồi, lấy lại 												かいしゅう 販売・ビジネス
+未回収				->			MỊ HỒI THU						Chưa thu hồi 												みかいしゅう 販売・ビジネス
+入荷					->		NHẬP HÀ						Nhập hàng 												にゅうか 販売・ビジネス
+集計					->		TẬP KẾ						Tính tổng 												しゅうけい 販売・ビジネス
+手書き				->			THỦ THƯ						Viết tay 												てかき 販売・ビジネス
+合計					->		HỢP KẾ						Tống số 												ごうけい 販売・ビジネス
+移動					->		DI ĐỘNG						Di chuyển 												いどう 販売・ビジネス
+廃棄					->		PHẾ KHÍ						Hủy bỏ, vứt bỏ 												はいき 販売・ビジネス
+経費					->		KINH PHÍ						Chi phí, kinh phí 												けいひ 販売・ビジネス
+振替					->		CHẤN THẾ						Chuyển tiền, thay đổi, chuyển đổi 												ふりかえ 販売・ビジネス
+入庫					->		NHẬP KHỐ						Nhập kho 												にゅうこ 販売・ビジネス
+出庫					->		XUẤT KHỐ						Xuất kho 												しゅっこ 販売・ビジネス
+自動					->		TỰ ĐỘNG						Tự động 												じどう 販売・ビジネス
+手動					->		THỦ ĐỘNG						Thực hiện bằng tay 												しゅどう 販売・ビジネス
+支払					->		CHI PHẤT						Thanh toán 												しはらい 販売・ビジネス
+案内					->		ÁN NỘI						Thông tin, hướng dẫn 												あんない 販売・ビジネス
+案内書				->			ÁN NỘI THƯ						Sách hướng dẫn 												あんないしょ 販売・ビジネス
+手数料				->			THỦ SỐ LIỆU						Chi phí giao dịch 												てすうりょう 販売・ビジネス
+差異					->		SAI DỊ						Khác nhau 												さい 販売・ビジネス
+差分					->		SAI PHÂN						Sai số 												さぶん 販売・ビジネス
+商管					->		THƯƠNG QUẢN						Quản lý kinh doanh, buôn bán 												しょうかん 販売・ビジネス
+売上					->		MẠI THƯỢNG						Doanh thu 												うりあげ 販売・ビジネス
+日報					->		NHẬT BÁO						Báo cáo hàng ngày 												にっぽう 販売・ビジネス
+月報					->		NGUYỆT BÁO						Báo cáo hàng tháng 												げっぽう 販売・ビジネス
+会計					->		HỘI KẾ						Kế toán 												かいけい 販売・ビジネス
+取引					->		THỦ DẪN						Giao dịch 												とりひき 販売・ビジネス
+帳票					->		TRƯƠNG PHIẾU						Mẫu báo cáo, report 												ちょうひょう 販売・ビジネス
+利益					->		LỢI ÍCH						Lợi nhuận 												りえき 販売・ビジネス
+履歴					->		LÝ LỊCH						Lịch sử 												りれき 販売・ビジネス
+理由					->		LÝ DO						Nguyên nhân, lý do 												りゆう 販売・ビジネス
+在庫					->		TẠI KHỐ						Tồn kho 												ざいこ 販売・ビジネス
+大分類				->			ĐẠI PHÂN LOẠI						Phân loại lớn 												だいぶんるい 販売・ビジネス
+中分類				->			TRUNG PHÂN LOẠI						Phân loại trung 												ちゅうぶんるい 販売・ビジネス
+小分類				->			TIỂU PHÂN LOẠI						Phân loại tiểu 												しょうぶんるい 販売・ビジネス
+クラス					->								Lớp, phân loại 												 販売・ビジネス
+カテゴリ				->									Danh mục 												 販売・ビジネス
+単位					->		ĐƠN VỊ						Đơn vị 												たんい 販売・ビジネス
+税率					->		THUẾ SUẤT						Thuế suất 												ぜいりつ 販売・ビジネス
+属性					->		THUỘC TÍNH						Thuộc tính 												ぞくせい 販売・ビジネス
+メーカー				->									Nhà sản xuất 												 販売・ビジネス
+物流					->		VẬT LƯU						Phân phối hàng hóa, logistics 												ぶつりゅう 販売・ビジネス
+銀行					->		NGÂN HÀNH						Ngân hàng 												ぎんこう 販売・ビジネス
+新店					->		TÂN ĐIẾM						Tiệm mới 												しんてん 販売・ビジネス
+営業					->		DOANH NGHIỆP						Kinh doanh, buôn bán 												えいぎょう 販売・ビジネス
+調達					->		ĐIỀU ĐẠT						Cung cấp, diều động 												ちょうたつ 販売・ビジネス
+顧客					->		CỐ KHÁCH						Khách hàng 												こかく 販売・ビジネス
+粗利益				->			THÔ LỢI ÍCH						Tổng lợi nhuận 												あらりえき 販売・ビジネス
+切捨て				->			THIẾT XẢ						Bỏ phần thập phân Rounddown												きりすて 販売・ビジネス
+切り上げ				->			THIẾT THƯỢNG						Làm tròn xuống Roundup												きりあげ 販売・ビジネス
+取引先				->			THỦ DẪN TIÊN						 client												とりひきさき 販売・ビジネス
+工数					->		CÔNG SỐ						Giờ công 												こうすう 見積もり・報告
+予定工数				->			DỰ ĐỊNH CÔNG SỐ						Giờ công dự định 												よていこうすう 見積もり・報告
+実績工数				->			THỰC TÍCH CÔNG SỐ						Giờ công thực tế 												じっせきこうすう 見積もり・報告
+消化工数				->			TIÊU HÓA CÔNG SỐ						Giờ công đã thực hiện 												しょうかこうすう 見積もり・報告
+納期					->		NẠP KỲ						Deadline 												のうき 見積もり・報告
+期限					->		KỲ HẠN						Thời hạn 												きげん 見積もり・報告
+見積もり				->			KIẾN TÍCH						Dự định, ước lượng Estimate												みつもり 見積もり・報告
+報告					->		BÁO CÁO						Báo cáo 												ほうこく 見積もり・報告
+連絡					->		LIÊN LẠC						Kết nối, liên lạc Connection												れんらく 見積もり・報告
+相談					->		TƯƠNG ĐÀM						Thảo luận 												そうだん 見積もり・報告
+確認					->		XÁC NHẬN						Xác nhận 												かくにん 見積もり・報告
+スケジュール				->									Schedule, thời khóa biểu 												 見積もり・報告
+カレンダー				->									Calendar, lịch 												 見積もり・報告
+報告書				->			BÁO CÁO THƯ						Báo cáo, bản báo cáo 												ほうこくしょ 見積もり・報告
+不具合				->			BẤT CỤ HỢP						Bug 												ふぐあい 様子
+状況					->		TRẠNG HUỐNG						Trạng thái 												じょうきょう 様子
+単数					->		ĐƠN SỐ						Số ít 												たんすう 様子
+複数					->		PHỨC SỐ						Số nhiều 												ふくすう 様子
+緊急					->		KHẨN CẤP						Khẩn cấp 												きんきゅう 様子
+停止					->		ĐÌNH CHỈ						Gián đoạn, dừng 												ていし 様子
+様子					->		DẠNG TỬ						Trạng thái, khía cạnh 												ようす 様子
+調子					->		ĐIỀU TỬ						Tình trạng 												ちょうし 様子
+合格					->		HỢP CÁCH						Thành công, đậu 												ごうかく 様子
+不合格				->			BẤT HỢP CÁCH						Không thành công, rớt 												ふごうかく 様子
+乗算					->		THỪA TOÁN						Phép nhân 												じょうさん 様子
+仕訳					->		SĨ DỊCH						Nhật kí Journal												しわけ 様子
+経緯					->		KINH VĨ						Tình trạng 												いきさつ 様子
+機密					->		CƠ MẬT						Bí mật, tuyệt mật 												きみつ 様子
+改訂					->		CẢI CHÍNH						Chỉnh sửa, thay đổi 												かいてい 様子
+体系					->		THỂ HỆ						Hệ thống, cơ cấu, tổ chức 												たいけい 様子
+採用					->		THẢI DỤNG						Tuyển dụng, giới thiệu, sử dụng 												さいよう 様子
+制約					->		KHẾ ƯỚC						Giới hạn, hạn chế 												せいやく 様子
+対比					->		ĐỐI TỈ						So sánh 												たいひ 様子
+採番					->		THÁI PHIÊN						Đánh số 												さいばん 様子
+割愛					->		CÁT ÁI						Loại bỏ, chia ra 												かつあい 様子
+起票					->		KHỞI PHIẾU						Đăng ký, phát hành 												きひょう 様子
+漏れる				->			LẬU						Thiếu, rò rỉ 												もれる 様子
+差額					->		SAI NGẠCH						Số tiền chênh lệch 												さがく 様子
+置換					->		TRÍ HOÁN						Thay thế 												ちかん 様子
+奉仕品				->			BỔNG SĨ PHẨM						Sản phẩm dịch vụ  												ほうしひん 様子
+連続意見書			->				LIÊN TỤC Ý KIẾN THƯ						Sổ ý kiến 												れんぞくいけんしょ 様子
+リベート				->									Rebate : chiết khấu khi mua bằng credit card 												 様子
+補正					->		BỔ CHÍNH						Bổ sung, sửa chữa 												ほせい 様子
+推定ロス				->			SUY ĐỊNH						Hao hụt theo suy đoán 												すいてい 様子
+勘案					->		KHÁM ÁN						Cân nhắc, suy xét 												かんあん 様子
+本体					->		BẢN THỂ						Cá nhân, từng cái 												ほんたい 様子
+総額					->		TỔNG NGẠCH						Tổng toàn bộ 												そうがく 様子
+切替					->		THIẾT THẾ						Chuyển đổi, thay đổi, trao đổi  Switch, change												きりかえる 様子
+全般					->		TOÀN BAN						 General 												ぜんぱん 様子
+手順					->		THỦ THUẬN						Thứ tự, trình tự Step												てじゅん 様子
+有効					->		HỮU HIỆU						 Enable												ゆうこう 様子
+無効					->		VÔ HỆU						 Disable												むこう 様子
+製品					->		CHẾ PHẨM						Sản phẩm, hàng hóa 												せいひん 様子
+警告					->		CẢNH CÁO						 Warning, caution 												けいこく 様子
+項番					->		HẠNG PHIÊN						 Item number												こうばん 様子
+閲覧					->		DUYỆT LÃM						Xem, đọc View												えつらん 様子
+製造					->		CHẾ TẠO						Sản xuất, lập trình 												せいぞう 開発
+端数					->		ĐOAN SỐ						Số dư Fraction												はすう IT用語
+有効数字				->			HỮU HIỆU SỐ TỰ						 Significant figures :  là những số không phải là 0 đằng trước và sau dấu chấm ( nếu là số 0 giữa 2 số ko là số o thì cũng được coi là significant figure ) 												ゆうこうすうじ IT用語
+整合性				->			CHỈNH HỢP TÍNH						Tính nhất quán 												せいごうせい 様子
+暫定					->		TẠM ĐỊNH						Tạm thời 												ざんてい 作業
+随時					->		TÙY THỜI						Bất cứ lúc nào 												ずいじ 様子
+廃止					->		PHẾ CHỈ						Đình chỉ, hủy 												はいし 様子
+仕分け				->			SĨ PHÂN						Phân loại hàng hóa 												しわけ 様子
+陳列					->		TRẦN THUẬT						Giải trình, trưng bày 												ちんれつ 様子
+洗い出し				->			TẨY XUẤT						Lấy ra 												あらいだし 様子
+代入					->		ĐẠI NHẬP						 fetch												だいにゅう 様子
+検品					->		KIỂM PHẨM						Kiểm tra sản phẩm 												けんぴん 様子
+所定					->		SỞ ĐỊNH						Quyết định 												しょてい 様子
+改廃					->		CẢI PHẾ						Thay đổi, cải tổ 												かいはい 様子
+除外					->		TRỪ NGOẠI						Loại bỏ, loại trừ 												じょがい 様子
+余談					->		DƯ ĐÀM						Nói ngoài lề 												よだん 様子
+																									
+																									
