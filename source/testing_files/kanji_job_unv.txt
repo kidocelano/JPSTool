@@ -314,5 +314,9 @@
 改廃					->		CẢI PHẾ						Thay đổi, cải tổ 												かいはい 様子
 除外					->		TRỪ NGOẠI						Loại bỏ, loại trừ 												じょがい 様子
 余談					->		DƯ ĐÀM						Nói ngoài lề 												よだん 様子
-																									
+印刷					->		ẤN LOÁT						in										いんさつ
+発注					->		PHÁT CHÚ					đặt hàng									はっちゅ
+返品					->		PHẢN PHẨM 					trả hàng										へんぴん	
+棚卸					->		BẰNG TÁ						kiểm kê										たなおろし
+伝票					->		TRUYỀN PHIẾU				hoá đơn										でんぴょう																									
 																									

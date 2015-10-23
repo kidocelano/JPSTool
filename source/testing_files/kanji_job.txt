@@ -218,3 +218,24 @@
 消える			->		TIÊU						Biến mất, tan đi, tắt						きえる
 一通り			->		NHẤT THÔNG					Thông thường; đại khái;						ひととおり
 該当する			->		CAI ĐƯƠNG					Tương ứng; liên quan; tương thích			がいとう
+概要				->		KHÁI YẾU					tóm lược; khái quát							がいよう
+次第				->		THỨ ĐỆ						Dần dần;ngay khi;でき次第(As soon as possible)	しだい
+領域				->		LĨNH VỰC					Vùng, khu vực								りょういき
+読込				->		ĐỘC ()[VÀO]					đọc											よみこみ
+対策				->		ĐỐI SÁCH					Biện pháp, Đối sách							たいさく
+構成				->		CẤU THÀNH					Cấu thành; sự cấu thành; cấu tạo			こうせい
+個人				->		CÁ NHÂN						Cá nhân; cá thể								こじん
+権限				->		QUYỀN HẠN					Quyền hạn; thẩm quyền; quyền				けんげん
+別途				->		BIỆT ĐỒ						Đặc biệt, riêng biệt, cảnh sát đặc biệt		べっと
+一致				->		NHẤT TRÍ					Sự nhất trí; sự giống nhau; sự thống nhất	いっち
+複数				->		PHỨC SỐ						Số nhiều, Phức số							ふくすう
+静的				->		TĨNH ĐÍCH					tĩnh, static								せいてき
+保持				->		BẢO TRÌ						Bảo trì, lưu								ほじ
+独立する			->		ĐỘC LẬP						Độc lập (independent)						どくりつする
+印刷				->		ẤN LOÁT						in											いんさつ
+発注				->		PHÁT CHÚ					đặt hàng									はっちゅ
+返品				->		PHẢN PHẨM 					trả hàng									へんぴん	
+棚卸				->		BẰNG TÁ						kiểm kê										たなおろし
+伝票				->		TRUYỀN PHIẾU				hoá đơn										でんぴょう
+再現				->		TÁI HIỆN					reproduce, tái hiện							さいげん
+配置する			->		PHỐI TRÍ					Sắp đặt; an bài; bố trí						はいち
