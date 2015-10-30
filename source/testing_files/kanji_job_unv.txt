@@ -300,23 +300,40 @@
 閲覧					->		DUYỆT LÃM						Xem, đọc View												えつらん 様子
 製造					->		CHẾ TẠO						Sản xuất, lập trình 												せいぞう 開発
 端数					->		ĐOAN SỐ						Số dư Fraction												はすう IT用語
-有効数字				->			HỮU HIỆU SỐ TỰ						 Significant figures :  là những số không phải là 0 đằng trước và sau dấu chấm ( nếu là số 0 giữa 2 số ko là số o thì cũng được coi là significant figure ) 												ゆうこうすうじ IT用語
-整合性				->			CHỈNH HỢP TÍNH						Tính nhất quán 												せいごうせい 様子
-暫定					->		TẠM ĐỊNH						Tạm thời 												ざんてい 作業
-随時					->		TÙY THỜI						Bất cứ lúc nào 												ずいじ 様子
+有効数字				->		HỮU HIỆU SỐ TỰ						 Significant figures :  là những số không phải là 0 đằng trước và sau dấu chấm ( nếu là số 0 giữa 2 số ko là số o thì cũng được coi là significant figure ) 												ゆうこうすうじ IT用語
+整合性				->		CHỈNH HỢP TÍNH						Tính nhất quán 									せいごうせい 様子
+暫定					->		TẠM ĐỊNH					Tạm thời 													ざんてい 作業
+随時					->		TÙY THỜI					Bất cứ lúc nào 												ずいじ 様子
 廃止					->		PHẾ CHỈ						Đình chỉ, hủy 												はいし 様子
-仕分け				->			SĨ PHÂN						Phân loại hàng hóa 												しわけ 様子
-陳列					->		TRẦN THUẬT						Giải trình, trưng bày 												ちんれつ 様子
-洗い出し				->			TẨY XUẤT						Lấy ra 												あらいだし 様子
-代入					->		ĐẠI NHẬP						 fetch												だいにゅう 様子
-検品					->		KIỂM PHẨM						Kiểm tra sản phẩm 												けんぴん 様子
-所定					->		SỞ ĐỊNH						Quyết định 												しょてい 様子
-改廃					->		CẢI PHẾ						Thay đổi, cải tổ 												かいはい 様子
-除外					->		TRỪ NGOẠI						Loại bỏ, loại trừ 												じょがい 様子
+仕分け				->		SĨ PHÂN						Phân loại hàng hóa 											しわけ 様子
+陳列					->		TRẦN THUẬT					Giải trình, trưng bày 										ちんれつ 様子
+洗い出し				->		TẨY XUẤT					Lấy ra 														あらいだし 様子
+代入					->		ĐẠI NHẬP					fetch														だいにゅう 様子
+検品					->		KIỂM PHẨM					Kiểm tra sản phẩm 											けんぴん 様子
+所定					->		SỞ ĐỊNH						Quyết định 													しょてい 様子
+改廃					->		CẢI PHẾ						Thay đổi, cải tổ 											かいはい 様子
+除外					->		TRỪ NGOẠI					Loại bỏ, loại trừ 											じょがい 様子
 余談					->		DƯ ĐÀM						Nói ngoài lề 												よだん 様子
-印刷					->		ẤN LOÁT						in										いんさつ
-発注					->		PHÁT CHÚ					đặt hàng									はっちゅ
-返品					->		PHẢN PHẨM 					trả hàng										へんぴん	
-棚卸					->		BẰNG TÁ						kiểm kê										たなおろし
-伝票					->		TRUYỀN PHIẾU				hoá đơn										でんぴょう																									
-																									
+印刷					->		ẤN LOÁT						in															いんさつ
+発注					->		PHÁT CHÚ					đặt hàng													はっちゅ
+返品					->		PHẢN PHẨM 					trả hàng													へんぴん
+棚卸					->		BẰNG TÁ						kiểm kê														たなおろし
+伝票					->		TRUYỀN PHIẾU				hoá đơn														でんぴょう
+保持					->		BẢO TRÌ						Bảo trì, lưu												ほじ
+独立する				->		ĐỘC LẬP						Độc lập (independent)										どくりつする
+印刷					->		ẤN LOÁT						in															いんさつ
+発注					->		PHÁT CHÚ					đặt hàng													はっちゅ
+返品					->		PHẢN PHẨM 					trả hàng													へんぴん
+棚卸					->		BẰNG TÁ						kiểm kê														たなおろし
+伝票					->		TRUYỀN PHIẾU				hoá đơn														でんぴょう
+再現					->		TÁI HIỆN					reproduce, tái hiện											さいげん
+配置する				->		PHỐI TRÍ					Sắp đặt; an bài; bố trí										はいち
+但し					->		ĐÃN							Tuy nhiên													ただし
+権限					->		QUYỀN HẠN					Quyền hạn; thẩm quyền; quyền								けんげん
+整う					->		CHỈNH						Được chuẩn bị												ととのう			
+初期					->		SƠ KÌ						Ban đầu; initial											しょき
+接続					->		TIẾP TỤC					Kế tiếp														せつぞく
+代替					->		ĐẠI THẾ						thay thế									だいたい
+基礎情報				->		CƠ SỞ THÔNG TIN				thông tin cơ sở									きそじょうほう　
+店別情報				->		ĐIỂM BIỆT THÔNG TIN			thông tin cửa hàng riêng lẻ						てんべつじょうほう　
+単価					->		ĐƠN GIÁ						đơn giá										たんか　
