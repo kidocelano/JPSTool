@@ -7,13 +7,33 @@ public class SearchingKanjiObject {
 	private String kanji;
 	private String hanViet;
 	private String meaning;
+	private String on;
+	private String kun;
 	private Map<String, String> mapComponent;
 
-	public SearchingKanjiObject(String kanji, String hanViet, String meaning) {
+	public SearchingKanjiObject(String kanji, String hanViet, String meaning, String on, String kun) {
 		this.kanji = kanji;
 		this.hanViet = hanViet;
 		this.meaning = meaning;
+		this.on = on;
+		this.kun = kun;
 		this.mapComponent = new LinkedHashMap<String, String>();
+	}
+
+	public String getOn() {
+		return on;
+	}
+
+	public void setOn(String on) {
+		this.on = on;
+	}
+
+	public String getKun() {
+		return kun;
+	}
+
+	public void setKun(String kun) {
+		this.kun = kun;
 	}
 
 	public void addKanjiComponent(String radial, String hanViet) {
