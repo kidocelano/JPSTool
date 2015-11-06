@@ -330,10 +330,16 @@
 配置する				->		PHỐI TRÍ					Sắp đặt; an bài; bố trí										はいち
 但し					->		ĐÃN							Tuy nhiên													ただし
 権限					->		QUYỀN HẠN					Quyền hạn; thẩm quyền; quyền								けんげん
-整う					->		CHỈNH						Được chuẩn bị												ととのう
+整う					->		CHỈNH						Được chuẩn bị												ととのう			
 初期					->		SƠ KÌ						Ban đầu; initial											しょき
 接続					->		TIẾP TỤC					Kế tiếp														せつぞく
 代替					->		ĐẠI THẾ						thay thế									だいたい
 基礎情報				->		CƠ SỞ THÔNG TIN				thông tin cơ sở									きそじょうほう　
 店別情報				->		ĐIỂM BIỆT THÔNG TIN			thông tin cửa hàng riêng lẻ						てんべつじょうほう　
-単価					->		ĐƠN GIÁ						đơn giá										たんか
+単価					->		ĐƠN GIÁ						đơn giá										たんか　
+赤字					->		XÍCH TỰ						Lỗ; thâm hụt thương mại						あかじ
+無視					->		VÔ THỊ						Sự xem thường; sự phớt lờ 					むし
+範囲					->		PHẠM VI						Phạm vi										はんい
+略称					->		LƯỢC XƯNG					tên viết tắt								りゃくしょう		
+レシート品名			->		PHẨM DANH					tên sản phẩm in trên biên lai				レシートひんめい
+品番					->		PHẨM PHIÊN					số sản phẩm									ひんばん
