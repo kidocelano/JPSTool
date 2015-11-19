@@ -75,7 +75,7 @@ public class PickupWordEnigneSmart implements PickupWordEnigne {
 	private List<ProfileLearning> getProfilesList(PickupType type) {
 		List<ProfileLearning> tempList = hashMapType.get(type);
 		if (tempList == null) {
-			tempList = new ArrayList<>();
+			tempList = new ArrayList<ProfileLearning>();
 			hashMapType.put(type, tempList);
 		}
 		return tempList;
@@ -91,7 +91,7 @@ public class PickupWordEnigneSmart implements PickupWordEnigne {
 	}
 
 	private List<WordItem> getRandomFormList(int times, List<ProfileLearning> profileList) {
-		List<WordItem> list = new ArrayList<>();
+		List<WordItem> list = new ArrayList<WordItem>();
 		Random random = new Random();
 		if (profileList.size() == 0) {
 			return list;
@@ -114,7 +114,7 @@ public class PickupWordEnigneSmart implements PickupWordEnigne {
 		float realPFailWord = percentFailWord / total;
 		float realPOldWord = percentOldWord / total;
 
-		List<WordItem> resultList = new ArrayList<>();
+		List<WordItem> resultList = new ArrayList<WordItem>();
 		resultList.addAll(getRandomFormList(Math.round(realPNewWord * CONST_TOTAL_TIME_RANDOM), getProfilesList(PickupType.NEW_WORD)));
 		resultList.addAll(getRandomFormList(Math.round(realPFailWord * CONST_TOTAL_TIME_RANDOM), getProfilesList(PickupType.FAIL_WORD)));
 		resultList.addAll(getRandomFormList(Math.round(realPOldWord * CONST_TOTAL_TIME_RANDOM), getProfilesList(PickupType.OLD_WORD)));

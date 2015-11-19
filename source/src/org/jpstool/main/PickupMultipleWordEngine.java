@@ -26,7 +26,7 @@ public class PickupMultipleWordEngine implements PickupWordEnigne {
 			sbMeaning.append(wordItem.getKanjiWord());
 			sbMeaning.append(String.format("(%s)", wordItem.getHanVietWord()));
 			sbMeaning.append(" -> " + wordItem.getMeaning());
-			sbMeaning.append(System.lineSeparator());
+			sbMeaning.append(JPSConstant.CONST_LINE_SEPARATOR);
 		}
 
 		return new WordItem(sbKnaji.toString(), "", sbMeaning.toString(), "", "");

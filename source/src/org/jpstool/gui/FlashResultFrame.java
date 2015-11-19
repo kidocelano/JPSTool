@@ -3,7 +3,6 @@ package org.jpstool.gui;
 import java.awt.BorderLayout;
 import java.awt.Container;
 import java.awt.FlowLayout;
-import java.awt.Font;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
@@ -19,6 +18,7 @@ import javax.swing.JTextField;
 import javax.swing.border.EmptyBorder;
 import javax.swing.text.JTextComponent;
 
+import org.jpstool.main.JPSConstant;
 import org.jpstool.main.JPSUtil;
 import org.jpstool.main.WordItem;
 import org.jpstool.searching.SearchingKanjiObject;
@@ -103,21 +103,21 @@ public class FlashResultFrame extends JFrame {
 				for (SearchingKanjiObject item : lst) {
 					sb.append(item.getKanji());
 					sb.append(String.format("(%s)", item.getHanViet()));
-					sb.append(System.lineSeparator());
+					sb.append(JPSConstant.CONST_LINE_SEPARATOR);
 					sb.append(String.format("訓:%s", item.getKun()));
-					sb.append(System.lineSeparator());
+					sb.append(JPSConstant.CONST_LINE_SEPARATOR);
 					sb.append(String.format("音:%s", item.getOn()));
-					sb.append(System.lineSeparator());
+					sb.append(JPSConstant.CONST_LINE_SEPARATOR);
 					Set<Map.Entry<String, String>> entries = item.getMapComponent().entrySet();
 					for (Map.Entry<String, String> entry : entries) {
 						sb.append(entry.getKey());
 						sb.append(String.format("(%s)", entry.getValue()));
 						sb.append(", ");
 					}
-					sb.append(System.lineSeparator());
-					sb.append(item.getMeaning().replaceAll("##", System.lineSeparator()));
-					sb.append(System.lineSeparator());
-					sb.append(System.lineSeparator());
+					sb.append(JPSConstant.CONST_LINE_SEPARATOR);
+					sb.append(item.getMeaning().replaceAll("##", JPSConstant.CONST_LINE_SEPARATOR));
+					sb.append(JPSConstant.CONST_LINE_SEPARATOR);
+					sb.append(JPSConstant.CONST_LINE_SEPARATOR);
 				}
 			}
 
