@@ -31,7 +31,7 @@ public class LoadWordPlainText implements LoadWordsEngine {
 	public List<WordItem> getListWords(File wordFile) throws IOException {
 		FileInputStream fis = new FileInputStream(wordFile);
 		List<String> allLines = IOUtils.readLines(fis, "UTF-8");
-		List<WordItem> listWordItem = new ArrayList<>();
+		List<WordItem> listWordItem = new ArrayList<WordItem>();
 		for (String line : allLines) {
 			listWordItem.add(parseWordItemFromPlainText(line));
 		}

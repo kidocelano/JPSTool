@@ -17,6 +17,7 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 
 import org.jpstool.main.JPSConstant;
+import org.jpstool.main.JPSUtil;
 import org.jpstool.main.WordItem;
 import org.jpstool.smartcore.ProfileManangement;
 
@@ -58,6 +59,7 @@ public class FlashCardFrame extends JFrame {
 
 	private void setupLayout() {
 		tfSmallKanjiText = new JTextField(27);
+		tfSmallKanjiText.setFont(JPSUtil.FontType.getFontBySize(tfSmallKanjiText.getFont().getSize()));
 		tfSmallKanjiText.setEditable(false);
 
 		btnShowLargeKanji = new JButton("Larger");

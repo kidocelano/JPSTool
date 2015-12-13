@@ -14,7 +14,6 @@ import java.io.IOException;
 import javax.swing.BoxLayout;
 import javax.swing.ButtonGroup;
 import javax.swing.JButton;
-import javax.swing.JCheckBox;
 import javax.swing.JFileChooser;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -78,9 +77,17 @@ public class FlashCardSettingFrame extends JFrame {
 		pack();
 	}
 
-	public FlashCardSettingFrame(String filePath) throws ClassNotFoundException, IOException {
+	public FlashCardSettingFrame(String filePath, long interval, boolean isAutoStart) throws ClassNotFoundException, IOException {
 		this();
 		tfKanjiFilePath.setText(filePath);
+
+		if (interval != -1) {
+			tfInterval.setText(interval + "");
+		}
+
+		if (isAutoStart) {
+			btnApply.doClick();
+		}
 	}
 
 	private void init() {

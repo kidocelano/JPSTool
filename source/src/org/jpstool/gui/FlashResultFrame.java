@@ -3,7 +3,6 @@ package org.jpstool.gui;
 import java.awt.BorderLayout;
 import java.awt.Container;
 import java.awt.FlowLayout;
-import java.awt.Font;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
@@ -19,6 +18,8 @@ import javax.swing.JTextField;
 import javax.swing.border.EmptyBorder;
 import javax.swing.text.JTextComponent;
 
+import org.jpstool.main.JPSConstant;
+import org.jpstool.main.JPSUtil;
 import org.jpstool.main.WordItem;
 import org.jpstool.searching.SearchingKanjiObject;
 import org.jpstool.smartcore.ProfileLearning;
@@ -102,17 +103,21 @@ public class FlashResultFrame extends JFrame {
 				for (SearchingKanjiObject item : lst) {
 					sb.append(item.getKanji());
 					sb.append(String.format("(%s)", item.getHanViet()));
-					sb.append(System.lineSeparator());
+					sb.append(JPSConstant.CONST_LINE_SEPARATOR);
+					sb.append(String.format("訓:%s", item.getKun()));
+					sb.append(JPSConstant.CONST_LINE_SEPARATOR);
+					sb.append(String.format("音:%s", item.getOn()));
+					sb.append(JPSConstant.CONST_LINE_SEPARATOR);
 					Set<Map.Entry<String, String>> entries = item.getMapComponent().entrySet();
 					for (Map.Entry<String, String> entry : entries) {
 						sb.append(entry.getKey());
 						sb.append(String.format("(%s)", entry.getValue()));
 						sb.append(", ");
 					}
-					sb.append(System.lineSeparator());
-					sb.append(item.getMeaning().replaceAll("##", System.lineSeparator()));
-					sb.append(System.lineSeparator());
-					sb.append(System.lineSeparator());
+					sb.append(JPSConstant.CONST_LINE_SEPARATOR);
+					sb.append(item.getMeaning().replaceAll("##", JPSConstant.CONST_LINE_SEPARATOR));
+					sb.append(JPSConstant.CONST_LINE_SEPARATOR);
+					sb.append(JPSConstant.CONST_LINE_SEPARATOR);
 				}
 			}
 
@@ -144,7 +149,8 @@ public class FlashResultFrame extends JFrame {
 		listTextComponentScreen.add(taMeaningText);
 
 		tfHiraganaText = new JTextField(COSNT_TEXTFIELD_LENGTH);
-		tfHiraganaText.setFont(FontType.getSmallFont());
+
+		tfHiraganaText.setFont(JPSUtil.FontType.getSmallFont());
 		listTextComponentScreen.add(tfHiraganaText);
 
 		taOtherText = new JTextArea();
@@ -162,7 +168,7 @@ public class FlashResultFrame extends JFrame {
 	private void setupLayout() {
 		createComponents();
 
-		tfLargeKanjiText.setFont(FontType.getLargeFont());
+		tfLargeKanjiText.setFont(JPSUtil.FontType.getLargeFont());
 
 		container.setLayout(new BorderLayout(CONST_LAYOUT_CONTAINER_MARGIN_HOR, CONST_LAYOUT_CONTAINER_MARGIN_VER));
 		container.add(panelCenterContainer = new JPanel(), BorderLayout.CENTER);
@@ -206,18 +212,5 @@ public class FlashResultFrame extends JFrame {
 		taOtherText.setText(otherText);
 	}
 
-	private static class FontType {
-		private static String fontName = "MS Gothic";
-		private static int style = Font.TRUETYPE_FONT;
-		private static int smallSize = 12;
-		private static int largeSize = 50;
 
-		public static Font getLargeFont() {
-			return new Font(fontName, style, largeSize);
-		}
-
-		public static Font getSmallFont() {
-			return new Font(fontName, style, smallSize);
-		}
-	}
 }

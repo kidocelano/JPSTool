@@ -29,6 +29,8 @@ public class MaziiSearching implements SearchingWordEngine {
 			String kanjiText = "";
 			String hanvietText = "";
 			String meaning = "";
+			String on = "";
+			String kun = "";
 
 			if (word.has("kanji") && word.get("kanji") instanceof String) {
 				kanjiText = word.getString("kanji");
@@ -42,7 +44,15 @@ public class MaziiSearching implements SearchingWordEngine {
 				meaning = word.getString("detail");
 			}
 
-			kanjiObject = new SearchingKanjiObject(kanjiText, hanvietText, meaning);
+			if (word.has("on") && word.get("on") instanceof String) {
+				on =  word.getString("on");
+			}
+
+			if (word.has("kun") && word.get("kun") instanceof String) {
+				kun =  word.getString("kun");
+			}
+
+			kanjiObject = new SearchingKanjiObject(kanjiText, hanvietText, meaning, on, kun);
 			if (word.has("compDetail") && word.get("compDetail") instanceof JSONArray) {
 				JSONArray compDetail = word.getJSONArray("compDetail");
 				for (int j = 0; j < compDetail.length(); j++) {
