@@ -28,14 +28,16 @@ public class PickupWordEnigneSmart implements PickupWordEnigne {
 	private float percentFailWord;
 	private float percentOldWord;
 
+	private boolean isFirstPickUp;
+
 	public PickupWordEnigneSmart(File profileFile, int percentNewWord, int percentFailWord, int percentOldWord) throws ClassNotFoundException, IOException {
 		this.profileFile = profileFile;
 		this.percentNewWord = percentNewWord;
 		this.percentFailWord = percentFailWord;
 		this.percentOldWord = percentOldWord;
 		this.profileFile = profileFile;
+		this.isFirstPickUp = true;
 		init();
-		parseType();
 	}
 
 	private void init() throws IOException, ClassNotFoundException {
@@ -48,11 +50,15 @@ public class PickupWordEnigneSmart implements PickupWordEnigne {
 		hashMapType = new HashMap<PickupType, List<ProfileLearning>>();
 	}
 
-	private void parseType() {
+	private void parseTypePickup(List<WordItem> listWordItem) {
 		float sumTimes;
 		final int CONST_INIT_STANDARD = 10;
 		float percent;
 		for (ProfileLearning pl : listProfileLearing) {
+			if (listWordItem.contains(pl.getWord()) == false) {
+				continue;
+			}
+
 			sumTimes = pl.getKnewCount() + pl.getNotKnewCount();
 			if (sumTimes == 0) {
 				sumTimes = 1;
@@ -62,10 +68,10 @@ public class PickupWordEnigneSmart implements PickupWordEnigne {
 
 			if (percent < CONST_PERCENT_FAIL_WORD || percent >= CONST_PERCENT_FAIL_WORD && sumTimes < CONST_INIT_STANDARD) {
 				getProfilesList(PickupType.FAIL_WORD).add(pl);
-			}
 
-			if (sumTimes > CONST_APPEAR_TIME_NEW) {
+			} else if (sumTimes > CONST_APPEAR_TIME_NEW) {
 				getProfilesList(PickupType.OLD_WORD).add(pl);
+
 			} else {
 				getProfilesList(PickupType.NEW_WORD).add(pl);
 			}
@@ -104,9 +110,10 @@ public class PickupWordEnigneSmart implements PickupWordEnigne {
 
 	@Override
 	public WordItem pickUpWord(List<WordItem> listWordItem) {
-		if (listWordItem.size() != listProfileLearing.size()) {
+		if (listWordItem.size() != listProfileLearing.size() || isFirstPickUp) {
+			isFirstPickUp = false;
 			synchronizedProfile(listWordItem);
-			parseType();
+			parseTypePickup(listWordItem);
 		}
 
 		float total = percentNewWord + percentFailWord + percentOldWord;
