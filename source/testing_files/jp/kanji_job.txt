@@ -1,0 +1,241 @@
+﻿に変換			->		BIẾN HOÁN					chuyển đổi									にへんかん
+文字				->		VĂN TỰ						ký tự										もじ
+文字数			->		VĂN TỰ SỐ					chữ số										もじすう
+場合				->		TRANG HỢP					trường hợp									ばあい
+続行する			->		TỤC HÀNH					Tiếp tục; tiếp diễn							ぞっこう
+処理				->		XỬ LÍ						Sự xử lý;									しょり
+カラム				->		cột column
+数				->		SỐ							số											すう
+重複				->		TRỌNG PHỤC					Sự trùng lặp;								ちょうふく
+あなたへの思い		->		những suy nghĩ hướng về bạn
+に成功する。		->		THÀNH CÔNG					thành công									にせいこうする
+に失敗する。		->		THẤT BẠI					thất bại									にしっぱい
+登録				->		ĐĂNG LỤC					đăng ký										とうろく
+終了				->		CHUNG LIỆU					kết thúc									しゅうりょう
+開始				->		KHAI THUỶ					bắt đầu										かいし
+正常				->		CHÍNH THƯỜNG				bình thường									せいじょう
+異常				->		BẤT THƯỜNG					bất thường									いじょう
+店舗				->		ĐIẾM PHỐ					cửa hàng									てんぽ
+価値				->		GIÁ TRỊ						giá trị										 かち
+項目				->		HẠNG MỤC					Hạng mục									こうもく
+追加				->		TRUY GIA					Sự thêm vào									ついか
+「へ」反映			->		PHẢN ÁNH					Sự phản ánh									はんえい
+存在する			->		TỒN TẠI						Sự tồn tại									そんざい
+発先				->		PHÁT TIÊN					Nơi đặt hàng								はつさき
+発単				->		PHÁT ĐƠN					đơn vị đặt hàng								はつたん
+入荷済			->		NHẬP HÀ(HẠ) TẾ				入荷:sự nhập hàng							にゅうか　すみ
+予定数			->		DỰ ĐỊNH SỐ					số dự định									よていすう
+条件				->		ĐIỀU KIỆN					Điều kiện; điều khoản						じょうけん
+表示				->		BIỂU THỊ					BIỂU KÌ										ひょうじ
+更新				->		CANH TÂN					update;sự cập nhật; đổi mới; cập nhật		こうしん
+新規				->		TÂN QUY						new											しんき
+企画				->		XÍ HOẠCH					kế hoạch									きかく
+数値				->		SỐ TRỊ						Giá trị bằng số								すうち
+倍数				->		BỘI SỔ						Bội số										ばいすう
+方式				->		PHƯƠNG THỨC					Cách thức									ほうしき
+不可				->		BẤT KHẢ  					Sự không thể; sự không được;				ふか
+遷移				->		THIÊN DI					Sự chuyển tiếp, sự đổi kiểu					せんい
+情報				->		TÌNH BÁO					thông tin									じょうほう
+結果				->		KẾT QUẢ						kết quả										けっか
+変更				->		BIẾN CANH					Sự thay đổi, change							へんこう
+参照				->		THAM CHIẾU					tham chiếu									さんしょう
+設定				->		THIẾT ĐỊNH					thiết lập									せってい
+備考				->		BỊ KHẢO						Ghi chú										びこう
+引数				->		DẪN SỔ						tham số										ひきすう
+実行				->		THỰC HÀNH					Thi hành									じっこう
+補足				->		BỔ TÚC						bổ sung										ほそく
+在庫				->		TẠI KHỐ						tồn kho										ざいこ
+方法				->		PHƯƠNG PHÁP					phương pháp									ほうほう
+警告				->		CẢNH CÁO					warning										けいこく
+以下				->		DĨ HẠ						Dưới đây; sau đây							いか
+勧告数			->		KHUYẾN CÁO SỐ				số khuyến nghị								かんこくすう
+販売				->		PHIẾN MẠI					Việc bán									はんばい
+発注				->		PHÁT CHỦ					Đặt hàng									
+納品				->		NẠP PHẨM					Giao hàng									のうひん
+作成				->		TÁC THÀNH					Tạo mới										さくせい
+削除				->		TƯỚC TRỪ					Xóa											さくじ
+検索				->		KIỂM SÁCH					tìm kiếm									けんさく
+入力				->		NHẬP LỰC					Input										にょうりょうく
+出力				->		XUẤT LỰC					Output										しゅっりょうく
+参考				->		THAM KHẢO					Sự tham khảo								さんこう
+分類				->		PHÂN LOẠI					phân loại									ぶんるい
+箇所				->		CÁ SỞ						Chỗ; nơi; địa điểm; điểm					かしょ
+下記				->		HẠ KÍ						The following, sau đây						かき
+様				->		DẠNG						Cách thức(tt な)								よう
+再度				->		TÁI ĐỘ						một lần nữa									さいど
+受入				->		THỤ NHẬP					Được chấp nhận								うけいれ
+了解				->		LIỄU GIẢI					Sự hiểu biết; sự nắm rõ						りょうかい
+保存				->		BẢO TỒN						save										ほぞん
+変数				->		BIẾN SỔ						variable									へんすう
+元				->		NGUYÊN						Nguyên bản; gốc; cơ sở; căn bản				もと
+明細				->		MINH TẾ						detail, chi tiết(tt な)						めいさい
+順番				->		THUẬN PHIÊN					thứ tự; lần lượt							じゅんばん
+昇順				->		THĂNG THUẬN					Ascending-order								しょうじゅん
+業務				->		NGHIỆP VỤ					Nghiệp vụ									ぎょうむ
+説明				->		THUYẾT MINH					Description									せつめい
+各				->		CÁC							Mỗi											かく
+単位				->		ĐƠN VỊ						đơn vị										たんい
+取得				->		THỦ ĐẮC						lấy từ ....(SP)								しゅとく
+同様				->		ĐỒNG DẠNG					Giống; tương tự								どうよう
+生成				->		SANH THÀNH					Tạo, tạo nên, tạo ra, tạo thành				せいせい
+中身				->		TRUNG THÂN					Bên trong; nội dung							 なかみ
+実装				->		THỰC TRANG					Sự thi hành, 								じっそう
+状態				->		TRẠNG THÁI					state										じょうたい
+真似				->		CHÂN TỰ						sự bắt chước; sự mô phỏng					まね
+了解しました。		->		LIỄU GIẢI					đã hiểu										りょうかいしました
+承知しました。		->		HỪA TRI						đã hiểu										しょうちしました
+期限				->		KÌ HẠN						Kì hạn(deadline)							きげん
+存在				->		TỒN TẠI																	そんざい
+代替				->		ĐẠI THẾ						Sự thay đổi quyền sở hữu; sự thay thế;		だいがえ
+作成者			->		TÁC THÀNH GIẢ				Tác giả, người tạo ra, người gây ra			さくせいしゃ
+単店				->		ĐƠN ĐIẾM					Cửa tiệm đơn lẻ								たんみせ
+規格				->		QUY CÁCH					Khuôn khổ, Qui cách							きかく
+品番				->		PHẨM PHIÊN					Mã sản phẩm									 ひんばん
+税区分			->		THUẾ KHU PHÂN				loại thuế									ぜいくぶN
+仕入				->		SĨ NHẬP						nhà cung cấp								しいれ
+起動				->		KHỞI ĐỘNG					Khởi động, ban đầu							きどう
+無し				->		VÔ							Không;										なし
+定義				->		ĐỊNH NGHĨA					Định nghĩa; sự định nghĩa					ていぎ
+桁数				->		HÀNH SỐ						số lượng ký tự								けたすう
+0埋				->		MAI							fill zero									0うま
+整列				->		CHỈNH LIỆT					canh lề, alignment							せいれつ
+種別				->		CHỦNG BIỆT					Sự phân loại								しゅべつ
+単純				->		ĐƠN THUẦN					Sự đơn giản									たんじゅん
+基本				->		CƠ BẢN						cơ bản										きほん
+組合				->		TỔ HỢP						Sự ghép lại; sự kết hợp; liên kết lại		くみあい
+修正点			->		TU CHÍNH ĐIỂM				sự sửa đổi									しゅうせいてん
+抜き				->		BẠT							không bao gồm								ぬき
+込み				->		VÀO							bao gồm										こみ
+税				->		THUẾ						thuế										ぜい
+一括				->		NHẤT QUÁT					Gộp; cùng một lúc; tổng hợp; một lần 		いっかつ
+内容				->		NỘI DUNG					Nội dung									ないよう
+残る				->		TÀN							Còn lại; sót lại; còn						のこる
+完了				->		HOÀN LIỄU					Sự xong xuôi; sự kết thúc; sự hoàn thành	かんりょう
+作業				->		TÁC NGHIỆP					Công việc									さぎょう
+間違う			->		GIAN VI						gõ phím nhầm Lỗi; nhầm lẫn, Sai lầm .		まちがう
+稼働				->		GIÁ ĐỘNG					Hoạt động; làm việc;Vận hành				かどう
+為				->		VI							Bởi vì; mục đích là; vì; cho; vị			ため(イ)
+改良				->		CẢI LƯƠNG					Sự cải thiện; sự cải tiến					かいりょう
+添付				->		THIÊM PHÓ					Sự gắn thêm; sự đính thêm					てんぷ
+操作				->		THAO TÁC					Sự thao tác; sự vận dụng khéo léo .			 そうさ
+操作感			->		THAO TÁC CẢM				Cảm giác thao tác							そうさかん
+検討				->		KIỂM THẢO					Thảo luận; bàn bạc; xem xét; nghiên cứu		けんとう
+統一				->		THỐNG NHẤT					Sự thống nhất								とういつ
+属性				->		CHÚC TÍNH					Thuộc tính attribute						ぞくせい
+初期値			->		SƠ KÌ TRỊ					Initial value								しょきち
+最大値			->		TỐI ĐẠI TRỊ					Maximum value								さいだいち
+当日				->		ĐƯƠNG NHẬT					Ngày hôm đó; ngày được nhắc tới				とうじつ
+日付				->		NHẬT PHÓ					Ngày tháng									ひづけ
+しかない			->									chỉ có
+照会				->		CHIẾU HỘI					Sự điều tra; sự truy hỏi					しょうかい
+適用				->		THÍCH DỤNG					Sự ứng dụng; sự áp dụng						てきよう
+伝票				->		TRUYỀN PHIẾU				hóa đơn										でんぴょう
+改修				->		CẢI TU						Sự sửa chữa; sự cải tiến; sự cải tạo		かいしゅう
+関連				->		QUAN LIÊN					Sự liên quan; sự liên hệ; sự quan hệ		かんれん
+部分				->		BỘ PHÂN						Bộ phận; phần								ぶぶん
+最新				->		TỐI TÂN						Sự tối tân; cái mới nhất					さいしん
+進める			->		TIẾN						Thúc đẩy; xúc tiến; đẩy nhanh				すすめる
+含める			->		HÀM							Bao gồm										ふくめる
+漏れる			->		LẬU							Lộ; rò rỉ; chảy ri rỉ; rỉ ra				もれる
+指示				->		CHỈ KÌ						Sự chỉ thị; sự chỉ dẫn						しじ
+もし				->									if, supposing, in case
+制御				->		CHẾ NGỰ						Sự chế ngự; sự thống trị; kiểm soát;		せいぎょ
+対応				->		ĐỐI ỨNG						Sự đối ứng .								たいおう
+次				->		THỨ							Lần sau; sau đây; tiếp đến					つぎ(ジ)
+移動				->		DI ĐỘNG						Sự di chuyển; sự di động					いどう
+補償				->		BỔ THƯỜNG					Sự đền bù; sự bồi thường					ほしょう
+指定				->		CHỈ ĐỊNH					Sự chỉ định									してい
+により				->									bằng (各機能画面により動作が異なります)
+明示				->		MINH KÌ						Sự chỉ bảo rõ ràng; sự trình bày rõ ràng.	めいじ
+判断				->		PHÁN ĐOẠN					Phán đoán, Decision, Determine				はんだ
+必要				->		TẤT YẾU						Điều tất yếu								ひつよう
+上記				->		THƯỢNG KÍ					Above mentioned								じょうき
+可能				->		KHẢ NĂNG					Khả năng; có thể, Có thể; khả năng			かのう
+不要				->		BẤT YẾU						Không cần thiết; không thiết yếu; lãng phí	ふよう
+仕様				->		SĨ DẠNG						Specification, thiết kế, cách thức			しよう
+使用可能			->		SỬ DỤNG KHẢ NĂNG			Sẵn có để dùng, sẵn sàng để dùng			しようかのう
+通り				->		THÔNG						Theo như...(... như ...) NP					どおり
+初め				->		SƠ							Ban đầu; lần đầu; khởi đầu					はじめ
+理由				->		LÍ DO						Nguyên do; nguyên nhân; lý do				りゆう
+担当者			->		ĐAM ĐƯƠNG GIẢ				Người phụ trách								たんとうしゃ
+等				->		ĐẲNG						Vân vân										など
+必ず				->		TẤT							Nhất định; tất cả							かならず
+確定				->		XÁC ĐỊNH					Sự xác định; quyết định						かくてい
+超える			->		SIÊU						Vượt quá; quá (hạn định, giới hạn)			こえる
+基づく				->		CƠ							Dựa vào; căn cứ vào; do						もとづく
+設置				->		THIẾT TRÍ					Sự thành lập; sự thiết lập .				せっち
+現在				->		HIỆN TẠI					Hiện tại; hiện giờ; hiện nay; lúc này		げんざい
+開発				->		KHAI PHÁT					Sự phát triển								かいはつ
+報告				->		BÁO CÁO						Báo cáo,  Sự báo cáo.						ほうこく
+疑似的			->		NGHI TỰ ĐÍCH				pseudo										ぎじてき
+認証				->		NHẬN CHỨNG					Sự chứng nhận .								にんしょう
+無効				->		VÔ HIỆU						Sự vô hiệu									むこう
+返品				->		PHẢN PHẨM					(Trả Hàng)Returned goods					へんぴん
+場合など			->		TRANG HỢP					Ví dụ , nếu									ばあいなど
+停止				->		ĐÌNH CHỈ					Sự đình chỉ; dừng lại						ていし
+未(未登録)		->		VỊ							Vẫn chưa; chưa. Chưa đăng ký (未登録)			みとうろく
+選択				->		TUYỂN TRẠCH					Sự lựa chọn; sự tuyển chọn					せんたく
+要望				->		YẾU VỌNG					Sự mong muốn; ước nguyện					ようぼう
+経費				->		KINH PHÍ					Kinh phí; tiền chi tiêu; phí tổn; chi phí	けいひ
+広げる			->		QUẢNG						mở rộng ra; giãn rộng ra; làm cho rộng ra;	ひろげる
+現状				->		HIỆN TRẠNG					Hiện trạng; tình trạng;						げんじょう
+改善				->		CẢI THIỆN					Sự cải thiện; việc cải thiện				かいぜん
+売変日			->		MẠI BIẾN NHẬT				MBN											ばいへんび
+失う				->		THẤT						lose  Mất; bị tước; bỏ lỡ; bị mất;
+改行				->		CẢI HÀNH					ngắt dòng CRLF								かいぎょう
+調査				->		ĐIỀU TRA					Sự điều tra; bản điều tra; cuộc điều tra	ちょうさ
+機能系			->		KI(CƠ) NĂNG HỆ				hệ thống chức năng							きのうけい
+べき				->		べき > nên || 信じるべきことですか。(có nên tin hay không) || 信じるかどうか考えています。
+依頼				->		Y(Ỷ) LẠI					sự yêu cầu;									いらい
+固定				->		CỐ ĐỊNH						Sự cố định; sự giữ nguyên; giữ cố định		こてい
+データ部			->		BỘ							phần dữ liệu								データぶ
+クロール			->									crawl (thu thập thông tin)
+降順				->		GIÁNG THUẬN					Thứ tự giảm dần								こうじゅん
+受信				->		THỤ TÍN						Sự thu tín hiệu; sự tiếp nhận tín hiệu 		じゅしん
+枠				->									Khung; giá .								わく
+実機				->		THỰC KI(CƠ)					thiết bị thực tế							じっき
+調整				->		ĐIỀU CHỈNH					Sự điều chỉnh, Điều chỉnh					ちょうせい
+影響				->		ẢNH HƯỞNG					Sự ảnh hưởng; va chạm						えいきょう
+重なる			->		TRỌNG						Chồng chất; xếp chồng lên					かさなる
+赤枠				->		XÍCH [  ]					khung màu đỏ								あかわく
+不具合			->		BẤT CỤ HỢP					Sự bất tiện; lỗi							ふぐあい
+けっして + V(ない)	->									けっして勉強しない	(hoàn toàn không học)
+任意				->		NHIỆM Ý						optional									にんい
+総件数			->		TỔNG KIỆN SỐ				tổng số										そうけんすう
+通常				->		THÔNG THƯỜNG				Thông thường; thường thường					つうじょう
+流れ				->		LƯU							Luồng chương trình (flow)					ながれ
+原因				->		NGUYÊN NHÂN					Nguyên nhân, Nguyên do						げんいん
+通さず			->		THÔNG						通さず = 通さない (通す)							とおす
+用意				->		DỤNG Ý						Sẵn sàng,Sự sửa soạn; sự chuẩn bị			ようい
+空白				->		KHÔNG BẠCH					rỗng (empty)								くうはく
+発生				->		PHÁT SANH					Sự phát sinh								はっせい
+対象				->		ĐỐI TƯỢNG					Đối tượng									たいしょう
+場面				->		TRÀNG DIỆN					Cảnh (kịch); tình trạng						ばめん
+最後				->		TỐI HẬU						Cuối cùng									さいご
+記述				->		KÍ THUẬT					mô tả,  ghi chép							きじゅつ
+に..従い			->		TÙNG						theo　(accordance)							したが.う (したが.い)
+明示的			->		MINH KÌ ĐÍCH				Rõ ràng, dứt khoát, nói thẳng, hiện			めいじてき
+消える			->		TIÊU						Biến mất, tan đi, tắt						きえる
+一通り			->		NHẤT THÔNG					Thông thường; đại khái;						ひととおり
+該当する			->		CAI ĐƯƠNG					Tương ứng; liên quan; tương thích			がいとう
+概要				->		KHÁI YẾU					tóm lược; khái quát							がいよう
+次第				->		THỨ ĐỆ						Dần dần;ngay khi;でき次第(As soon as possible)	しだい
+領域				->		LĨNH VỰC					Vùng, khu vực								りょういき
+読込				->		ĐỘC ()[VÀO]					đọc											よみこみ
+対策				->		ĐỐI SÁCH					Biện pháp, Đối sách							たいさく
+構成				->		CẤU THÀNH					Cấu thành; sự cấu thành; cấu tạo			こうせい
+個人				->		CÁ NHÂN						Cá nhân; cá thể								こじん
+権限				->		QUYỀN HẠN					Quyền hạn; thẩm quyền; quyền				けんげん
+別途				->		BIỆT ĐỒ						Đặc biệt, riêng biệt, cảnh sát đặc biệt		べっと
+一致				->		NHẤT TRÍ					Sự nhất trí; sự giống nhau; sự thống nhất	いっち
+複数				->		PHỨC SỐ						Số nhiều, Phức số							ふくすう
+静的				->		TĨNH ĐÍCH					tĩnh, static								せいてき
+保持				->		BẢO TRÌ						Bảo trì, lưu								ほじ
+独立する			->		ĐỘC LẬP						Độc lập (independent)						どくりつする
+印刷				->		ẤN LOÁT						in											いんさつ
+発注				->		PHÁT CHÚ					đặt hàng									はっちゅ
+返品				->		PHẢN PHẨM 					trả hàng									へんぴん	
+棚卸				->		BẰNG TÁ						kiểm kê										たなおろし
+伝票				->		TRUYỀN PHIẾU				hoá đơn										でんぴょう
+再現				->		TÁI HIỆN					reproduce, tái hiện							さいげん
+配置する			->		PHỐI TRÍ					Sắp đặt; an bài; bố trí						はいち
