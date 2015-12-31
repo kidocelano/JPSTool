@@ -370,7 +370,7 @@
 版					->		BẢN							Bản in, Thứ tự của bản in.									はん
 相対					->		TƯƠNG ĐỐI					Tương đối 													そうたい
 位置					->		VỊ TRÍ						Vị trí														いち
-紐付					->		NỮU PHÓ						neo giá														つかい
+紐付					->		NỮU PHÓ						link														ひもづき
 記載					->		KÍ TÁI						Sự ghi chép; ghi; ghi chép									きさい
 実際					->		THỰC TẾ						Thực tế														じっさい
 次第					->		THỨ ĐỆ						Dần dần; từ từ,  Tình hình; hoàn cảnh						しだい
@@ -478,3 +478,6 @@
 早目					->		TẢO MỤC						(1) early; (2) fast											はやめ
 両方					->		LƯỠNG PHƯƠNG				cả hai (IGNOREROW、IGNORECOLUMNは両方存在)						りょうほう					
 嘘					->		HƯ							 Lời nói dối; sự dối trá; sự giả dối						うそ
+スライド				->		 							slide, swipe														スライド
+回る					->		HỒI							Xoay, quay; chuyển hồi;										まわる
+株価				->		CHU GIÁ						 Stock prices, giá chứng khoán								かぶか
