@@ -1,0 +1,858 @@
+﻿駐車	ちゅうしゃ sự đậu xe,đỗ xe TRÚ XA
+駐車場	ちゅうしゃじょう Bãi đậu xe TRÚ XA TRƯỜNG, TRÀNG
+無休	むきゅう Không có ngày nghỉ VÔ HƯU
+無料	むりょう Miễn phí VÔ LIỆU
+無理	むり Điều vô lý, quá sức VÔ LÝ
+無い	ない Không có,không,không tồn tại VÔ
+満車	まんしゃ Sự xếp đầy, sự chở đầy,sự tải đầy MÃN XA
+満員	まんいん Sự đông người; sự chật ních người MÃN VIÊN
+不満	ふまん Bất mãn BẤT MÃN
+向こう	むこう Mặt khác,đối diện,phần kia HƯỚNG
+向かう	むかう Hướng về, đối diện,quay về phía HƯỚNG
+向き	むき Phù hợp với HƯỚNG
+方向	ほうこう Hướng,lối đi,mục tiêu,mục đích PHƯƠNG HƯỚNG
+禁止	きんし Cấm CẤM CHỈ
+関心	かんしん Mối quan tâm,môi lưu tâm QUAN TĂM
+（に）関する	かんする Liên quan đến,liên quan với QUAN
+関係	かんけい Liên quan QUAN HỆ
+係	かかり Nhiệm vụ,bổn phận,phụ trách HỆ
+無断	むだん Không xin phép VÔ ĐÓAN
+断る	ことわる Từ chối ĐÓAN
+許可	きょか Sự cho phép,đồng ý,chấp thuận HỨA KHẢ
+係の人	かかりのひと Người phụ trách HỆ NHÂN
+空車	くうしゃ Xe trống KHÔNG XA
+横断	おうだん Chỗ băng qua,chỗ giao nhau HOẠNH, HOÀNH ĐÓAN
+横断歩道	おうだんほどう Đường dành cho người đi bộ HOẠNH, HOÀNH ĐÓAN BỘ ĐẠO
+横	よこ Bề ngang,chiều ngang,cạnh,bên cạnh HOẠNH, HOÀNH
+押す	おす Nhấn (nút,công tắc...) ÁP
+押さえる	おさえる Giữ chặt,bắt,bắt giữ ÁP
+押入れ	おしいれ Tủ âm tường ÁP NHẬP
+入学式	にゅうがくしき Lễ nhập học NHẬP HỌC THỨC
+数式	すうしき Dạng số SỐ THỨC
+送信	そうしん Sự truyền đi,sự phát đi TỐNG TÍN
+信じる	しんじる Tin tưởng TÍN
+自信	じしん Tự tin TỰ TÍN
+信用	しんよう Tin tưởng, tin cậy, tín nhiệm TÍN DỤNG
+信号	しんごう Đèn giao thông TÍN HIỆU
+～号車	～ごうしゃ Chuyến xe số ～ HIỆU XA
+正確	せいかく Chính xác,đúng,đúng đắn CHÍNH XÁC
+確か	たしか Chắc,chắc chắn XÁC
+確かめる	たしかめる Xác nhận,kiểm tra XÁC
+確認	かくにん Xác nhận,xác minh XÁC NHẬN
+認める	みとめる Công nhận,thừa nhận,cho phép NHẬN
+飛行場	ひこうじょう Sân bay KHIÊU(PHI) HÀNH, HÀNG, HẠNH TRƯỜNG, TRÀNG
+飛ぶ	とぶ Bay KHIÊU(PHI)
+左右	さゆう Trái phải, ảnh hưởng, chi phối. TẢ HỮU
+非常	ひじょう Khẩn cấp, cấp bách PHI THƯỜNG
+非常に	ひじょうに Rất,cực kì PHI THƯỜNG
+非常口	ひじょうぐち Cửa thoát hiểm PHI THƯỜNG KHẨU
+日常	にちじょう Thường ngày NHẬT THƯỜNG
+～階	～かい Tầng GIAI
+階段	かいだん Cầu thang GIAI ĐỌAN
+箱	はこ Cái hộp, thùng SƯƠNG, TƯƠNG
+ごみ箱	ごみばこ Thùng rác SƯƠNG, TƯƠNG
+危険	きけん Nguy hiểm,mạo hiểm NGUY HiỂM
+危ない	あぶない Nguy hiểm NGUY
+捨てる	すてる Ném XẢ
+線	せん Tuyến TUYẾN
+～番線	～ばんせん Tuyến số ～ PHIÊN TUYẾN
+全面	ぜんめん Toàn bộ,tất cả TÒAN DIỆN
+画面	がめん Màn hình HỌA, HOẠCH DIỆN
+方面	ほうめん Vùng, khu vực, phương diện PHƯƠNG DIỆN
+普通	ふつう Bình thường, thông thường PHỔ THÔNG
+各駅	かくえき mỗi trạm, các trạm CÁC DỊCH
+各国	かっこく Mỗi nước CÁC QUỐC
+各自	かくじ Mỗi cá nhân CÁC TỰ
+目次	もくじ Bảng mục lục MỤC THỨ
+次	つぎ Kế tiếp, tiếp theo THỨ
+次回	じかい Lần tới THỨ HỒI
+快速	かいそく Nhanh chóng,cực nhanh,siêu tốc KHÓAI TỐC
+高速道路	こうそくどうろ Đường cao tốc CAO TỐC ĐẠO LỘ
+速度	そくど Tốc độ TỐC ĐỘ
+速い	はやい Nhanh TỐC
+過去	かこ Quá khứ OA(QUÁ) KHỬ, KHỨ
+過ぎる	すぎる Vượt quá OA(QUÁ)
+地下鉄	ちかてつ Tàu điện ngầm ĐỊA HẠ THIẾT
+鉄	てつ Thiết THIẾT
+鉄道	てつどう Đường sắt THIẾT ĐẠO
+先発	せんぱつ Sự đi đầu,sự bắt đầu TIÊN PHÁT
+指定	してい Sự chỉ định,chọn lựa,bổ nhiệm CHỈ(SÁP, THÁP) ĐỊNH
+指	ゆび Ngón tay CHỈ(SÁP, THÁP)
+指定席	していせき Chỗ ngồi đã định sẵn CHỈ(SÁP, THÁP) ĐỊNH TỊCH
+指輪	ゆびわ Nhẫn CHỈ(SÁP, THÁP) LUÂN
+定休日	ていきゅうび Ngày nghỉ thường kì ĐỊNH HƯU NHẬT
+安定	あんてい Ổn định,ổn thoả,yên ổn AN, YÊN ĐỊNH
+不安定	ふあんてい Không yên ổn BẤT AN, YÊN ĐỊNH
+席	せき Chỗ ngồi TỊCH
+出席	しゅっせき Tham dự,có mặt XUẤT TỊCH
+欠席	けっせき Vắng mặt KHUYẾT TỊCH
+自由	じゆう Tự do TỰ DO
+自由席	じゆうせき Chỗ ngồi tự do TỰ DO TỊCH
+理由	りゆう Lý do LÝ DO
+番号	ばんごう Số PHIÊN HIỆU
+窓	まど Cửa sổ SONG
+窓口	まどぐち Cửa bán vé SONG KHẨU
+両側	りょうがわ Cả 2 hướng LƯỠNG TRẮC
+窓側	まどがわ Phía cửa sổ SONG TRẮC
+右側	みぎがわ Phía bên phải HỮU TRẮC
+道路	どうろ Đường phố,con đường ĐẠO LỘ
+線路	せんろ Đường ray TUYẾN LỘ
+停車	ていしゃ Dừng (xe,tàu) ĐÌNH XA
+バス停	バスてい Trạm xe buýt ĐÌNH
+整理	せいり Điều chỉnh, sắp xếp CHỈNH LÝ
+駐車券	ちゅうしゃけん Vé đậu xe TRÚ XA KHÓAN
+乗車券	じょうしゃけん Vé xe, vé tàu THỪA, THẶNG XA KHÓAN
+現金	げんきん Tiền mặt HIỆN KIM
+表現	ひょうげん Thể hiện,diễn tả,diễn đạt BIỂU HIỆN
+現れる	あらわれる Xuất hiện HIỆN
+両親	りょうしん Bố mẹ LƯỠNG THÂN
+～両	～りょう Cả hai LƯỠNG
+取り替える	とりかえる Đổi,thay thế,thay mới THỦ THẾ
+着替える	きがえる Thay quần áo TRƯỚC THẾ
+両替	りょうがえ Đổi tiền LƯỠNG THẾ
+優先席	ゆうせんせき Chỗ ngồi ưu tiên ƯU TIÊN TỊCH
+女優	じょゆう Diễn viên nữ NỮ ƯU
+優しい	やさしい Hiền dịu,dịu dàng,tử tế ƯU
+正座	せいざ Ngồi đúng tư thế CHÍNH TỌA
+座席	ざせき Chỗ ngồi TỌA TỊCH
+座る	すわる Ngồi TỌA
+降車口	こうしゃぐち Lối xuống xe GIÁNG, HÀNG XA KHẨU
+以降～	いこう～ Sau ～ DĨ GIÁNG, HÀNG
+降りる	おりる Xuống (xe,tàu...) GIÁNG, HÀNG
+降る	ふる Rơi (tuyết,mưa) GIÁNG, HÀNG
+未定	みてい Chưa xác định VỊ, MÙI ĐỊNH
+未来	みらい Tương lai VỊ, MÙI
+未満	みまん Ít hơn VỊ, MÙI MÃN
+週末	しゅうまつ Cuối tuần CHU MẠT
+年末	ねんまつ Cuối năm NIÊN MẠT
+月末	げつまつ Cuối tháng NGUYỆT MẠT
+若い	わかい Trẻ NHƯỢC
+晩	ばん Tối VÃN
+晩御飯	ばんごはん Cơm tối VÃN NGỰ, NGỪ PHẠN
+今晩	こんばん Tối nay KIM VÃN
+毎晩	まいばん Mỗi tối MỖI VÃN
+島	しま Đảo ĐẢO
+～島	～とう Đảo ～ ĐẢO
+皿	さら Dĩa MÀNH
+灰皿	はいざら Gạt tàn thuốc KHÔI MÀNH
+出血	しゅっけつ Sự chảy máu,sự xuất huyết XUẤT HUYẾT
+血	ち Máu HUYẾT
+助ける	たすける Cứu,cứu giúp TRỢ
+断水	だんすい Cắt nước ĐÓAN THỦY
+押しボタン式	おしボタンしき Dạng nút bấm ÁP THỨC
+正常	せいじょう Bình thường (không có gì khác thường) CHÍNH THƯỜNG
+通過	つうか Đi qua,thông qua THÔNG OA(QUÁ)
+通路	つうろ Hành lang,lối đi THÔNG LỘ
+整理券	せいりけん Vé theo số CHỈNH LÝ KHÓAN
+回数券	かいすうけん Cuốn vé,tập vé HỒI SỐ KHÓAN
+以降	いこう Sau... DĨ GIÁNG, HÀNG
+救助	きゅうじょ Cứu CỨU TRỢ
+準備	じゅんび Chuẩn bị,thu xếp CHUẨN BỊ
+備える	そなえる Chuẩn bị,dự phòng, trang bị(đồ đạc) BỊ
+営業	えいぎょう Thương mại,doanh nghiệp,buôn bán DOANH, DINH NGHIỆP
+開閉	かいへい Sự đóng và mở,đóng mở KHAI BẾ
+（が）閉まる	しまる Đóng,bị đóng BẾ
+（を）閉める	しめる Đóng BẾ
+案内	あんない Hướng dẫn ÁN NỘI
+案	あん Đề án,dự án ÁN
+家内	かない Vợ mình GIA NỘI
+以内	いない Trong vòng DĨ NỘI
+国内	こくない Trong nước QUỐC NỘI
+内側	うちがわ Phía bên trong NỘI TRẮC
+予定	よてい Dự định,chương trình,kế hoạch DƯ ĐỊNH
+予習	よしゅう Chuẩn bị bài trước DƯ TẬP
+予約	よやく Đặt chỗ,đăng kí trước DƯ ƯỚC
+約～	やく～ Khoảng ～ ƯỚC
+承る	うけたまわる Chấp nhận,tiếp nhận,nghe THỪA
+禁煙	きんえん Cấm hút thuốc CẤM YÊN
+煙	けむり Khói YÊN
+本当	ほんとう Sự thật,thực tế BẢN ĐANG, ĐƯƠNG
+当～	とう～ ～này ĐANG, ĐƯƠNG
+当たる	あたる Trúng,đúng,thắng ĐANG, ĐƯƠNG
+全部	ぜんぶ Toàn bộ,tất cả TÒAN BỘ
+全席	ぜんせき Toàn bộ chỗ ngồi TÒAN TỊCH
+安全	あんぜん An toàn AN, YÊN TÒAN
+客	きゃく Khách hàng KHÁCH
+お客様	おきゃくさま Khách hàng KHÁCH DẠNG
+様子	ようす Tình trạng,trạng thái,vẻ bề ngoài DẠNG TỬ, TÝ
+理解	りかい Hiểu rõ,hiểu biết,nhận thức sâu sắc LÝ GIẢI
+解答	かいとう Trả lời,giải ra GIẢI ĐÁP
+解説	かいせつ Giải thích GIẢI THUYẾT
+協力	きょうりょく Hợp tác,cộng tác HIỆP LỰC
+願う	ねがう Mong muốn,ước muốn,yêu cầu,đề nghị NGUYỆN
+宝くじ	たからくじ Vé số BẢO
+お願い	おねがい Thỉnh cầu,yêu cầu NGUYỆN
+観光	かんこう Đi tham quan,đi du lịch QUAN QUANG
+観客	かんきゃく Khách tham quan QUAN KHÁCH
+動物園	どうぶつえん Sở thú ĐỘNG VẬT VIÊN
+空港	くうこう Sân bay KHÔNG CẢNG
+港	みなと Bến cảng CẢNG
+～港	～こう Cảng ～ CẢNG
+遊園地	ゆうえんち Khu vui chơi DU VIÊN ĐỊA
+遊ぶ	あそぶ Vui chơi,giải trí DU
+美術館	びじゅつかん Viện bảo tàng mỹ thuật MỸ THUẬT QUÁN
+美人	びじん Người đẹp MỸ NHÂN
+美しい	うつくしい Xinh đẹp,xinh xắn,đẹp đẽ MỸ
+美術	びじゅつ Mỹ thuật,nghệ thuật MỸ THUẬT
+技術	ぎじゅつ Kĩ thuật KỸ THUẬT
+手術	しゅじゅつ Phẫu thuật THỦ THUẬT
+神社	じんじゃ Đền thần THẦN XÃ
+神様	かみさま Thần thánh THẦN DẠNG
+お寺	おてら Chùa TỰ
+～寺	～じ Chùa ～ TỰ
+気にする	きにする Quan tâm để ý KHÍ
+市役所	しやくしょ Uỷ bản nhân dân thành phố THỊ DỊCH SỞ
+役に立つ	やくにたつ Có tác dụng,hữu ích DỊCH LẬP
+役員	やくいん Uỷ viên ban chấp hành,uỷ viên ban quản trị DỊCH VIÊN
+郵便	ゆうびん Dịch vụ bưu điện BƯU TIỆN
+郵便局	ゆうびんきょく Bưu điện BƯU TIỆN CỤC
+薬局	やっきょく Tiệm thuốc DƯỢC CỤC
+交番	こうばん Đồn cảnh sát GIAO PHIÊN
+交通	こうつう Giao thông GIAO THÔNG
+交換	こうかん Trao đổi,đánh đổi,đổi chác GIAO HÓAN
+差出人	さしだしにん Người gởi SAI XUẤT NHÂN
+交差点	こうさてん Ngã tư,chỗ giao nhau giữa 2 con đường GIAO SAI ĐiỂM
+点数	てんすう Điểm số ĐiỂM SỐ
+歩道橋	ほどうきょう Cầu vượt BỘ ĐẠO KIỀU
+橋	はし Cầu KIỀU
+公園	こうえん Công viên CÔNG VIÊN
+受け取る	うけとる Nhận THỤ THỦ
+受信	じゅしん Nhận tin THỤ TÍN
+受ける	うける Nhận,dự(thi...) THỤ
+付ける	つける Gắn vào,dán,viết(nhật kí,ghi chú...) PHÓ
+片付ける	かたづける Dọn dẹp PHIẾN PHÓ
+受付	うけつけ Quầy lễ tân THỤ PHÓ
+付く	つく Gắn,dính,dán PHÓ
+科学	かがく Khoa học KHOA HỌC
+外科	げか Khoa ngoại NGOẠI KHOA
+内科	ないか Khoa nội NỘI KHOA
+教科書	きょうかしょ Sách giáo khoa GIÁO KHOA THƯ
+耳鼻科	じびか Khoa tai mũi NHĨ TỴ KHOA
+鼻	はな Mũi TỴ
+婦人	ふじん Phụ nữ PHỤ NHÂN
+主婦	しゅふ Nội trợ CHỦ PHỤ
+形式	けいしき Hình thức HÌNH THỨC
+整形外科	せいけいげか Khoa chỉnh hình CHỈNH HÌNH NGOẠI KHOA
+形	かたち Hình dạng HÌNH
+人形	にんぎょう Búp bê NHÂN HÌNH
+骨折	こっせつ Gãy xương CỐT CHIẾT, TRIẾT
+骨	ほね Xương CỐT
+折る	おる Làm gãy,bẻ gãy,gấp lại,xếp lại CHIẾT, TRIẾT
+折り紙	おりがみ Nghệ thuật xếp giấy CHIẾT, TRIẾT CHỈ
+折れる	おれる Bị gẫy,nhượng bộ,chịu thua,rẽ,quẹo CHIẾT, TRIẾT
+定規	じょうぎ Cây thước ĐỊNH QUI
+困る	こまる Khó khăn KHỐN
+消す	けす Tắt,xoá TIÊU
+消える	きえる Bị tắt,bị xoá TIÊU
+消しゴム	けしゴム Cục tẩy TIÊU
+予防	よぼう Phòng ngừa,đề phòng DƯ PHÒNG
+救急車	きゅうきゅうしゃ Xe cấp cứu CỨU CẤP XA
+警官	けいかん Đồn cảnh sát CẢNH QUAN
+警察署	けいさつしょ Đồn cảnh sát CẢNH SÁT THỰ
+警察	けいさつ Cảnh sát CẢNH SÁT
+事故	じこ Sự cố,tai nan SỰ CỐ
+故障	こしょう Hỏng hóc CỐ CHƯỚNG
+故～	こ～ ～quá cố,đã mất CỐ
+伝言	でんごん Tin nhắn TRUYỀN, TRUYỆN NGÔN
+伝える	つたえる Truyền đạt TRUYỀN, TRUYỆN
+手伝う	てつだう Giúp đỡ THỦ TRUYỀN, TRUYỆN
+消費	しょうひ Sự tiêu thụ,sự tiêu dùng TIÊU PHÍ
+賛成	さんせい Tán thành,chấp nhận,đồng ý,ủng hộ TOAN THÀNH
+黄色	きいろ Màu vàng HÒANG SẮC
+絵画	かいが Bức tranh,hội hoạ HỘI HỌA, HOẠCH
+絵	え Tranh HỘI
+絵本	えほん Sách tranh HỘI BẢN
+～組	～くみ Cặp,đôi TỔ
+番組	ばんぐみ Chương trình tivi,kênh tivi PHIÊN TỔ
+組む	くむ Hợp tác,bắt cặp,lắp ráp,bắt chéo(chân) TỔ
+約束	やくそく Lời hứa,cái hẹn ƯỚC THÚC
+～束	～たば Bó THÚC
+花束	はなたば Bó hoa HOA THÚC
+授業	じゅぎょう Tiết học THỤ NGHIỆP
+教授	きょうじゅ sự giáo dục, giảng day; Giáo sư GIÁO THỤ
+渡る	わたる Băng qua ĐỘ
+渡す	わたす Trao cho ĐỘ
+昔	むかし Ngày xưa TÍCH
+当たり前	あたりまえ Đương nhiên,dĩ nhiên,hợp lý ĐANG, ĐƯƠNG TIỀN
+分解	ぶんかい Phân tích,tháo rời,phân giải PHÂN GIẢI
+神経質	しんけいしつ (đặc trưng tính cách)sự nóng nảy,bực dọc,hay lo lắng (tâm trang không ổn định, gap chuyện nhỏ cũng phản ứng quá lên) THẦN KINH CHẤT
+差	さ Sự khác biệt,sự cách biệt SAI
+差し出す	さしだす Nộp,đưa SAI XUẤT
+受験	じゅけん Thi cử,tham gia kì thi THỤ NGHIỆM
+産婦人科	さんふじんか Khoa sản SẢN PHỤ NHÂN KHOA
+図形	ずけい Sơ đồ,biểu đồ ĐỒ HÌNH
+右折	うせつ Rẽ phải HỮU CHIẾT, TRIẾT
+左折	させつ Rẽ trái TẢ CHIẾT, TRIẾT
+消防	しょうぼう Cứu hoả,chữa cháy TIÊU PHÒNG
+防ぐ	ふせぐ Phòng chống,đề phòng PHÒNG
+救う	すくう Cứu,cứu sống,cứu giúp CỨU
+故	こ Người cũ,người trước,người đã chết CỐ
+組み立てる	くみたてる Cấu thành,lắp ráp TỔ LẬP
+必要	ひつよう Cần thiết TẤT YÊU, YẾU
+要る	いる Cần YÊU, YẾU
+重要	じゅうよう Quan trọng TRỌNG, TRÙNG YÊU, YẾU
+冷房	れいぼう Điều hoà LÃNH PHÒNG
+冷たい	つめたい Lạnh,lạnh nhạt,nhạt nhẽo LÃNH
+冷やす	ひやす Làm lạnh,làm đông lại,ướp lạnh LÃNH
+冷える	ひえる Lạnh đi,nguội đi LÃNH
+冷める	さめる Nguội,nguội đi LÃNH
+冷ます	さます Làm mát,làm nguội,làm nản chí,cụt hứng LÃNH
+冷蔵庫	れいぞうこ Tủ lạnh LÃNH TÀNG KHỐ
+冷凍庫	れいとうこ Tủ đông lạnh LÃNH ĐỐNG KHỐ
+凍る	こおる Đóng băng,đông lại ĐỐNG
+金庫	きんこ Két sắt KIM KHỐ
+召し上がる	めしあがる Ăn (Kính ngữ) TRIỆU THƯỢNG
+保存する	ほぞんする Bảo quản,giữ gìn BẢO TỒN
+ご存じです	ごぞんじです Biết(kính ngữ) TỒN
+存じません	ぞんじません Không biết TỒN
+必ず	かならず Nhất định TẤT
+必死（に）	ひっし（に） Liều lĩnh,dữ dội,điên cuồng TẤT TỬ
+費用	ひよう Chi phí,phí tổn PHÍ DỤNG
+消費者	しょうひしゃ Người tiêu dùng TIÊU PHÍ GIẢ
+会費	かいひ Hội phí HỘI PHÍ
+期間	きかん Thời kì,thời hạn KỲ GIAN, GIÁN
+長期	ちょうき Thời gian dài TRƯỜNG, TRƯỞNG KỲ
+定期券	ていきけん Vé định kì,vé tháng ĐỊNH KỲ KHÓAN
+短期	たんき Thời gian ngắn ĐỎAN KỲ
+期限	きげん Thời hạn KỲ HẠN
+限度	げんど Giới hạn HẠN ĐỘ
+限る	かぎる Giới hạn,hạn chế HẠN
+限定	げんてい Sự hạn định,sự hạn chế,sự qui định giới hạn HẠN ĐỊNH
+～製	～せい Được làm bằng,tại (nhật,việt nam...) CHẾ
+製品	せいひん Sản phẩm,hàng hoá,mặt hàng CHẾ PHẨM
+造る	つくる Tạo TẠO
+賞	しょう Giải thưởng THƯỞNG
+賞味期限	しょうみきげん Thời hạn sử dụng THƯỞNG VỊ KỲ HẠN
+方法	ほうほう Phương pháp PHƯƠNG PHÁP
+文法	ぶんぽう Ngữ pháp VĂN PHÁP
+温度	おんど Nhiệt độ,độ nóng ÔN ĐỘ
+気温	きおん Nhiệt độ không khí KHÍ ÔN
+暖かい	あたたかい Ấm NÕAN
+常温	じょうおん Nhiệt độ bình thường THƯỜNG ÔN
+同窓会	どうそうかい Hội cựu sinh viên ĐỒNG SONG HỘI
+販売	はんばい Buôn bán,kinh doanh PHÁN MẠI
+自動販売機	じどうはんばいき Máy bán hàng tự động TỰ ĐỘNG PHÁN MẠI CƠ
+飛行機	ひこうき Máy bay KHIÊU(PHI) HÀNH, HÀNG, HẠNH CƠ
+機械	きかい Máy móc CƠ GIỚI
+機会	きかい Cơ hội CƠ HỘI
+増加	ぞうか Tăng TĂNG GIA
+増える	ふえる Gia tăng,tăng lên TĂNG
+増やす	ふやす Tăng thêm,tăng vào TĂNG
+減少	げんしょう Giảm đi,giảm bớt GIẢM THIỂU, THIẾU
+減る	へる Giảm đi GIẢM
+減らす	へらす Giảm xuống,cắt bớt,giảm xuống GIẢM
+量	りょう Số lượng LƯỢNG
+数量	すうりょう Số lượng,khối lượng SỐ LƯỢNG
+氷	こおり Đá BĂNG
+返事	へんじ Trả lời PHẢN SỰ
+返す	かえす Trả lại PHẢN
+お湯	おゆ Nước sôi THANG
+材料	ざいりょう Nguyên liệu,vật liệu TÀI LIỆU
+教材	きょうざい Giáo trình giảng dạy GIÁO TÀI
+卵	たまご Trứng NÕAN
+卵焼き	たまごやき Món trứng nướng NÕAN THIÊU
+牛乳	ぎゅうにゅう Sữa bò NGƯU NHŨ
+粉	こな Bột PHẤN
+袋	ふくろ Cái bao,cái túi ĐẠI
+紙袋	かみぶくろ Túi giấy CHỈ ĐẠI
+ゴミ袋	ゴミふくろ Túi rác ĐẠI
+手袋	てぶくろ Bao tay THỦ ĐẠI
+足袋	たび Tất kiểu Nhật TÚC ĐẠI
+混雑	こんざつ Đông đúc,tắt nghẽn HỖN TẠP
+混ぜる	まぜる Trộn,trộn lẫn,pha trộn HỖN
+焼く	やく Nướng,quay,đốt THIÊU
+焼ける	やける Bị đốt,bị cháy,được nướng THIÊU
+表	おもて Cái bảng,danh sách BIỂU
+表面	ひょうめん Bề mặt,bề ngoài,bên ngoài BIỂU DIỆN
+発表	はっぴょう Phát biểu PHÁT BIỂU
+代表	だいひょう Đại diện,đại biểu ĐẠI BIỂU
+表す	あらわす Biểu thị,biểu hiện BIỂU
+裏	うら Mặt sau,phía sau LÝ
+裏返す	うらがえす Lật úp,lộn ngược LÝ PHẢN
+留学	りゅうがく Du học LƯU HỌC
+書留	かきとめ Thư bảo đảm THƯ LƯU
+留める	とめる Ghim,băng,buộc,kẹp lại LƯU
+留守	るす Vắng nhà LƯU THỦ, THÚ
+守る	まもる Bảo vệ THỦ, THÚ
+濃い	こい Đậm NÙNG
+薄い	うすい Nhạt BẠC
+部分	ぶぶん Phần,bộ phận BỘ PHÂN
+学部	がくぶ Khoa,ban,bộ môn HỌC BỘ
+部長	ぶちょう Trưởng phòng BỘ TRƯỜNG, TRƯỞNG
+部屋	へや Căn phòng BỘ ỐC
+数字	すうじ Số SỐ TỰ
+数学	すうがく Môn toán SỐ HỌC
+数	かず Số SỐ
+数える	かぞえる Đếm SỐ
+件名	けんめい Chủ đề KIỆN DANH
+事件	じけん Sự kiện,vụ việc SỰ KIỆN
+用件	ようけん Công chuyện,công việc DỤNG KIỆN
+再入国	さいにゅうこく Tái nhập cư TÁI NHẬP QUỐC
+再来週	さらいしゅう Tuần sau nữa TÁI LAI CHU
+接続	せつぞく Kết nối TIẾP TỤC
+面接	めんせつ Phỏng vấn DIỆN TIẾP
+続く	つづく Tiếp tục,kéo dài TỤC
+続ける	つづける Tiếp tục,làm tiếp TỤC
+表示	ひょうじ Biểu thị BIỂU THỊ
+指示	しじ Chỉ thị,hướng dẫn CHỈ(SÁP, THÁP) THỊ
+示す	しめす Chỉ,tỏ ra,cho thấy THỊ
+戻る	もどる Quay lại,trở lại LỆ
+戻す	もどす Quay lại,phục hồi lại,hoàn lại,trả lại LỆ
+完了	かんりょう Hoàn thành,làm xong HÒAN LIỄU
+完全	かんぜん Hoàn thành,hoàn hảo,hoàn toàn HÒAN TÒAN
+了解	りょうかい Hiểu,đồng ý,ưng thuận LIỄU GIẢI
+終了	しゅうりょう Kết thúc,chấm dứt,làm xong CHUNG LIỄU
+登録	とうろく Đăng kí ĐĂNG LỤC
+登山	とざん Leo núi ĐĂNG SƠN
+登る	のぼる Leo,trèo lên ĐĂNG
+記録	きろく Kỉ lục KÝ LỤC
+教育	きょういく Giáo dục GIÁO DỤC
+育てる	そだてる Nuôi nấng,dạy dỗ DỤC
+育つ	そだつ Lớn lên DỤC
+種類	しゅるい Loại,hạng,thứ CHỦNG LOẠI
+書類	しょるい Tài liệu THƯ LOẠI
+教師	きょうし Giáo viên GIÁO SƯ
+医師	いし Bác sĩ Y SƯ
+看護師	かんごし Y tá KHÁN HỘ SƯ
+夫妻	ふさい Vợ chồng PHU THÊ
+妻	つま Vợ mình THÊ
+馬	うま Con ngựa MÃ
+乗馬	じょうば Sự cởi ngựa THỪA, THẶNG MÃ
+石けん	せっけん Xà phòng THẠCH
+石油	せきゆ Dầu hoả,dầu lửa THẠCH DU
+石	いし Đá THẠCH
+車庫	しゃこ Chỗ để xe XA KHỐ
+必死	ひっし Điên cuồng,liều lĩnh TẤT TỬ
+旅費	りょひ Phí đi lại,phí vận chuyển LỮ PHÍ
+製造	せいぞう Sản xuất,chế tạo CHẾ TẠO
+賞金	しょうきん Tiền thưởng THƯỞNG KIM
+賞品	しょうひん Phần thưởng,giải thưởng,cúp THƯỞNG PHẨM
+増量	ぞうりょう Sự tăng số lượng TĂNG LƯỢNG
+減量	げんりょう Sự giảm số lượng GIẢM LƯỢNG
+返却	へんきゃく Sự trả lại,sự hoàn trả PHẢN KHƯỚC
+小麦粉	こむぎこ Bột mì TIỂU MẠCH PHẤN
+保留	ほりゅう Bảo lưu,giữ lại,để lại BẢO LƯU
+留守番	るすばん Sự trông coi nhà giùm LƯU THỦ, THÚ PHIÊN
+守備	しゅび Bảo vệ,phòng thủ,canh gác THỦ, THÚ BỊ
+再生	さいせい Sử dụng lại TÁI SINH
+再ダイヤル	さいダイヤル Gọi lại TÁI
+録音	ろくおん Ghi âm,thu âm LỤC ÂM
+録画	ろくが Ghi video LỤC HỌA, HOẠCH
+種	たね Hạt giống CHỦNG
+分類	ぶんるい Phân loại PHÂN LOẠI
+人類	じんるい Nhân loại NHÂN LOẠI
+砂糖	さとう Đường SA ĐƯỜNG
+砂	すな Hạt cát SA
+塩	しお Muối DIÊM
+しょう油	しょうゆ Nước tương DU
+石油	せきゆ Dầu hoả,dầu lửa THẠCH DU
+油	あぶら Dầu DU
+緑	みどり Màu xanh của cây cối LỤC
+紅茶	こうちゃ Hồng trà HỒNG TRÀ
+口紅	くちべに Son môi KHẨU HỒNG
+～冊	～さつ Quyển(Dùng để đếm sách,báo,tạp chí) SÁCH
+～個	～こ Cái,chiếc (dùng để đếm vật hình khồi hoặc chung chung) CÁ
+個人	こじん cá nhân; mang tính cá nhân; riêng tư; riêng CÁ NHÂN
+個数	こすう số vật (item) CÁ SỐ
+団体	だんたい Đoàn thể,tập thể ĐÒAN THỂ
+～枚	～まい Tấm,tờ(dùng để đếm những vật mỏng) MAI
+枚数	まいすう Số tờ,số tấm MAI SỐ
+部数	ぶすう Số lượng bản sao BỘ SỐ
+広告	こうこく Quảng cáo QUẢNG CÁO
+便利	べんり Tiện lợi TIỆN LỢI
+利用	りよう Sử dụng LỢI DỤNG
+割る	わる Làm vỡ,đập vỡ CÁT
+割れる	われる Gãy,đứt,vỡ,vỡ tan CÁT
+割合	わりあい Tỷ lệ,phần trăm CÁT HỢP
+割引	わりびき Giảm giá CÁT DẪN
+～倍	～ばい Gấp ～ lần BỘI
+値段	ねだん Giá TRỊ ĐỌAN
+値上げ	ねあげ Sự tăng giá TRỊ THƯỢNG
+値下げ	ねさげ Sự hạ giá TRỊ HẠ
+商品	しょうひん Hàng hoá THƯƠNG PHẨM
+商店	しょうてん Cửa hàng THƯƠNG ĐiẾM
+支店	してん Chi nhánh CHI ĐiẾM
+本店	ほんてん Trụ sở chính BẢN ĐiẾM
+支社	ししゃ Công ty con CHI XÃ
+本社	ほんしゃ Công ty mẹ BẢN XÃ
+払う	はらう Trả,trả tiền PHẤT
+支払い	しはらい Sự trả tiền,sự nộp tiền CHI PHẤT
+米国	べいこく Nước Mỹ MỄ QUỐC
+米	べい Gạo MỄ
+高級	こうきゅう Cao cấp CAO CẤP
+中級	ちゅうきゅう Trung cấp TRUNG, TRÚNG CẤP
+上級	じょうきゅう Thượng cấp THƯỢNG CẤP
+残業	ざんぎょう Tăng ca,làm thêm giờ TÀN NGHIỆP
+残り	のこり Còn lại,vật còn lại,phần còn lại TÀN
+残る	のこる Còn lại,ở lại TÀN
+残す	のこす Để lại,để dành TÀN
+大型	おおがた Kích cỡ lớn,loại lớn ĐẠI HÌNH
+小型	こがた Kích cỡ nhỏ,loại nhỏ TIỂU HÌNH
+新型	しんがた Kiểu mới TÂN HÌNH
+消費税	しょうひぜい Thuế tiêu dùng TIÊU PHÍ THUẾ
+税金	ぜいきん Thuế THUẾ KIM
+込む	こむ Đông đúc VÀO
+振り込む	ふりこむ Chuyển khoản ngân hàng CHẤN VÀO
+価格	かかく Giá GIÁ CÁCH
+定価	ていか Giá cố định ĐỊNH GIÁ
+合格	ごうかく Đậu,đỗ HỢP CÁCH
+申し込む	もうしこむ Đăng ký THÂN VÀO
+申す	もうす Nói là, được gọi là, tên là THÂN
+申し上げる	もうしあげる Nói,bày tỏ,diễn tả THÂN THƯỢNG
+記入	きにゅう Điền vào KÝ NHẬP
+日記	にっき Nhật kí NHẬT KÝ
+記号	きごう Kí hiệu KÝ HIỆU
+記事	きじ Bài bài,phóng sự KÝ SỰ
+例	れい Ví dụ LỆ
+例えば	たとえば Ví dụ,thí dụ LỆ
+年齢	ねんれい Tuổi,tuổi tác NIÊN LINH
+高齢	こうれい Tuổi cao,tuổi già CAO LINH
+～歳	～とし ～ tuổi TUẾ
+性別	せいべつ Giới tính TÍNH BIỆT
+性格	せいかく Tính cách TÍNH CÁCH
+女性	じょせい Nữ giới NỮ TÍNH
+男性	だんせい Nam giới NAM TÍNH
+連休	れんきゅう Kì nghỉ dài LIÊN HƯU
+連れて行く	つれていく Dắt theo, đưa theo, đưa đi cùng LIÊN HÀNH, HÀNG, HẠNH
+連れて来る	つれてくる Đưa đến,dắt đến LIÊN LAI
+連絡	れんらく Liên lạc LIÊN LẠC
+届ける	とどける Giao,đưa đến,chuyển đến,trình báo GIỚI
+届く	とどく Được giao tới,đạt được GIỚI
+自宅	じたく Nhà mình TỰ TRẠCH
+お宅	おたく Nhà ông,nhà bà(kính ngữ) TRẠCH
+配達	はいたつ Phân phối,giao hàng PHỐI ĐẠT
+配送料	はいそうりょう Phí giao hàng PHỐI TỐNG LIỆU
+心配	しんぱい Lo lắng TĂM PHỐI
+配る	くばる Phân phát PHỐI
+希望	きぼう Hy vọng HY VỌNG
+望む	のぞむ Cần,mong muốn,hy vọng VỌNG
+入荷	にゅうか Nhập hàng NHẬP HÀ
+出荷	しゅっか Xuất hàng XUẤT HÀ
+荷物	にもつ Hành lý HÀ VẬT
+手荷物	てにもつ Hành lý xách tay THỦ HÀ VẬT
+交換	こうかん Trao đổi GIAO HÓAN
+代金引換	だいきんひきかえ Trả tiền khi giao hàng ĐẠI KIM DẪN HÓAN
+乗り換え	のりかえ Đổi xe,tàu THỪA, THẶNG HÓAN
+代引き	だいびき Trả tiền khi giao hàng ĐẠI DẪN
+金額	きんがく Số tiền KIM NGẠCH
+半額	はんがく Nửa giá BÁN NGẠCH
+合計	ごうけい Tổng cộng HỢP KẾ
+現在	げんざい Hiện tại,hiện giờ,hiện nay HIỆN TẠI
+取る	とる Lấy,cầm,giữ THỦ
+受け取る	うけとる Nhận,tiệp nhận THỤ THỦ
+受取人	うけとりにん Người nhận THỤ THỦ NHÂN
+預ける	あずける Gởi,kí gởi,giao phó DỰ
+参加	さんか Tham gia TAM, THAM GIA
+参考書	さんこうしょ Sách tham khảo TAM, THAM KHẢO THƯ
+参る	まいる Đi,đến (khiêm nhường ngữ) TAM, THAM
+友達	ともだち Bạn bè HỮU ĐẠT
+通勤	つうきん Đi làm THÔNG CẦN
+勤める	つとめる Làm việc CẦN
+携帯電話	けいたいでんわ Điện thoại di động HUỀ ĐỚI, ĐÁI ĐiỆN THOẠI
+細い	ほそい Mỏng,ốm TẾ
+細かい	こまかい Chi tiết,kĩ lưỡng TẾ
+戸	と Cửa HỘ
+雨戸	あまど Cửa che mưa VŨ HỘ
+戸だな	とだな Tủ quần áo,tủ HỘ
+びわ湖	びわこ Hồ Biwa HỒ
+湖	みずうみ Hồ HỒ
+船	ふね Thuyền BÁCH(THUYỀN)
+船便	ふなびん Gởi bằng đường tàu BÁCH(THUYỀN) TIỆN
+四角い	しかくい Hình tứ giác TỨ GIÁC
+角	かど Góc GIÁC
+夫婦	ふうふ Vợ chồng PHU PHỤ
+夫妻	ふさい Vợ chồng,phu thê PHU THÊ
+夫	おっと Chồng mình PHU
+苦労	くろう Gian khổ,cam go,khó khăn KHỔ LAO
+苦しい	くるしい Khổ cực KHỔ
+苦い	にがい Đắng KHỔ
+苦手	にがて Yếu,kém KHỔ THỦ
+食塩	しょくえん Muối ăn THỰC DIÊM
+灯油	とうゆ Dầu hoả,dầu lửa ĐĂNG DU
+緑茶	りょくちゃ Chè xanh,chè tươi LỤC TRÀ
+冊数	さっすう Số bản copy SÁCH SỐ
+格安	かくやす Giá rẻ CÁCH AN, YÊN
+税込み	ぜいこみ Bao gồm thuế THUẾ VÀO
+申告	しんこく Khai báo THÂN CÁO
+申込書	もうしこみしょ Form đăng kí THÂN VÀO THƯ
+申請	しんせい Yêu cầu,thỉnh cầu THÂN THỈNH
+宅配	たくはい Giao hàng đến tận nhà TRẠCH PHỐI
+配送料	はいそうりょう Phí chuyển hàng PHỐI TỐNG LƯỢNG
+失望	しつぼう Thất vọng,nản chí THẤT VỌNG
+不在	ふざい Vắng mặt BẤT TẠI
+預金	よきん Tiền gởi,tiền tiết kiệm DỰ KIM
+衣類	いるい Quần áo (thường bao gồm giày, dép, vớ, đồ lót....) Y LOẠI
+衣服	いふく Quần áo (thường chỉ quần áo bên ngoài thôi) Y PHỤC
+上達	じょうたつ Tiến bộ,tiến triển,cải thiện THƯỢNG ĐẠT
+速達	そくたつ Sự chuyển phát nhanh,sự giao hàng nhanh TỐC ĐẠT
+帯	おび Thắt lưng ĐỚI, ĐÁI
+時間帯	じかんたい Khoảng thời gian THỜI, THÌ GIAN, GIÁN ĐỚI, ĐÁI
+戸棚	とだな Tủ búp phê,tủ âm tường HỘ BẰNG, BÀNH
+風船	ふうせん Khí cầu PHONG BÁCH(THUYỀN)
+船長	せんちょう Thuyền trưởng BÁCH(THUYỀN) TRƯỜNG, TRƯỞNG
+角度	かくど Góc,góc độ GIÁC ĐỘ
+三角形	さんかっけい Hình tam giác TAM GIÁC HÌNH
+お礼	おれい Cảm ơn LỄ
+伺う	うかがう Thăm,hỏi (khiêm nhường ngữ) TỨ
+遅刻	ちこく Đi trễ,muộn TRÌ KHẮC
+遅い	おそい Trễ,muộn TRÌ
+遅れる	おくれる Trễ,chậm trễ TRÌ
+失礼	しつれい Thất lễ THẤT LỄ
+失敗	しっぱい Thất bại THẤT BẠI
+失礼する	しつれいする Xin lỗi THẤT LỄ
+汗	あせ Mồ hôi HÃN
+汗をかく	あせをかく Đổ mồ hôi,chảy mồ hôi HÃN
+残念	ざんねん Đáng tiếc TÀN NiỆM
+記念	きねん Kỉ niệm KÝ NiỆM
+涙	なみだ Nước mắt LỤY, LỆ
+涙を流す	なみだをながす Chảy nước mắt LỤY, LỆ LƯU
+笑う	わらう Cười TiẾU
+笑い	わらい Cười TiẾU
+笑顔	えがお Vẻ mặt tươi cười TiẾU NHAN
+調子	ちょうし Tình trạng (sức khoẻ,máy móc) ĐiỀU, ĐiỆU TỬ, TÝ
+強調	きょうちょう Nhấn mạnh CƯỜNG, CƯỠNG(MiỄN) ĐiỀU, ĐiỆU
+調べる	しらべる Điều tra,kiểm tra ĐiỀU, ĐiỆU
+調査	ちょうさ Điều tra ĐiỀU, ĐiỆU TRA
+移る	うつる Di chuyển,chuyển sang,chuyển DI
+移す	うつす Dọn đi,làm di chuyển,chuyển DI
+困難	こんなん Khó khăn KHỐN NẠN
+難しい	むずかしい Khó NẠN
+簡単	かんたん Đơn giản GIẢN ĐƠN, ĐAN
+単語	たんご Từ vựng ĐƠN, ĐAN NGỮ
+単位	たんい Đơn vị,tín chỉ(ở trường đại học) ĐƠN, ĐAN VỊ
+感じる	かんじる Cảm thấy CẢM
+感動	かんどう Cảm động CẢM ĐỘNG
+感想	かんそう Cảm tưởng CẢM TƯỞNG
+予想	よそう Dự báo DƯ TƯỞNG
+強力	きょうりょく Mạnh mẽ,hùng mạnh CƯỜNG, CƯỠNG(MiỄN) LỰC
+練習	れんしゅう Luyện tập LUYỆN TẬP
+最近	さいきん Dạo gần đây TỐI CÂ?N
+最初	さいしょ Đầu tiên,lúc đầu TỐI SƠ
+最後	さいご Cuối cùng,sau cùng TỐI HẬU
+最も	もっとも Nhất là TỐI
+適当	てきとう Thích hợp,đúng THÍCH ĐANG, ĐƯƠNG
+快適	かいてき Sảng khoái,dễ chịu,thoải mái KHÓAI THÍCH
+選挙	せんきょ Cuộc bầu cử,cuộc tuyển cử THIÊN(TUYỂN) CỬ
+選手	せんしゅ Vận động viên THIÊN(TUYỂN) THỦ
+選ぶ	えらぶ Chọn,lựa chọn THIÊN(TUYỂN)
+違う	ちがう Sai,khác VI(VĨ)
+間違い	まちがい Lỗi lầm,nhầm lẫn GIAN, GIÁN VI(VĨ)
+間違う	まちがう Gây lỗi,nhầm lẫn GIAN, GIÁN VI(VĨ)
+（を）間違える	（を）まちがえる Gây lỗi,nhầm lẫn GIAN, GIÁN VI(VĨ)
+直接	ちょくせつ Trực tiếp TRỰC TIẾP
+直る	なおる Được sửa,được chữa TRỰC
+直す	なおす Chỉnh,sửa,dịch TRỰC
+復習	ふくしゅう Ôn tập PHỤC TẬP
+往復	おうふく Khứ hồi VÃNG PHỤC
+回復	かいふく Phục hồi HỒI PHỤC
+辞書	じしょ Từ điển TỪ THƯ
+辞める	やめる Nghỉ hưu,thôi việc TỪ
+宿題	しゅくだい Bài tập TÚ, TÚC ĐỀ
+宿	やど Chỗ trọ,chỗ tạm trú TÚ, TÚC
+下宿	げしゅく Ở trọ HẠ TÚ, TÚC
+昨日	きのう Hôm qua TẠC NHẬT
+昨日	さくじつ Hôm qua TẠC NHẬT
+昨夜	さくや Tối qua TẠC DẠ
+昨年	さくねん Năm ngoái TẠC NIÊN
+～君	～くん Cậu,bé ～ QUÂN
+君	きみ Em QUÂN
+結構	けっこう Tạm được,tương đối,khá khá KẾT CẤU
+結局	けっきょく Cuối cùng,rốt cuộc KẾT CỤC
+結婚	けっこん Kết hôn KẾT HÔN
+新婚旅行	しんこんりょこう Tuần trang mặt TÂN HÔN LỮ HÀNH, HÀNG, HẠNH
+お祝い	おいわい Sự chúc mừng,đồ mừng CHÚC
+曲	きょく Bài hát KHÚC
+曲がる	まがる Rẽ,quẹo KHÚC
+奥さん	おくさん Vợ người khác
+奥	おく Bên trong
+寝る	ねる Ngủ TẨM
+寝坊	ねぼう Sự ngủ dậy muộn TẨM PHƯỜNG
+昼寝	ひるね Ngủ trưa TRÚ TẨM
+頭痛	ずつう Đau đầu ĐẦU THỐNG
+痛い	いたい Đau THỐNG
+熱い	あつい Nóng,nóng bỏng,oai bức NHIỆT
+熱心	ねっしん Nhiệt tình NHIỆT TĂM
+虫	むし Côn trùng TRÙNG
+歯科	しか Nha khoa XỈ KHOA
+歯	は Răng XỈ
+歯医者	はいしゃ Nha sĩ XỈ Y GIẢ
+虫歯	むしば Răng sâu TRÙNG XỈ
+政治	せいじ Chính trị CHÍNH TRỊ
+治る	なおる Lành,khôi phục TRỊ
+治す	なおす Chữa bệnh TRỊ
+汚い	きたない Dơ,bẩn Ô
+汚れる	よごれる Bị bẩn,nhiễm bẩn Ô
+並ぶ	ならぶ Đứng thành hàng,xếp hàng BÍNH
+並べる	ならべる Bài trí,bày đặt BÍNH
+歯並び	はならび Sự sắp xếp của răng XỈ BÍNH
+他の	たの Khác THA
+その他	そのた Khác THA
+独身	どくしん Độc thân ĐỘC THÂN
+刺身	さしみ Món Sasimi THÍCH THÂN
+日本酒	にほんしゅ Rượu Nhật NHẬT BẢN TỬU
+料理酒	りょうりしゅ Rượu Nhật để nấu ăn LIỆU LÝ TỬU
+お酒	おさけ Rượu TỬU
+酒屋	さかや Tiệm rượu TỬU ỐC
+吸う	すう Hít,hút HẤP
+食欲	しょくよく Thèm ăn THỰC DỤC
+欲しい	ほしい Muốn (ý muốn của mình và người ở ngôi thứ 3) DỤC
+睡眠	すいみん Giấc ngủ THỤY MIÊN
+眠い	ねむい Buồn ngủ MIÊN
+眠る	ねむる Ngủ MIÊN
+疲れる	つかれる Mệt mỏi BÌ
+息	いき Hơi thở TỨC
+息子	むすこ Con trai TỨC TỬ, TÝ
+呼ぶ	よぶ Gọi,mời,kêu tên HÔ
+厚い	あつい Dày HẬU
+泣く	なく Khóc KHẤP
+鳴く	なく Kêu,hót,hú MINH
+鳴る	なる Reo (chuông điện thoại...) MINH
+初級	しょきゅう Sơ cấp SƠ CẤP
+初め	はじめ Ban đầu,lần đầu,khởi đầu SƠ
+初めて	はじめて Lần đầu tiên,lần đầu SƠ
+泊まる	とまる Trú lại,ở lại BẠC
+泊める	とめる Cho lưu trú,lưu lại,giữ lại BẠC
+紅葉	こうよう Cây lá đỏ HỒNG DIỆP
+葉	は Lá DIỆP
+言葉	ことば Từ vựng NGÔN DIỆP
+移動	いどう Chuyển động,vận chuyển DI ĐỘNG
+難問	なんもん Vấn đề nan giải,câu hỏi khó NẠN VẤN
+直線	ちょくせん Tuyến đường thẳng TRỰC TUYẾN
+結ぶ	むすぶ Nối,ràng buộc,cột,buộc KẾT
+婚約	こんやく Đính hôn HÔN ƯỚC
+祝日	しゅくじつ Ngày lễ,ngày quốc khánh CHÚC NHẬT
+祝う	いわう Ăn mừng,chúc mừng CHÚC
+曲線	きょくせん Đường cong,đường vòng KHÚC TUYẾN
+曲げる	まげる Uốn cong,bẻ cong KHÚC
+腹痛	ふくつう Đau bụng PHÚC THỐNG
+熱	ねつ Cơn sốt,độ sốt NHIỆT
+治療	ちりょう Trị liệu,điều trị TRỊ LiỆU
+身長	しんちょう Chiều cao THÂN TRƯỜNG, TRƯỞNG
+身分	みぶん Vị trí xã hội,địa vị,thân phận THÂN PHÂN
+呼吸	こきゅう Sự hô hấp,sự hít thở HÔ HẤP
+意欲	いよく Hăng hái,động lực,ý muộn Ý DỤC
+息切れ	いきぎれ Sự hết hơi,sự hụt hơi TỨC THIẾT
+予報	よほう Dự báo DƯ BÁO
+報告	ほうこく Thông báo BÁO CÁO
+晴れる	はれる Trời nắng TÌNH
+晴れ	はれ Trời nắng TÌNH
+雲	くも Mây VÂN
+吹く	ふく Thổi XUY
+暖房	だんぼう Lò sưởi NÕAN PHÒNG
+暖かい	あたたかい Ấm áp NÕAN
+雪	ゆき Tuyết TUYẾT
+地震	じしん Động đất ĐỊA CHẤN
+震度	しんど Độ chấn động,độ động đất CHẤN ĐỘ
+波	なみ Con sóng BA
+津波	つなみ Sóng thần TÂN BA
+求める	もとめる Mong muốn,yêu cầu,tìm kiếm CẦU
+募集	ぼしゅう Tuyển dụng MỘ TẬP
+職場	しょくば Nơi làm việc CHỨC TRƯỜNG, TRÀNG
+職業	しょくぎょう Nghề nghiệp CHỨC NGHIỆP
+転職	てんしょく Thay đổi công việc CHUYỂN CHỨC
+職員	しょくいん Công nhân CHỨC VIÊN
+美容院	びよういん Thẩm mỹ viện MỸ DUNG ViỆN
+内容	ないよう Nội dung NỘI DUNG
+技術	ぎじゅつ Kĩ thuật,công nghệ KỸ THUẬT
+技術者	ぎじゅつしゃ Kĩ sư KỸ THUẬT GIẢ
+一般	いっぱん Cái chung,thông thường,bình thường NHẤT BAN
+一般に	いっぱんに Nói chung NHẤT BAN
+事務	じむ Công việc văn phòng SỰ VỤ
+公務員	こうむいん Công chức nhà nước CÔNG VỤ VIÊN
+事務所	じむしょ Văn phòng SỰ VỤ SỞ
+第一課	だいいっか Bài 1 ĐỆ NHẤT KHÓA
+課長	かちょう Trưởng ban KHÓA TRƯỜNG, TRƯỞNG
+地球	ちきゅう Địa cầu ĐỊA CẦU
+野球	やきゅう Bóng chày DÃ CẦU
+決して	けっして Không bao giờ,quyết...không QUYẾT
+決定	けってい Quyết định QUYẾT ĐỊNH
+（を）決める	きめる Quyết định QUYẾT
+（が）決まる	（が）きまる Quyết định QUYẾT
+優勝	ゆうしょう Vô địch ƯU THẮNG
+決勝	けっしょう Trận chung kết QUYẾT THẮNG
+勝つ	かつ Thắng,đánh bại THẮNG
+１対２	１たい２ Tỷ số 2-1 ĐỐI
+反対	はんたい Phản đối,ngược lại PHẢN ĐỐI
+（が）流れる	ながれる Chảy LƯU
+（を）流す	（を）ながす Cho chảy LƯU
+勝負	しょうぶ Sự thắng hay thua THẮNG PHỤ
+負ける	まける Thua,thất bại PHỤ
+投げる	なげる Ném ĐẦU
+結果	けっか Kết quả KẾT QUẢ
+果物	くだもの Trái cây QUẢ VẬT
+戦争	せんそう Chiến tranh CHIẾN TRANH
+戦う	たたかう Chiến đấu CHIẾN
+経験	けいけん Kinh nghiệm KINH NGHIỆM
+経営	けいえい Kinh doanh KINH DOANH, DINH
+経済	けいざい Kinh tế KINH TẾ
+済む	すむ Kết thúc,hoàn tất TẾ
+成長	せいちょう Trưởng thành THÀNH TRƯỜNG, TRƯỞNG
+完成	かんせい Hoàn thành HÒAN THÀNH
+貿易	ぼうえき Thương mại MẬU DỊ, DỊCH
+易しい	やさしい Dễ,dễ dàng,đơn giản DỊ, DỊCH
+輸出	ゆしゅつ Xuất khẩu DU XUẤT
+輸入	ゆにゅう Nhập khẩu DU NHẬP
+相談	そうだん Thảo luận TƯƠNG, TƯỚNG ĐÀM
+首相	しゅしょう Thủ tướng THỦ TƯƠNG, TƯỚNG
+相手	あいて Đối phương TƯƠNG, TƯỚNG THỦ
+文化	ぶんか Văn hoá VĂN HÓA
+～化	～か Văn hoá ～ HÓA
+化学	かがく Hoá học HÓA HỌC
+化粧	けしょう Trang điểm HÓA TRANG
+比べる	くらべる So sánh TỶ
+原料	げんりょう Nguyên liệu NGUYÊN LIỆU
+原因	げんいん Nguyên nhân NGUYÊN NHÂN
+国際	こくさい Quốc tế QUỐC TẾ
+会議	かいぎ Cuộc họp HỘI NGHỊ
+生活	せいかつ Cuộc sống,sinh hoạt SINH HỌAT
+活動	かつどう Hoạt động HỌAT ĐỘNG
+大変	たいへん Khó khăn,vất vả,vô cùng,rất ĐẠI BiẾN
+変化	へんか Thay đổi BiẾN HÓA
+変える	かえる Thay đổi BiẾN
+変わる	かわる Thay đổi BiẾN
+政治家	せいじか Chính trị gia CHÍNH TRỊ GIA
+政府	せいふ Chính phủ CHÍNH PHỦ
+都道府県	とどうふけん Sự phân chia hành chính của Nhật ĐÔNG ĐẠO PHỦ HUYỆN
+改札口	かいさつぐち Cửa soát vé CẢI TRÁT KHẨU
+否定的	ひていてき Phủ định PHỦ ĐỊNH ĐÍCH
+目的	もくてき Mục đích,mục tiêu MỤC ĐÍCH
+国際的	こくさいてき Tính quốc tế QUỐC TẾ ĐÍCH
+個人的	こじんてき Tính cá nhân CÁ NHÂN ĐÍCH
+実際に	じっさいに Thật ra là,trong thực tế THỰC TẾ
+実は	じつは Thật ra (dùng để trình bày lý do) THỰC
+実験	じっけん Thực nghiệm THỰC NGHIỆM
+欠点	けってん Thiếu sót,khuyết điểm KHUYẾT ĐiỂM
+専門	せんもん Chuyên môn CHUYÊN MÔN
+専門家	せんもんか Chuyên gia CHUYÊN MÔN GIA
+亡くなる	なくなる Mất,chết VONG
+多忙	たぼう Rất bận rộn ĐA MANG
+忙しい	いそがしい Bận rộn MANG
+忘年会	ぼうねんかい Tiệc cuối năm VONG NIÊN HỘI
+忘れる	わすれる Quên VONG
+忘れ物	わすれもの Vật bị bỏ quên VONG VẬT
+文化祭	ぶんかさい Lễ hội văn hoá VĂN HÓA TẾ
+お祭り	おまつり Lễ hội TẾ
+苦労	くろう Khó khăn,cam go,vất vả KHỔ LAO
+労働者	ろうどうしゃ Người lao động LAO ĐỘNG GIẢ
+増加	ぞうか Tăng TĂNG GIA
+加える	くわえる Thêm vào,gia tăng,làm cho tăng lên GIA
+情報	じょうほう Thông tin TÌNH BÁO
+表情	ひょうじょう Diện mạo,tình hình,cảnh tượng,vẻ bề ngoài BIỂU TÌNH
+電波	でんぱ Sóng điện ĐiỆN BA
+要求	ようきゅう Yêu cầu,đòi hỏi,thỉnh cầu YÊU, YẾU CẦU
+求人	きゅうじん Sự cần người làm CẦU NHÂN
+請求書	せいきゅうしょ Hoá đơn,giấy đòi tiền THỈNH CẦU THƯ
+税務署	ぜいむしょ Cục thuế THUẾ VỤ THỰ
+電球	でんきゅう Bóng đèn điện ĐiỆN CẦU
+投手	とうしゅ Người phát bóng chày ĐẦU THỦ
+戦後	せんご Hậu chiến,thời kì sau chiến tranh CHIẾN HẬU
+輸送	ゆそう Chuyên chở,vận chuyển DU TỐNG
+交際	こうさい Giao du,kết giao GIAO TẾ
+議員	ぎいん Thành viên nghị viện NGHỊ VIÊN
+改正	かいせい Sửa lại,đổi lại CẢI CHÍNH
+改める	あらためる Cải cách,kiểm tra,sửa đổi CẢI
+否定	ひてい Phủ định PHỦ ĐỊNH
+欠ける	かける Thiếu sót,thiếu KHUYẾT
+死亡	しぼう Chết,tử vong TỬ VONG
+事情	じじょう Tình hình,sự tình SỰ TÌNH
+感情	かんじょう Tình cảm,cảm tính,cảm xúc CẢM TÌNH

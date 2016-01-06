@@ -1,0 +1,96 @@
+^<div class="k_ch".*\r\n
+</a></td>\r\n
+^<a name="kan.*\r\n
+^</div>\r\n
+^</td>\r\n
+^</tr>\r\n
+^<tr>\r\n
+^<td>\r\n
+^<div class="k_id">.*\r\n
+^<div class="k_m">.*\r\n
+^<div class="readingBox">.*\r\n
+^<div class="readings">.*\r\n
+^<div class="c_hd">Compounds:</div>.*\r\n
+^<div class="cmps">.*\r\n
+^<div class="cmp">.*\r\n
+^<div class="c_ty.*\r\n
+
+</div>\r\n<div class="c_kn">|</div>\r\n<div class="c_tr">	-> \t\t\t\t
+</div>$
+<div class="c_ch">
+
+週１番
+いんしょう			印象			AN TUONG		an tuong
+ほんば			本場			BAN TRUONG		xuat xu
+ごく				語句			NGU CU			cum tu
+ありふれた			有り触れた		HUU XUC			pho bien
+ひしょち			避暑地		TY THU DIA		noi nghi mat
+けんしゅう			研修			NGHIEN TU		tu nghiep, huan luyen
+かんしん			関心			QUAN TAM		quan tam
+このたび			この度		DO				lan nay
+おかねをえります		お金を選ります	KIM TUYEN		kiem tien
+おどろきます			驚きます		KINH			kinh ngac
+まっちゃ			抹茶			MAT TRA			mat tra
+しょうぐん			将軍			TUONG QUAN		tuong quan
+よこはま			横浜			HOANH TAN		dia danh
+きせい			帰省			QUY TINH		ve que
+じんぞう			人造			NHAN TAO		nhan tao
+きんべん			勤勉			CAN MIEN		sieng nang
+かるいわざ			軽井技		KHINH TINH TRACH	dia danh
+はらじゅく			原宿			NGUYEN TUC		dia danh
+しんじゅく			新宿			TAN TUC			dia danh
+じゅぎょうりょう		授業料		THO NGHIEP LIEU	hoc phi
+たいさく			対策			DOI SACH		doi sach
+たちば			立場			LAP TRUONG		lap truong
+しかく				資格			TU CACH			tu cach
+しゅるい			種類			CHUNG LOAI		chung loai
+なんびょう			難病			NAN BENH		benh nan y
+にんてい			認定			NHAN DINH		nhan dinh
+りっぱな			立派な		LAP PHAI		trang le
+にんげん			人間			NHAN GIAN		nhan gian
+そんけい			尊敬			TON KINH		ton kinh
+やくわり			役割			DICH CAT		bo phan, vai tro
+すごす			過ごす		QUA				trai qua
+ちゅうしんち			中心地		TRUNG TAM DIA	trung tam, thu phu
+しどう				指導			CHI DAO			chi dao
+だいひょう			代表			DAI BIEU		dai bieu
+かいはつ			開発			KHAI PHAT		phat trien
+こんなんな			困難な		KHON NAN		kho khan
+ひよう				費用			PHI DUNG		chi phi
+ぎむきょういく			義務教育		NGHIA VU GIAO DUC	nghia vu giao duc
+こくみん			国民			QUOC DAN		quoc dan
+けんり				権利			QUYEN LOI		quyen loi
+たいりょく			体力			THE LUC			the luc
+ふきゅう			普及			PHO CAP			pho cap
+けいざいせいちょう		経済成長		KINH TE THANH TRUONG	tang truong kinh te
+ゆたかな			豊かな		PHONG			su phong phu
+しめす				示す			THI				chi ra, vach ra
+にゅうこくしんさ		入国審査		NHAP QUOC THAM TRA	kiem tra ho chieu
+とうちゃく			到着			DAO TRUOC		den noi
+さしょう			査証			TRA CHUNG		visa
+りょけん			旅券			LU KHOAN		passport
+ぎじゅつけんしゅうじょ	技術研修所	KY THUAT NGHIEN CUU SO	vien nghien cuu ky thuat
+なりたくうこう			成田空港		THANH DIEN KHONG CANG	san bay narita
+ひこうじょう			飛行場		PHI HANH TRUONG		phi truong
+どうばん			同伴			DONG BAN			nguoi di cung
+たいざいきかん		滞在期間		TRE TAI KY GIAN		thoi gian luu tru
+ふざい				不在			BAT TAI				vang mat
+けんさ				検査			KIEM TRA			kiem tra
+ちょうさ			調査			DIEU TRA			dieu tra
+けんえき			検疫			KIEM DICH			kiem dich
+段ボールばこ		段ボール箱		DOAN TUONG			thung carton
+ぜいかん			税関			THUE QUAN			thue quan
+きかん				期間			KY GIAN				khoang thoi gian
+きかん				機関			CO QUAN				co quan
+いるい				衣類			Y LOAI				quan ao
+みのまわり			身の回り		THAN HOI			noi y
+にちょじょう			日常			NHAT THUONG			ngay thuong
+こくせき			国籍			QUOC TICH			quoc tich
+しょせきるい			書籍類			THU TICH LOAI		loai sach
+なかみ			中身			TRUNG THAN			ben trong, noi dung
+こせき				戸籍			HO TICH				ho khau
+べっそう			別送			BIET TONG			gui rieng
+そうべつかい			送別会		TONG BIET HOI		tiec chia tay
+しょうめい			証明			CHUNG MINH			chung minh
+けんえきしょう		検疫賞		KIEM DICH CHUNG		giay chung nhan kiem dich
+じまん				自慢			TU MAN				tu man
