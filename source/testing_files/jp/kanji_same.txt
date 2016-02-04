@@ -7,8 +7,8 @@
 調.ĐIỀU		週.CHU
 民.DÂN		氏.THỊ
 未.VỊ		末.MẠT
-帯.ĐỚI		席.TỊCH		度.ĐỘ
-投.ĐẦU		段.ĐOẠN
+帯.ĐỚI		滞.TRỆ		席.TỊCH		滞.TRỆ		度.ĐỘ
+設.THIẾT		役.DỊCH		投.ĐẦU		没.MỘT	段.ĐOẠN
 复.PHỤC		複.PHỨC		復.PHỤC		愎.PHỨC
 事.SỰ		書.THƯ
 第.ĐỆ		費.PHÍ
@@ -19,17 +19,37 @@
 仮.GIẢ		返.PHẢN		阪.PHẢN		反.PHẢN	友.HỮU
 不.BẤT		否.PHỦ		下.HẠ
 束.THÚC		東.ĐÔNG		陳.TRẦN		速.TỐC
-精.TINH		請.THỈNH		積.TÍCH
+精.TINH		請.THỈNH		情.TÌNH		積.TÍCH
 役.DỊCH		設.THIẾT
 貿.MẬU		質.CHẤT
 税.THUẾ		祝.CHÚC		兄.HUYNH
 補.BỔ		捕.BỘ
 痛.THỐNG		通.THÔNG
-横.HOÀNH		黄.HOÀNG
-冓.CẤU		構.CẤU		購.CẤU
+横.HOÀNH		黄.HOÀNG		備.BỊ
+冓.CẤU		構.CẤU		購.CẤU	講.GIẢNG
 看.KHÁN		着.TRƯỚC		差.SAI
 次.THỨ		欠.KHIẾM
 求.CẦU		球.CẦU	 	救.CỨU
 観.QUAN		権.QUYỀN
-歩.BỘ		渉.THIỆP
-札.TRÁT			礼.LỄ
+歩.BỘ		渉.THIỆP		捗.DUỆ
+札.TRÁT		礼.LỄ
+輪.LUÂN		論.LUẬN
+但.ĐÃN		担.ĐẢM
+揚.DƯƠNG		場.TRƯỜNG	傷.THƯƠNG	易.DỊCH
+忙.MANG		亡.VONG
+洗.TIỂN(TẨY)	先.TIÊN
+庭.ĐÌNH		建.KIẾN		健.KIỆN
+億.ỨC		意.Ý
+壊.HOẠI		環.HOÀN
+薬.DƯỢC		楽.LẠC
+材.TÀI		村.THÔN		付.PHÓ
+控.KHỐNG		空.KHÔNG,KHỐNG
+広.QUẢNG		拡.KHUẾCH
+毎.MỖI		梅.MAI		海.HẢI
+障.CHƯỚNG	章.CHƯƠNG
+惑.HOẶC		或.HOẶC
+種.CHỦNG		重.TRỌNG
+則.TẮC		側.TRẮC
+資.TƯƠNG		貸.THẢI		貧.BẦN
+央.ƯƠNG		泱.ƯƠNG		映.ÁNH		決.QUYẾT		決.QUYẾT		抉.QUYẾT
+識.THỨC		職.CHỨC

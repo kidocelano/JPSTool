@@ -627,7 +627,7 @@
 サボる	->		trốn học; trốn việc	サボる
 探す	->	THÁM	tìm kiếm, lục lọi	さがす
 アニメ	->		phim hoạt hình	アニメ
-田んぼ	->	ĐiỀN	ruộng lúa, ruộng nước	たんぼ
+田圃	->	ĐiỀN	ruộng lúa, ruộng nước	たんぼ
 角度	->	GIÁC ĐỘ	Góc độ, khía cạnh, quan điểm	かくど
 栄養	->	VINH DƯỠNG	Dinh dưỡng	えいよう
 交渉	->	GIAO THIỆP	Đàm phán	こうしょう
@@ -1067,7 +1067,7 @@
 一晩	->	NHẤT VÃN	Một đêm; cả đêm; trọn đêm	ひとばん
 逃げる	->	ĐÀO	Chạy; trốn chạy; thoát khỏi	にげる
 困難	->	KHỐN NẠN	Khó khăn; vất vả	こんなん
-餌	->		Mồi; đồ ăn cho động vật; thức ăn gia súc gia cầm	えさ
+餌	->	NHỊ	Mồi; đồ ăn cho động vật; thức ăn gia súc gia cầm	えさ
 野生	->	DÃ SINH	hoang dã; dã sinh	やせい
 だらしない	->		Bừa bộn; bừa bãi; lôi thôi	だらしない
 悲しい	->	BI	Buồn; buồn bã	かなしい
@@ -1075,11 +1075,11 @@
 懐かしい	->	HÒAI	Nhớ tiếc, hồi tưởng	なつかしい
 怪しい	->	QUÁI	Đáng ngờ; khó tin	あやしい
 隠れる	->	ẨN	Trốn; ẩn nấp	かくれる
-詫び	->		Sự xin lỗi	わび
-定刻	->	ĐỊNH KHẮC	thời khắc đã định	ていこく
-到着	->	ĐÁO TRƯỚC	Sự đến; sự đến nơi	とうちゃく
-団体	->	ĐÒAN THỂ	Đoàn thể; tập thể	だんたい
-編む	->	BIÊN	Đan; bện	あむ
+詫び		->	SÁ	Sự xin lỗi	わび
+定刻		->	ĐỊNH KHẮC	thời khắc đã định	ていこく
+到着		->	ĐÁO TRƯỚC	Sự đến; sự đến nơi	とうちゃく
+団体		->	ĐÒAN THỂ	Đoàn thể; tập thể	だんたい
+編む		->	BIÊN	Đan; bện	あむ
 セーター	->		Áo len chui đầu; áo len dài tay	セーター
 焦る	->	TIÊU	Sốt ruột; vội vàng; hấp tấp	あせる
 ジャケット	->		Áo khoác; áo jac-ket	ジャケット

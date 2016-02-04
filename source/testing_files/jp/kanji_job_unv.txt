@@ -142,12 +142,12 @@
 印字					->		ẤN TỰ						In ra 												いんじ 作業
 積送					->		TÍCH TỐNG						 Shipment												せきそう 作業
 試験					->		THÍ NGHIỆM						Kỳ thi, test 												しけん 試験
-単体試験				->			ĐƠN THỂ THÍ NGHIỆM						Unit test 												たんたいしけん 試験
-連結試験				->			LIÊN KẾT THÍ NGHIỆM						Test liên kết 												れんけつしけん 試験
-総合試験				->			TỔNG HỢP THÍ NGHIỆM						Test tổng hợp 												そうごうしけん 試験
-性能試験				->			TÍNH NĂNG THÍ NGHIỆM						Test tính năng 												せいのうしけん 試験
-等価性テスト			->				ĐẲNG GIÁ TÍNH						 Equality testing												とうかせい 試験
-仕様書				->			SĨ DẠNG THƯ						Tài liệu thiết kê/ bảng yêu cầu 												しようしょ 設計
+単体試験				->		ĐƠN THỂ THÍ NGHIỆM						Unit test 												たんたいしけん 試験
+連結試験				->		LIÊN KẾT THÍ NGHIỆM						Test liên kết 												れんけつしけん 試験
+総合試験				->		TỔNG HỢP THÍ NGHIỆM						Test tổng hợp 												そうごうしけん 試験
+性能試験				->		TÍNH NĂNG THÍ NGHIỆM						Test tính năng 												せいのうしけん 試験
+等価性テスト			->		ĐẲNG GIÁ TÍNH						 Equality testing												とうかせい 試験
+仕様書				->		SĨ DẠNG THƯ						Tài liệu thiết kê/ bảng yêu cầu 												しようしょ 設計
 設計					->		THIẾT KẾ						Thiết kế 												せっけい 設計
 概要					->		KHÁI YẾU						Phác thảo, tóm lược, sơ lược 												がいよう 設計
 印刷					->		ẤN LOÁT						In 												いんさつ 設計
@@ -162,9 +162,9 @@
 棚					->		BẰNG						Kệ, giá 												たな 販売・ビジネス
 棚卸					->		BẰNG TÁ						Kiểm kê, kiểm kê kho 												たなおろし 販売・ビジネス
 発注					->		PHÁT CHÚ						Đặt hàng Order												はっちゅう 販売・ビジネス
-発注先				->			PHÁT CHÚ TIÊN						Nơi đặt hàng 												はっちゅうさき 販売・ビジネス
-仕入れ				->			SĨ NHẬP						Nhập hàng 												しいれ 販売・ビジネス
-仕入れ先				->			SĨ NHẬP TIÊN						Nơi nhập hàng 												しいれさき 販売・ビジネス
+発注先				->		PHÁT CHÚ TIÊN						Nơi đặt hàng 												はっちゅうさき 販売・ビジネス
+仕入れ				->		SĨ NHẬP						Nhập hàng 												しいれ 販売・ビジネス
+仕入れ先				->		SĨ NHẬP TIÊN						Nơi nhập hàng 												しいれさき 販売・ビジネス
 分類					->		PHÂN LOẠI						Phân loại 												ぶんるい 販売・ビジネス
 本部					->		BẢN BỘ						Trụ sở chính 												ほんぶ 販売・ビジネス
 店舗					->		ĐIẾM PHỐ						Cửa tiệm, cửa hàng 												てんぽ 販売・ビジネス
@@ -332,7 +332,7 @@
 権限					->		QUYỀN HẠN					Quyền hạn; thẩm quyền; quyền								けんげん
 整う					->		CHỈNH						Được chuẩn bị												ととのう			
 初期					->		SƠ KÌ						Ban đầu; initial											しょき
-接続					->		TIẾP TỤC					Kế tiếp,Sự tiếp tục;										せつぞく
+接続					->		TIẾP TỤC					Kế tiếp,Sự tiếp tục; (connect)								せつぞく
 代替					->		ĐẠI THẾ						thay thế													だいたい
 基礎情報				->		CƠ SỞ THÔNG TIN				thông tin cơ sở												きそじょうほう　
 店別情報				->		ĐIỂM BIỆT THÔNG TIN			thông tin cửa hàng riêng lẻ									てんべつじょうほう　
@@ -341,9 +341,9 @@
 無視					->		VÔ THỊ						Sự xem thường; sự phớt lờ 									むし
 範囲					->		PHẠM VI						Phạm vi														はんい
 略称					->		LƯỢC XƯNG					tên viết tắt												りゃくしょう		
-レシート品名				->		PHẨM DANH					tên sản phẩm in trên biên lai								レシートひんめい
+レシート品名			->		PHẨM DANH					tên sản phẩm in trên biên lai								レシートひんめい
 品番					->		PHẨM PHIÊN					số sản phẩm													ひんばん
-原価粗利率				->		NGUYÊN GIÁ THÔ LỢI SUẤT		tỉ lệ lợi nhuận giá gốc										げんかあらりりつ
+原価粗利率			->		NGUYÊN GIÁ THÔ LỢI SUẤT		tỉ lệ lợi nhuận giá gốc										げんかあらりりつ
 社内					->		XÃ NỘI						Within company												しゃない
 当該					->		ĐƯƠNG CAI					Thích hợp; phù hợp											とうがい
 時間帯				->		THỜI GIAN ĐỚI				 Khu vực có chung một giờ chuẩn								じかんたい
@@ -409,7 +409,7 @@
 にて					->		 							にて　～ で														にて　～ で
 になる					->		 							になる　～　となる													になる　～　となる
 ため					->									vì ため ～ から　～　ので											ため ～ から　～　ので
-先ほど					->		TIÊN						trước đó													さきほど
+先ほど				->		TIÊN						trước đó													さきほど
 ちなみに				->		
 済み					->		TẾ							Chắc chắn, ổn định, chín chắn, điềm tĩnh.既にコミット済みだね		すみ
 はみ出る				->		XUẤT						Lòi ra; thò ra; nhô ra; ùa ra								はみでる
@@ -422,9 +422,9 @@
 桁					->		HÀNH						chữ số digit												けた
 要件					->		YẾU CẦU						yêu cầu														ようけん
 頃					->		KHOẢNH						khoảng thời gian											ころ
-いいんじゃない				->		 							it's look nice												いいんじゃない
+いいんじゃない			->		 							it's look nice												いいんじゃない
 比較					->		BỈ GIÁC						Sự so sánh .												ひかく
-載せる					->		TÁI							đăng tải, upload, chất lên xe								のせる
+載せる				->		TÁI							đăng tải, upload, chất lên xe								のせる
 のみ＝だけ				->		 							のみ＝だけ			(iOS9対応のみで)								のみ＝だけ
 って＝とは＝というのは		->									って＝とは＝というのは	(修正って無いですよ)								って＝とは＝というのは
 添付					->		THIÊM PHÓ					Sự gắn thêm; sự đính thêm									てんぷ
@@ -439,16 +439,16 @@
 素敵					->		TỐ ĐỊCH						đẹp đẽ; tuyệt vời											すてき
 香り					->		HƯƠNG						Hương thơm; mùi thơm										かおり
 検証					->		KIỂM CHỨNG					Sự kiểm chứng; sự kiểm tra để chứng minh					けんしょう
-ても～たって、でも～だって		->		ても～たって、でも～だって				ても～たって、でも～だって														ても～たって、でも～だって
+ても～たって、でも～だって	->		ても～たって、でも～だって				ても～たって、でも～だって														ても～たって、でも～だって
 ては～ちゃ、では～じゃ		->		ては～ちゃ、では～じゃ				ては～ちゃ、では～じゃ												ては～ちゃ、では～じゃ
 ている～てる、ていく～てく、ておく～とく	->	ている～てる、　ていく～てく、　ておく～とく	ている～てる、　ていく～てく、　ておく～とく	ている～てる、　ていく～てく、　ておく～とく
 てしまう～ちゃう,でしまう～じゃう	->		てしまう～ちゃう,でしまう～じゃう			てしまう～ちゃう,でしまう～じゃう											てしまう～ちゃう,でしまう～じゃう
-実装					->		THỰC TRANG					Sự thi hành													じっそう
+実装					->		THỰC TRANG					lập trình													じっそう
 仮実装				->		GIẢ THỰC TRANG				Giả định; sự giả định,Tạm; tạm thời; tạm bợ;				かりじっそう
-抑える					->		ỨC							Kìm nén; kiềm chế; hạn chế									おさえる
-下げる					->		HẠN							Hạ xuống; hạ bớt; giảm đi; giảm								さげる
+抑える				->		ỨC							Kìm nén; kiềm chế; hạn chế									おさえる
+下げる				->		HẠN							Hạ xuống; hạ bớt; giảm đi; giảm								さげる
 購入					->		CẤU NHẬP					Việc mua													こうにゅう
-せずに					->		せずに							 Không làm...mà làm...(～を購入せずに) -> không mua				せずに
+せずに				->		せずに							 Không làm...mà làm...(～を購入せずに) -> không mua				せずに
 精度					->		TINH ĐỘ						Sự đúng, tính chính xác; độ chính xác						せいど
 役割					->		DỊCH CÁT					Phận sự, Vai trò											やくわり
 見た目				->		KIẾN MỤC					Vẻ bề ngoài; dáng vẻ; bề ngoài								みため
@@ -463,7 +463,7 @@
 出社					->		XUẤT XÃ						Arrival, Sự tham dự, going to work							しゅっしゃ
 具体的				->		CỤ THỂ ĐÍCH					Cụ thể; rõ ràng												ぐたいてき
 最低限				->		TỐI ĐÊ HẠN					 Số lượng tối thiểu, mức tối thiểu, tối thiểu				さいていげん
-どのよう[な]				->		　							Thế nào, như thế nào; sao, ra sao, làm sao ~ HOW			どのよう
+どのよう[な]			->		　							Thế nào, như thế nào; sao, ra sao, làm sao ~ HOW			どのよう
 覚える				->		GIÁC						nhớ															おぼえる
 コスト					->		 							cost ~ hao phí												コスト
 容易					->		DUNG DỊCH					 Đơn giản; dễ dàng											ようい
@@ -474,10 +474,95 @@
 分岐					->		PHÂN KÌ						Sự chia nhánh; sự phân nhánh								ぶんき
 操作					->		THAO TÁC					Sự thao tác; sự vận dụng khéo léo .							そうさ
 軽くする				->		KHINH						Giảm														かるくする
-溜まる					->		LỰU							Đọng lại; ứ lại; dồn lại									たまる
+溜まる				->		LỰU							Đọng lại; ứ lại; dồn lại									たまる
 早目					->		TẢO MỤC						(1) early; (2) fast											はやめ
 両方					->		LƯỠNG PHƯƠNG				cả hai (IGNOREROW、IGNORECOLUMNは両方存在)						りょうほう					
 嘘					->		HƯ							 Lời nói dối; sự dối trá; sự giả dối						うそ
 スライド				->		 							slide, swipe														スライド
 回る					->		HỒI							Xoay, quay; chuyển hồi;										まわる
-株価				->		CHU GIÁ						 Stock prices, giá chứng khoán								かぶか
+株価					->		CHU GIÁ						 Stock prices, giá chứng khoán								かぶか
+翻訳する				->		PHIÊN DỊCH					Phiên dịch													ほんやくする
+限定					->		HẠN ĐỊNH					Sự hạn định; sự hạn chế; sự quy định giới hạn				げんてい
+動き					->		ĐỘNG						Sự chuyển động; sự hoạt động; sự biến động					うごき
+難易度				->		NAN DỊCH ĐỘ					Mức độ khó khăn .											なんいど
+指示通り				->		CHỈ THỊ THÔNG				Theo như sự chỉ thị											しじどおり
+確実					->		XÁC THỰC					Chính xác; chắc chắn										かくじつ
+目立つ				->		MỤC LẬP						Nổi lên; nổi bật .											めだつ
+固い					->		CỐ							Cứng nhắc; bảo thủ											かたい
+滑らか				->		HOẠT						Sự trơn tru													なめらか
+視点					->		THỊ ĐIỂM					Quan điểm .Điểm nhìn										してん
+限り					->		HẠN							Giới hạn; hạn chế; hạn										かぎり
+頻繁					->		TẦN PHỒN					Sự tấp nập													ひんぱん
+走り					->		TẨU							The first (harvest, catch) of the season or year			はしり
+推測					->		THÔI TRẮC					Sự đoán; sự phỏng đoán; sự ước đoán							すいそく
+大量					->		ĐẠI LƯỢNG					Số lượng lớn												たいりょう
+試す					->		THÍ							Thử; thử nghiệm												ためす
+秒					->		MIỂU						Giây														びょう
+一時的				->		NHẤT THÌ ĐÍCH				Một cách tạm thời											いちじてき
+悪い					->		ÁC							Xấu; không tốt												わるい
+切り分け				->		THIẾT PHÂN					cô lập														きりわけ
+疑う					->		NGHI						Nghi ngờ; thắc mắc											うたがう
+描画					->		MIÊU HỌA					Sự sơn, hội hoạ, bức vẽ, bức tranh							びょうが
+態と					->		THÁI						Một cách có mục đích; cố ý; cố tình							わざと
+軽い					->		KHINH						Nhẹ															かるい
+残る					->		TÀN							Còn lại; sót lại; còn										のこる
+大幅					->		ĐẠI PHÚC					Khá; tương đối, Lớn; rộng; nhiều							おおはば
+実施					->		THỰC THI					 Sự thực hiện; sự thực thi; thực hiện .						じっし
+反映済				->		PHẢN ÁNH TẾ					đã phản ánh													はんえいすみ
+付属					->		PHÓ CHÚC					Phụ thuộc													ふぞく
+下記					->		HẠ KÍ						The following												かき
+転送					->		CHUYỂN TỐNG					Sự truyền đi												てんそう
+際に ~ とき				->		TẾ							KHI															さいに
+引き継ぐ				->		DẪN KẾ						Chuyển giao; làm tiếp .										ひきつぐ
+振る					->		CHẤN						Chỉ định (công việc)										ふる
+まとまり				->		 							sự dàn xếp													まとまり
+辺り					->		BIÊN						Gần; vùng lân cận; 											あたり
+段					->		ĐOẠN						Bậc thang, đoạn												だん
+中央					->		TRUNG ƯƠNG					Trung ương													ちゅうおう
+従属					->		TÙNG CHÚC					Sự phụ thuộc; phụ thuộc.									じゅうぞく
+横					->		HOÀNH						Bề ngang													よこ
+記述					->		KÍ THUẬT					Sự ghi chép; sự ký lục; ghi chép; ký lục; mô tả				きじゅつ
+仮想					->		GIẢ TƯỞNG					Sức tưởng tượng, trí tưởng tượng; sự tưởng tượng			かそう
+共有					->		CỘNG HỮU					công cộng, share (情報共有 -> chia sẽ thông tin)				きょうゆう
+拡大					->		KHUẾCH ĐẠI					mở rộng														かくだい
+表紙					->		BIỂU CHỈ					Bì; nhãn; giấy bọc ngoài									ひょうし
+提出					->		ĐỀ XUẤT						Sự nộp														ていしゅつ
+程					->		TRÌNH						Bằng, Đến mức, Khoảng 時間程(khoảng thời gian)				ほど
+早退					->		TẢO THỐI					Sự dời đi sớm; sự thoái lui nhanh							そうたい
+資料					->		TƯ LIỆU						Tài liệu; dữ liệu											しりょう
+付与					->		PHÓ DỮ						Sự cho, sự ban cho;Sự giao việc, sự phân công				ふよ
+回避					->		HỒI TỊ						Sự tránh; sự tránh né										かいひ
+評価					->		BÌNH GIÁ					Sự đánh giá													ひょうか
+旬					->		TUẦN						Tuần; giai đoạn gồm 10 ngày(初旬,中旬,下旬)					じゅん
+進め方				->		TIẾN HÀNH					Cách tiến hành閲つもり												すすめかた
+進める				->		TIẾN						Thúc đẩy; xúc tiến; đẩy nhanh								すすめる
+感謝					->		CẢM TẠ						Sự cảm tạ; sự cảm ơn; sự biết ơn; lòng biết ơn				かんしゃ
+今後					->		KIM HẬU						tương lai													こんご
+打ち合わせ				->		ĐẢ HỢP						thảo luận; nhóm họp;gặp mặt; trao đổi; bàn bạc; cuộc họp	打ち合わせ
+など					->		 							Như (改良点など -> như là cải thiện)							など
+手直し				->		THỦ TRỰC					Sửa chữa, điều chỉnh (Later adjustment)						てなおし
+検討					->		KIỂM THẢO					Thảo luận; bàn luận; bàn thảo; bàn bạc; xem xét; nghiên cứu	けんとう
+微調整				->		VI ĐIỀU CHỈNH				Điều chỉnh nhỏ												びちょうせい
+取り敢えず				->		THỦ CẢM						Tạm thời,Trước hết; ưu tiên,Lập tức							とりあえず
+強制的				->		CƯỜNG CHẾ ĐÍCH				force(cưỡng chế)											きょうせいてき
+合わせる				->		HỢP							Điều chỉnh, matching										あわせる
+障害					->		CHƯỚNG HẠI					Trở ngại; chướng ngại, Failure								しょうがい
+代わり					->		ĐẠI							đại diện;thay thế; hộ;Sự được ủy nhiệm; sự được ủy quyền;	かわり
+詳しい				->		TƯỜNG						tường tận; chính xác; hiểu rõ .								くわしい
+詰まり					->		CẬT							tóm lại														つまり
+実現					->		THỰC HIỆN					Thực hiện.													じつげん
+低					->		ĐÊ							Thấp														ひくい（てい）
+排他					->		BÀI THA						sự ngăn chận, sự loại trừ(Exclusive,Mutual)排他制御処理		はいた
+待機					->		ĐÃI KI(CƠ)					Sự chờ đợi thời cơ; sự chờ đợi yêu cầu hay mệnh lệnh .		たいき
+長引き				->		TRƯỜNG DẪN					Kéo co.(dãn -> dài hơn)想定時間より長引いています					ながびき
+含む					->		HÀM							Bao gồm, Đựng, Gồm, Kể										ふくむ
+限定					->		HẠN ĐỊNH					Sự hạn định; sự hạn chế; sự quy định giới hạn				げんてい
+明確					->		MINH XÁC					Rõ ràng và chính xác; minh xác								めいかく
+移す					->		DI							Làm di chuyển; chuyển										うつす
+ある程度				->		TRÌNH ĐỘ					Trong 1 chừng mực nào đó; tới mức độ nhất định nào đó; sơ sơ; tàm tạm	 あるていど
+たらと思う				->		TƯ							hy vọng														たらとおもい
+貴重					->		QUÝ TRỌNG					Sự quý trọng; sự quý giá; sự quý báu						きちょう
+積極的				->		TÍCH CỰC ĐÍCH				Một cách tích cực											せっきょくてき
+取り入れる				->		THỦ NHẬP					kết hợp(Taking in, Harvesting)								とりいれ
+連携					->		LIÊN HUỀ					Sự hợp tác; sự cộng tác; sự chung sức						れんけい
+取込					->		THỦ NHẬP					lấy															とりいれ

@@ -1,60 +1,60 @@
-﻿遅刻			TRÌ KHẮC				Sự muộn; sự đến muộn											ちこく
-姉貴			TỈ QUÝ					Elder sister													あねとうと/あねき
-厳禁			NGHIÊM CẤM				Sự nghiêm cấm; sự ngăn cấm; sự cấm chỉ;							げんきん
-怒る			NỘ						Nổi nóng, Tức 													おこる
-情況			TÌNH HUỐNG				Vị trí, địa thế, tình thế, tình cảnh, hoàn cảnh					じょうきょう
-智子			TRÍ TỬ		 																			ともこ
-隆志			LONG　CHÍ																				たかし
-息子			TỨC TỬ					Con trai														むすこ
-登場人物		ĐĂNG TRÀNG NHÂN VẬT		The characters (in play or novel)								とうじょうじんぶつ
-夫婦			PHU PHỤ					Phu phụ,  Vợ chồng												ふうふ
+﻿遅刻			->	TRÌ KHẮC				Sự muộn; sự đến muộn											ちこく
+姉貴			->	TỈ QUÝ					Elder sister													あねとうと/あねき
+厳禁			->	NGHIÊM CẤM				Sự nghiêm cấm; sự ngăn cấm; sự cấm chỉ;							げんきん
+怒る			->	NỘ						Nổi nóng, Tức 													おこる
+情況			->	TÌNH HUỐNG				Vị trí, địa thế, tình thế, tình cảnh, hoàn cảnh					じょうきょう
+智子			->	TRÍ TỬ		 																			ともこ
+隆志			->	LONG　CHÍ																				たかし
+息子			->	TỨC TỬ					Con trai														むすこ
+登場人物		->	ĐĂNG TRÀNG NHÂN VẬT		The characters (in play or novel)								とうじょうじんぶつ
+夫婦			->	PHU PHỤ					Phu phụ,  Vợ chồng												ふうふ
 
 
-隠し立てする		ẨN LẬP					Tính kín đáo; sự giữ bí mật, sự giấu giếm, sự bí mật			かくしだてする
-下着			HẠ TRỨ					Quần áo lót														したぎ
-派手派手		PHÁI　THỦ				Lòe loẹt; màu mè; sặc sỡ; hào nhoáng							はではで
-進み			TIẾN					Sự tiến tới, sự tiến bộ; sự tiến triển, sự phát triển			すすみ
-難しい			NAN	 					Khó; khó khăn													むずかしい
-顔色			NHAN SẮC				Nét mặt, Sắc mặt												かおいろ
-伺う			TÝ						Đến thăm														うかがう
-問い詰める		VẤN CẬT					Thẩm vấn														といつめる
-人前に		NHÂN TIỀN	 																			ひとまえに
-狙い			THƯ						Mục đích														ねら.い
-避妊			TỊ　NHÂM					Sự tránh thai .													ひにん
-保健			BẢO KIỆN				Sự bảo vệ sức khỏe												ほけん
-机			KY						Bàn																つくえ
-親子			THÂN TỬ					Cha mẹ và con cái; tình máu mủ; bố con; mẹ con					おやこ
+隠し立てする		->	ẨN LẬP					Tính kín đáo; sự giữ bí mật, sự giấu giếm, sự bí mật			かくしだてする
+下着			->	HẠ TRỨ					Quần áo lót														したぎ
+派手派手		->	PHÁI　THỦ				Lòe loẹt; màu mè; sặc sỡ; hào nhoáng							はではで
+進み			->	TIẾN					Sự tiến tới, sự tiến bộ; sự tiến triển, sự phát triển			すすみ
+難しい			->	NAN	 					Khó; khó khăn													むずかしい
+顔色			->	NHAN SẮC				Nét mặt, Sắc mặt												かおいろ
+伺う			->	TÝ						Đến thăm														うかがう
+問い詰める		->	VẤN CẬT					Thẩm vấn														といつめる
+人前に		->	NHÂN TIỀN	 																			ひとまえに
+狙い			->	THƯ						Mục đích														ねら.い
+避妊			->	TỊ　NHÂM					Sự tránh thai .													ひにん
+保健			->	BẢO KIỆN				Sự bảo vệ sức khỏe												ほけん
+机			->	KY						Bàn																つくえ
+親子			->	THÂN TỬ					Cha mẹ và con cái; tình máu mủ; bố con; mẹ con					おやこ
 
 
-植村（なまえ）		THỰC THÔN																				うえむら
-鈴木（なまえ）		LINH MỘC	 																			すずき
-成立			THÀNH LẬP				Sự thành lập; thành lập; làm.　									せいりつ
-不成立		BẤT THÀNH LẬP			sự không làm được, sự thiếu, sự thất bại;						ふせいりつ
-稟議書		BẨM NGHỊ THƯ			Dự thảo　được sự cho phép										りんぎしょ
-書き直す		THƯ TRỰC	 			Viết lại; sửa lại												かきなおす
-意味			Ý VỊ					Ý nghĩa; nghĩa													いみ
-大学出		ĐẠI HỌC XUẤT			tốt nghiệp đại học												だいがくで
-迂闊			VU　KHOÁT				Sự thiếu thận trọng; sự cẩu thả, sự vô ý						うかつ
-嫌味			HIỀM VỊ					Sự khó chịu														いやみ
-俺			YÊM						Tao; tôi														おれ
-昨日			TẠC NHẬT				Hôm qua															きのう
-散々			TÁN						Gay go; khốc liệt; dữ dội; buồn thảm							さんざん
-奴さん			NÔ						guy																やっこさん
-八つ当たり		BÁT	ĐƯƠNG				Sự cáu giận lung tung											やつあたり
-娘さん			NƯƠNG					Con gái															むすめさん
-妊娠			NHÂM THẦN				Sự có thai; sự có chửa; sự mang thai; sự thai nghén				にんしん
-噂			ĐỒN						Lời đồn đại; tin đồn; tiếng đồn									うわさ
-親父			THÂN PHỤ				thân phụ														おやじ
-猛反対する		MÃNH PHẢN ĐỐI 			phản đổi mãnh liệt												もうはんたいする
-凄い			THÊ						Kinh khủng; khủng khiếp, Xuất sắc; tuyệt vời; làm sửng sốt;		すごい
-罵声			MẠ THANH				chế nhạo, reo hò												ばせい
-浴びる			DỤC						Tắm																あびる
-立派			LẬP PHÁI				Sự tuyệt vời; sự tuyệt hảo										りっぱ
-堪える			KHAM					chịu đựng; nhẫn nhịn; cam chịu; nhẫn nhục						こたえる
-課長			KHÓA TRƯỜNG				Khoa trưởng	Trưởng nhóm; trưởng khoa							かちょう
-孕む			DỰNG					Chứa đựng,  Căng phồng; no										はらむ
-相手			TƯƠNG THỦ				Đối thủ, Đối tượng												あいて
-怒鳴り込む		NỘ　MINH　VÀO　				làm mưa làm gió 												どなりこむ
-家内			GIA NỘI					vợ																かない
-退学			THỐI HỌC				Sự bỏ học .														たいがく
-脅かす			HIẾP	 				Đe doạ															おびやかす
+植村（なまえ）		->	THỰC THÔN																				うえむら
+鈴木（なまえ）		->	LINH MỘC	 																			すずき
+成立			->	THÀNH LẬP				Sự thành lập; thành lập; làm.　									せいりつ
+不成立		->	BẤT THÀNH LẬP			sự không làm được, sự thiếu, sự thất bại;						ふせいりつ
+稟議書		->	BẨM NGHỊ THƯ			Dự thảo　được sự cho phép										りんぎしょ
+書き直す		->	THƯ TRỰC	 			Viết lại; sửa lại												かきなおす
+意味			->	Ý VỊ					Ý nghĩa; nghĩa													いみ
+大学出		->	ĐẠI HỌC XUẤT			tốt nghiệp đại học												だいがくで
+迂闊			->	VU　KHOÁT				Sự thiếu thận trọng; sự cẩu thả, sự vô ý						うかつ
+嫌味			->	HIỀM VỊ					Sự khó chịu														いやみ
+俺			->	YÊM						Tao; tôi														おれ
+昨日			->	TẠC NHẬT				Hôm qua															きのう
+散々			->	TÁN						Gay go; khốc liệt; dữ dội; buồn thảm							さんざん
+奴さん			->	NÔ						guy																やっこさん
+八つ当たり		->	BÁT ĐƯƠNG				Sự cáu giận lung tung											やつあたり
+娘さん			->	NƯƠNG					Con gái															むすめさん
+妊娠			->	NHÂM THẦN				Sự có thai; sự có chửa; sự mang thai; sự thai nghén				にんしん
+噂			->	ĐỒN						Lời đồn đại; tin đồn; tiếng đồn									うわさ
+親父			->	THÂN PHỤ				thân phụ														おやじ
+猛反対する		->	MÃNH PHẢN ĐỐI 			phản đổi mãnh liệt												もうはんたいする
+凄い			->	THÊ						Kinh khủng; khủng khiếp, Xuất sắc; tuyệt vời; làm sửng sốt;		すごい
+罵声			->	MẠ THANH				chế nhạo, reo hò												ばせい
+浴びる			->	DỤC						Tắm																あびる
+立派			->	LẬP PHÁI				Sự tuyệt vời; sự tuyệt hảo										りっぱ
+堪える			->	KHAM					chịu đựng; nhẫn nhịn; cam chịu; nhẫn nhục						こたえる
+課長			->	KHÓA TRƯỜNG				Khoa trưởng	Trưởng nhóm; trưởng khoa							かちょう
+孕む			->	DỰNG					Chứa đựng,  Căng phồng; no										はらむ
+相手			->	TƯƠNG THỦ				Đối thủ, Đối tượng												あいて
+怒鳴り込む		->	NỘ　MINH　VÀO				làm mưa làm gió 												どなりこむ
+家内			->	GIA NỘI					vợ																かない
+退学			->	THỐI HỌC				Sự bỏ học .														たいがく
+脅かす			->	HIẾP					Đe doạ															おびやかす

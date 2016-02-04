@@ -1,0 +1,25 @@
+文字列				->		VĂN TỰ LIỆT					Chuỗi số 												もじれつ IT用語
+格納場所				->		CÁCH NẠP TRƯỜNG SỞ			Nơi lưu trữ 												かくのうばしょ IT用語
+四捨五入				->		TỨ SẢ NGŨ NHẬP				Làm tròn Làm tròn bình thường. Vd: 2.446 -> 2.45  hoặc 2.432 -> 2.43												ししゃごにゅう IT用語
+環境					->		HOÀN CẢNH					Môi trường 												かんきょう 開発
+訳あって				->		DỊCH						For a reason, lý do									わけあって
+助け合う				->		TRỢ HỢP						hợp tác giúp đỡ lẫn nhau	たすけあう
+訪ねる				->		PHÓNG						ghé thăm, hỏi thăm, viếng thăm	たずねる 
+邪魔する				->		TÀ MA						quấy rầy	じゃます
+利用する				->		LỢI DỤNG	sử dụng, vận dụng	りようする
+降ろす				->		GIÁNG	xuống xe	おろす
+傷める				->		THƯƠNG	làm đau, gây thương tích	いためる
+倒れる				->		ĐẢO	đổ, ngã, lăn ra bất tỉnh	たおれる
+採用する				->		THẢI DỤNG	tuyển dụng, thuê	さいようする
+期待外れ				->		KỲ ĐÃI NGOẠI	thất vọng	きたいはずれ
+飛び上がる				->		KHIÊU(PHI THƯỢNG	nhảy lên	とびあがる
+放り投げる				->		PHÓNG ĐẦU	buông thả, vất bỏ, quăng bỏ	ほうりなげる
+真っ最中				->		CHÂN TỐI TRUNG, TRÚNG	 giữa lúc cao trào	まっさいちゅう
+逮捕する				->		ĐẤT BỘ	 bắt giữ	たいほする
+学ぶ					->		HỌC	học	まなぶ
+益々					->		ÍCH	ngày càng	ますます
+旅する				->		LỮ	đi du lịch; du lịch; đi xa	たびする
+解ける				->		GIẢI	mở ra, cởi ra	とける
+慌ただしい				->		HỎANG	bận rộn, bận túi bụi	あわただしい
+回復する				->		HỒI PHỤC	hồi phục, khôi phục	かいふくする
+向ける				->		HƯỚNG	hướng về phía, phù hợp với	むける
