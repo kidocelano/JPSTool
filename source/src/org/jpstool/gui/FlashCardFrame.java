@@ -7,6 +7,8 @@ import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.awt.event.MouseEvent;
+import java.awt.event.MouseListener;
 import java.io.File;
 import java.io.IOException;
 
@@ -42,6 +44,7 @@ public class FlashCardFrame extends JFrame {
 	public FlashCardFrame(WordItem wordItem,  boolean isSaveProfile) {
 		this();
 		setWord(wordItem);
+		currentWordItem = wordItem;
 		this.isSaveProfile = isSaveProfile;
 	}
 
@@ -123,6 +126,28 @@ public class FlashCardFrame extends JFrame {
 
 			}
 		});
+		
+		btnKnowThisWord.addMouseListener(new MouseListener() {
+			
+			@Override
+			public void mouseReleased(MouseEvent e) {
+				setWord(currentWordItem);
+			}
+			
+			@Override
+			public void mousePressed(MouseEvent e) {
+				setWordText(currentWordItem.getHiragana() + " - " + currentWordItem.getMeaning());
+			}
+			
+			@Override
+			public void mouseExited(MouseEvent e) {}
+			
+			@Override
+			public void mouseEntered(MouseEvent e) {}
+			
+			@Override
+			public void mouseClicked(MouseEvent e) {}
+		});
 
 		btnShowResult.addActionListener(new ActionListener() {
 
@@ -150,11 +175,14 @@ public class FlashCardFrame extends JFrame {
 	}
 
 	private void setWord(WordItem wordItem) {
-		currentWordItem = wordItem;
-		tfSmallKanjiText.setText(wordItem.getKanjiWord());
+		setWordText(wordItem.getKanjiWord());
+	}
+	
+	private void setWordText(String text) {
+		tfSmallKanjiText.setText(text);
 	}
 
 	public static void main(String[] args) {
-		new FlashCardFrame().setVisible(true);
+		new FlashCardFrame(new WordItem("先生", "TIÊN SINH", "Giáo Viên", "せんせい", ""), false).setVisible(true);
 	}
 }

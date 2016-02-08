@@ -92,6 +92,12 @@ public class PickupWordEnigneSmart implements PickupWordEnigne {
 			ProfileLearning pl = pm.get(wordItem);
 			if (pl == null) {
 				pm.addInfo(wordItem);
+
+			} else {
+				pl.getWord().setHanVietWord(wordItem.getHanVietWord());
+				pl.getWord().setHiragana(wordItem.getHiragana());
+				pl.getWord().setKanjiWord(wordItem.getKanjiWord());
+				pl.getWord().setMeaning(wordItem.getMeaning());
 			}
 		}
 	}

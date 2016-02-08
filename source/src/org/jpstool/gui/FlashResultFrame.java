@@ -2,19 +2,25 @@ package org.jpstool.gui;
 
 import java.awt.BorderLayout;
 import java.awt.Container;
+import java.awt.Dimension;
 import java.awt.FlowLayout;
+import java.awt.event.ActionEvent;
+import java.awt.event.KeyEvent;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
+import javax.swing.AbstractAction;
 import javax.swing.BoxLayout;
+import javax.swing.JComponent;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
+import javax.swing.KeyStroke;
 import javax.swing.border.EmptyBorder;
 import javax.swing.text.JTextComponent;
 
@@ -22,6 +28,7 @@ import org.jpstool.main.JPSConstant;
 import org.jpstool.main.JPSUtil;
 import org.jpstool.main.WordItem;
 import org.jpstool.searching.SearchingKanjiObject;
+import org.jpstool.searching.SearchingKanjiObject.SentenceExample;
 import org.jpstool.smartcore.ProfileLearning;
 import org.jpstool.smartcore.ProfileManangement;
 
@@ -29,6 +36,7 @@ public class FlashResultFrame extends JFrame {
 	private static final int COSNT_TEXTFIELD_LENGTH = 19;
 	private static final int CONST_LAYOUT_CONTAINER_MARGIN_HOR = 15;
 	private static final int CONST_LAYOUT_CONTAINER_MARGIN_VER = 15;
+	private static final float CONST_FONT_TEXT_AREA_STD = 19f;
 
 	private JTextField tfSmallKanjiText;
 	private JTextField tfLargeKanjiText;
@@ -37,16 +45,21 @@ public class FlashResultFrame extends JFrame {
 	private JTextArea taMeaningText;
 	private JTextArea taOtherText;
 	private JTextArea taAnalyseRadicals;
+	private JTextArea taSimilarKanji;
+	private JTextArea taSentenceExample;
 
 	private JScrollPane spMeaningText;
 	private JScrollPane spOtherText;
 	private JScrollPane spAnalyseRadicals;
+	private JScrollPane spSimilarKanji;
+	private JScrollPane spSentenceExample;
 
 	private Container container;
 	private JPanel panelTop;
 	private JPanel panelMiddle;
 	private JPanel panelBottom;
 	private JPanel panelCenterContainer;
+	private JPanel panelRightExample;
 
 	private List<JTextComponent> listTextComponentScreen;
 
@@ -65,10 +78,11 @@ public class FlashResultFrame extends JFrame {
 		setupLayout();
 		setReadOnlyAllTextBox(false);
 		setLocationRelativeTo(null);
+		setupAction();
 	}
 
 	private void initScreen() {
-		setSize(1000, 600);
+		setSize(1300, 800);
 		setDefaultCloseOperation(DISPOSE_ON_CLOSE);
 		this.container = this.getContentPane();
 	}
@@ -85,6 +99,9 @@ public class FlashResultFrame extends JFrame {
 		taMeaningText.setText(wordItem.getMeaning());
 		setDisplayOtherText(wordItem);
 		setDisplayRadicals(wordItem);
+		setSimilarKanji(wordItem);
+		setSentenceExample(wordItem);
+		reFixSize();
 	}
 
 	private void setDisplayOtherText(WordItem wordItem) {
@@ -145,8 +162,16 @@ public class FlashResultFrame extends JFrame {
 		listTextComponentScreen.add(tfHanVietText);
 
 		taMeaningText = new JTextArea();
-		taMeaningText.setFont(taMeaningText.getFont().deriveFont(19f));
+		taMeaningText.setFont(taMeaningText.getFont().deriveFont(CONST_FONT_TEXT_AREA_STD));
 		listTextComponentScreen.add(taMeaningText);
+
+		taSimilarKanji = new JTextArea();
+		taSimilarKanji.setFont(taSimilarKanji.getFont().deriveFont(CONST_FONT_TEXT_AREA_STD));
+		listTextComponentScreen.add(taSimilarKanji);
+
+		taSentenceExample = new JTextArea();
+		taSentenceExample.setFont(taSentenceExample.getFont().deriveFont(CONST_FONT_TEXT_AREA_STD));
+		listTextComponentScreen.add(taSentenceExample);
 
 		tfHiraganaText = new JTextField(COSNT_TEXTFIELD_LENGTH);
 
@@ -163,6 +188,8 @@ public class FlashResultFrame extends JFrame {
 		spMeaningText = new JScrollPane(taMeaningText);
 		spAnalyseRadicals = new JScrollPane(taAnalyseRadicals);
 		spOtherText = new JScrollPane(taOtherText);
+		spSimilarKanji = new JScrollPane(taSimilarKanji);
+		spSentenceExample = new JScrollPane(taSentenceExample);
 	}
 
 	private void setupLayout() {
@@ -172,12 +199,18 @@ public class FlashResultFrame extends JFrame {
 
 		container.setLayout(new BorderLayout(CONST_LAYOUT_CONTAINER_MARGIN_HOR, CONST_LAYOUT_CONTAINER_MARGIN_VER));
 		container.add(panelCenterContainer = new JPanel(), BorderLayout.CENTER);
-		panelCenterContainer.setBorder(new EmptyBorder(CONST_LAYOUT_CONTAINER_MARGIN_VER, CONST_LAYOUT_CONTAINER_MARGIN_HOR, CONST_LAYOUT_CONTAINER_MARGIN_VER, CONST_LAYOUT_CONTAINER_MARGIN_HOR));
+		panelCenterContainer.setBorder(new EmptyBorder(CONST_LAYOUT_CONTAINER_MARGIN_VER, CONST_LAYOUT_CONTAINER_MARGIN_HOR, CONST_LAYOUT_CONTAINER_MARGIN_VER,
+				CONST_LAYOUT_CONTAINER_MARGIN_HOR));
 
 		panelCenterContainer.setLayout(new BoxLayout(panelCenterContainer, BoxLayout.Y_AXIS));
 		panelCenterContainer.add(panelTop = new JPanel());
 		panelCenterContainer.add(panelMiddle = new JPanel());
 		panelCenterContainer.add(panelBottom = new JPanel());
+
+		container.add(panelRightExample = new JPanel(), BorderLayout.EAST);
+		panelRightExample.setLayout(new BoxLayout(panelRightExample, BoxLayout.Y_AXIS));
+		panelRightExample.add(spSimilarKanji);
+		panelRightExample.add(spSentenceExample);
 
 		panelTop.setLayout(new FlowLayout(FlowLayout.LEFT));
 		panelTop.add(tfSmallKanjiText);
@@ -189,6 +222,15 @@ public class FlashResultFrame extends JFrame {
 		panelMiddle.add(spAnalyseRadicals);
 		panelMiddle.add(spMeaningText);
 		panelBottom.add(spOtherText);
+	}
+
+	private void setupAction() {
+		getRootPane().getInputMap(JComponent.WHEN_IN_FOCUSED_WINDOW).put(KeyStroke.getKeyStroke(KeyEvent.VK_ESCAPE, 0), "Cancel"); 
+		getRootPane().getActionMap().put("Cancel", new AbstractAction() { //$NON-NLS-1$
+			public void actionPerformed(ActionEvent e) {
+				dispose();
+			}
+		});
 	}
 
 	public void setKanjiText(String kanjiText) {
@@ -212,5 +254,55 @@ public class FlashResultFrame extends JFrame {
 		taOtherText.setText(otherText);
 	}
 
+	public void setSentenceExample(WordItem wordItem) {
+		StringBuilder sbSentence = new StringBuilder();
+		List<SearchingKanjiObject> lstKanjiObject = wordItem.getSearchingKanji();
+		if (lstKanjiObject == null || lstKanjiObject.size() < 1) {
+			return;
+		}
+		SearchingKanjiObject firstKanjiObject = lstKanjiObject.get(0);
+		for (SentenceExample sentence : firstKanjiObject.getListSentence()) {
+			sbSentence.append(sentence.getContent());
+			sbSentence.append(JPSConstant.CONST_LINE_SEPARATOR);
+			sbSentence.append(sentence.getTranscription());
+			sbSentence.append(JPSConstant.CONST_LINE_SEPARATOR);
+			sbSentence.append(sentence.getMean());
+			sbSentence.append(JPSConstant.CONST_LINE_SEPARATOR);
+			sbSentence.append(JPSConstant.CONST_LINE_SEPARATOR);
+		}
+		taSentenceExample.setText(sbSentence.toString());
+		taSentenceExample.setCaretPosition(0);
+	}
 
+	public void setSimilarKanji(WordItem wordItem) {
+		StringBuilder sbSimilarKanji = new StringBuilder();
+
+		List<SearchingKanjiObject> lstKanjiObject = wordItem.getSearchingKanji();
+		if (lstKanjiObject == null) {
+			return;
+		}
+
+		for (SearchingKanjiObject kanjiObject : lstKanjiObject) {
+			List<SearchingKanjiObject.SimilarKanji> listExample = kanjiObject.getListSimilarKanji();
+			for (SearchingKanjiObject.SimilarKanji examples : listExample) {
+				sbSimilarKanji.append(examples.getW());
+				sbSimilarKanji.append("-");
+				sbSimilarKanji.append(examples.getH());
+				sbSimilarKanji.append("-");
+				sbSimilarKanji.append(examples.getP());
+				sbSimilarKanji.append("-");
+				sbSimilarKanji.append(examples.getM());
+
+				sbSimilarKanji.append(JPSConstant.CONST_LINE_SEPARATOR);
+			}
+			sbSimilarKanji.append(JPSConstant.CONST_LINE_SEPARATOR);
+		}
+
+		taSimilarKanji.setText(sbSimilarKanji.toString());
+		taSimilarKanji.setCaretPosition(0);
+	}
+
+	private void reFixSize() {
+		panelRightExample.setPreferredSize(new Dimension(this.getWidth() / 3, taSimilarKanji.getParent().getHeight()));
+	}
 }
