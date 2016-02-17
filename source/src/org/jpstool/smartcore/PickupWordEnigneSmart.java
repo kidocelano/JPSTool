@@ -96,7 +96,6 @@ public class PickupWordEnigneSmart implements PickupWordEnigne {
 			} else {
 				pl.getWord().setHanVietWord(wordItem.getHanVietWord());
 				pl.getWord().setHiragana(wordItem.getHiragana());
-				pl.getWord().setKanjiWord(wordItem.getKanjiWord());
 				pl.getWord().setMeaning(wordItem.getMeaning());
 			}
 		}

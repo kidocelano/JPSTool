@@ -136,7 +136,7 @@ public class FlashCardFrame extends JFrame {
 			
 			@Override
 			public void mousePressed(MouseEvent e) {
-				setWordText(currentWordItem.getHiragana() + " - " + currentWordItem.getMeaning());
+				setWordText(currentWordItem.getHiragana());
 			}
 			
 			@Override
@@ -180,6 +180,7 @@ public class FlashCardFrame extends JFrame {
 	
 	private void setWordText(String text) {
 		tfSmallKanjiText.setText(text);
+		tfSmallKanjiText.setCaretPosition(0);
 	}
 
 	public static void main(String[] args) {

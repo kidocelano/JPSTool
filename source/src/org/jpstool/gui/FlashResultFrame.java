@@ -212,7 +212,7 @@ public class FlashResultFrame extends JFrame {
 		panelRightExample.add(spSimilarKanji);
 		panelRightExample.add(spSentenceExample);
 
-		panelTop.setLayout(new FlowLayout(FlowLayout.LEFT));
+		panelTop.setLayout(new BoxLayout(panelTop, BoxLayout.X_AXIS));
 		panelTop.add(tfSmallKanjiText);
 		panelTop.add(tfLargeKanjiText);
 		panelTop.add(tfHanVietText);
@@ -225,7 +225,7 @@ public class FlashResultFrame extends JFrame {
 	}
 
 	private void setupAction() {
-		getRootPane().getInputMap(JComponent.WHEN_IN_FOCUSED_WINDOW).put(KeyStroke.getKeyStroke(KeyEvent.VK_ESCAPE, 0), "Cancel"); 
+		getRootPane().getInputMap(JComponent.WHEN_IN_FOCUSED_WINDOW).put(KeyStroke.getKeyStroke(KeyEvent.VK_ESCAPE, 0), "Cancel");
 		getRootPane().getActionMap().put("Cancel", new AbstractAction() { //$NON-NLS-1$
 			public void actionPerformed(ActionEvent e) {
 				dispose();
@@ -248,6 +248,7 @@ public class FlashResultFrame extends JFrame {
 
 	public void setHiraganaText(String hiraganaText) {
 		tfHiraganaText.setText(hiraganaText);
+		tfHiraganaText.setPreferredSize(tfHiraganaText.getPreferredSize());
 	}
 
 	public void setOtherText(String otherText) {
@@ -303,6 +304,6 @@ public class FlashResultFrame extends JFrame {
 	}
 
 	private void reFixSize() {
-		panelRightExample.setPreferredSize(new Dimension(this.getWidth() / 3, taSimilarKanji.getParent().getHeight()));
+		panelRightExample.setPreferredSize(new Dimension((int)(this.getWidth() / 2.5f), taSimilarKanji.getParent().getHeight()));
 	}
 }
