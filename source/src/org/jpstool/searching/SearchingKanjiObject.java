@@ -98,10 +98,15 @@ public class SearchingKanjiObject {
 		this.mapComponent = mapComponent;
 	}
 
+	
+
 	@Override
 	public String toString() {
-		return "SearchingKanjiObject [kanji=" + kanji + ", hanViet=" + hanViet + ", meaning=" + meaning + ", mapComponent=" + mapComponent + "]";
+		return "SearchingKanjiObject [kanji=" + kanji + ", hanViet=" + hanViet + ", meaning=" + meaning + ", on=" + on + ", kun=" + kun + ", mapComponent=" + mapComponent
+				+ ", listSimilarKanji=" + listSimilarKanji + ", listSentence=" + listSentence + "]";
 	}
+
+
 
 	public static class SentenceExample {
 		private String content;

@@ -94,7 +94,6 @@ public class RadicalAnalysing {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-
 	}
 
 	public WordItem getWordItem() {
@@ -104,6 +103,4 @@ public class RadicalAnalysing {
 	public void setWordItem(WordItem wordItem) {
 		this.wordItem = wordItem;
 	}
-
-
 }

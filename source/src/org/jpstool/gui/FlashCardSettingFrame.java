@@ -11,6 +11,7 @@ import java.awt.event.ActionListener;
 import java.io.File;
 import java.io.IOException;
 
+import javax.swing.Box;
 import javax.swing.BoxLayout;
 import javax.swing.ButtonGroup;
 import javax.swing.JButton;
@@ -65,6 +66,7 @@ public class FlashCardSettingFrame extends JFrame {
 	private JTextField tfSModeOldWord;
 
 	private JButton btnApply;
+	private JButton btnAddNewWords;
 
 	private LoopMechanic loop;
 	ProfileManangement pm;
@@ -162,7 +164,11 @@ public class FlashCardSettingFrame extends JFrame {
 		mainPanel.add(boxPn1KanjiFilePath);
 		mainPanel.add(boxPn2OptionsInterval);
 		mainPanel.add(boxPn3OptionsPickup);
-		mainPanel.add(btnApply = new JButton("Apply"));
+		
+		Box boxBtn = Box.createHorizontalBox();
+		boxBtn.add(btnApply = new JButton("Apply"));
+		boxBtn.add(btnAddNewWords = new JButton("Add new Words"));
+		mainPanel.add(boxBtn);
 	}
 
 	private void bindingAction() {
@@ -247,6 +253,13 @@ public class FlashCardSettingFrame extends JFrame {
 					e2.printStackTrace();
 					JOptionPane.showMessageDialog(null, e2.getMessage());
 				}
+			}
+		});
+		
+		btnAddNewWords.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				new FillListWordsFrame().setVisible(true);
 			}
 		});
 	}
