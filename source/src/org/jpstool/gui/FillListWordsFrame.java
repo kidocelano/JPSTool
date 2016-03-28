@@ -72,8 +72,8 @@ public class FillListWordsFrame extends JFrame {
 					continue;
 				}
 				SearchingKanjiObject searchingKanjiObj = lstKanji.get(0);
-				sbResult.append(String.format("%-20s %-20s %-100s %s", searchingKanjiObj.getKanji(), searchingKanjiObj.getHanViet(), searchingKanjiObj.getMeaning(),
-						searchingKanjiObj.getOn()));
+				sbResult.append(String.format("%s\t\t\t\t%s\t\t\t\t\t%s\t\t\t\t\t%s", searchingKanjiObj.getKanji().trim(), searchingKanjiObj.getHanViet().trim(),
+						searchingKanjiObj.getMeaning().trim(), searchingKanjiObj.getOn().trim()));
 				sbResult.append(strSeparator);
 
 			} catch (Exception e) {
